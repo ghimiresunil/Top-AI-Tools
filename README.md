@@ -1,5 +1,7 @@
 # Top AI Tools
 
+![Top AI Tools](https://user-images.githubusercontent.com/40186859/215270572-695f1548-68a4-4848-a261-aaac006e3a00.png)
+
 A comprehensive, community-curated directory that aims to catalog and showcase the most outstanding AI-powered products. This index is not exhaustive, but rather a compilation of our research and contributions from the community.
 
 ## Art & Creativity
