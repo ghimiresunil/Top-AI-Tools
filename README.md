@@ -75,7 +75,22 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 | Adept | useful general intelligence | [🔗](https://www.adept.ai/)|
 | AutoRegEx | AI based Text to Regex conversion | [🔗](https://www.autoregex.xyz)|
 
+## Search Engines & Tools
 
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| Ask Anything (by Perplexity)| combines large language models with search engines for question answering | [🔗](https://www.perplexity.ai/)|
+| Bird SQL (by Perplexity)| AI-powered search for the Twitter's social graph | [🔗](https://www.perplexity.ai/sql)|
+| Metaphor | a system to search the internet with large language models | [🔗](https://metaphor.systems/)|
+| Rewind | search engine for your life | [🔗](https://www.rewind.ai/)|
+| Tasmania | YouTube video search | [🔗](https://tasmania.sievedata.com/)|
+| You | AI powered search engine | [🔗](https://you.com/apps/discover)|
 
+## Research Tools
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| Consensus | AI powered search for research papers | [🔗](https://consensus.app/)|
+| Elicit | an AI research assistant | [🔗](https://elicit.org/|
+| Explainpaper | an AI research assistant | [🔗](https://www.explainpaper.com/|
 
 
