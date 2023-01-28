@@ -29,3 +29,16 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 |------ | ------------ | :----------: |
 | Interior AI | interior design mockups and virtual staging | [🔗](https://interiorai.com/)|
 | stockimg.ai  | AI-powered designs | [🔗](https://stockimg.ai/)|
+
+## Education
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| Anypod.ai | semantic search engine for YouTube and podcast content | [🔗](https://www.anypod.ai/)|
+| Ask Botta  | personal teaching assistant | [🔗](https://askbotta.com/)|
+| Podly.ai | summarized podcasts | [🔗](https://podly.ai/)|
+| Lorro  | Practice speaking English with an AI tutor | [🔗](https://lorro.io/)|
+| SlidesAI.io  | An AI Powered Text to Presentation Tool, Works with Google Slides | [🔗](https://slidesai.io)|
+| Flair  | AI design tool for branded content | [🔗](https://withflair.ai/)|
+
+
+
