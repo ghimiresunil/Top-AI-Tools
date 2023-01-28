@@ -90,7 +90,7 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Consensus | AI powered search for research papers | [🔗](https://consensus.app/)|
-| Elicit | an AI research assistant | [🔗](https://elicit.org/|
-| Explainpaper | an AI research assistant | [🔗](https://www.explainpaper.com/|
+| Elicit | an AI research assistant | [🔗](https://elicit.org/)|
+| Explainpaper | an AI research assistant | [🔗](https://www.explainpaper.com/)|
 
 
