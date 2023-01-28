@@ -23,3 +23,9 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 | ChatGPT (by OpenAI) | conversational AI system powered by large language models | [🔗](https://chat.openai.com/)|
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
 | Replika | an AI companion | [🔗](https://replika.ai/)|
+
+## Design
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| Interior AI | interior design mockups and virtual staging | [🔗](https://interiorai.com/)|
+| stockimg.ai  | AI-powered designs | [🔗](https://stockimg.ai/)|
