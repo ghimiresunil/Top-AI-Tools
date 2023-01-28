@@ -58,6 +58,14 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 | Scenario | creating AI-generated game assets | [🔗](https://www.scenario.gg/)|
 | Inworld AI | create any character you can imagine | [🔗](https://inworld.ai/)|
 
+## Sales/Marketing
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| copy.ai | AI content generator | [🔗](https://www.copy.ai/)|
+| Jasper | AI content creator | [🔗](https://www.jasper.ai/)|
+| Magic Summaries by Sybill | create automatic, accurate sales call summaries using AI | [🔗](https://www.sybill.ai/magic-summary)|
+| Peech | video content creator for content marketing | [🔗](https://www.peech-ai.com/)|
+
 
 
 
