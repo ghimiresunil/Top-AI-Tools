@@ -72,6 +72,7 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 ## Productivity
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| Lex | Web based AI writing tool | [🔗](https://lex.page/) |
 | Smart Write & Smart Edit (by Mem) | knowledge-aware AI writer | [🔗](https://get.mem.ai/)|
 | DraftLab | Gmail copilot | [🔗](https://draftlab.ai/)|
 | Adept | useful general intelligence | [🔗](https://www.adept.ai/)|
