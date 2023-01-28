@@ -50,6 +50,15 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 | Phind | LLM-powered search engine for developers and technical questions | [🔗](https://phind.com/)|
 | Promptable.ai | the ultimate workspace for prompt engineering | [🔗](https://promptable.ai/)|
 
+## Gaming, 3D, Motion
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| Imagine 3D (by Luma AI) | tool for prototyping 3D objects with text | [🔗](https://captures.lumalabs.ai/imagine)|
+| move.ai | AI-powered real-time motion capture | [🔗](https://www.move.ai/)|
+| Scenario | creating AI-generated game assets | [🔗](https://www.scenario.gg/)|
+| Inworld AI | create any character you can imagine | [🔗](https://inworld.ai/)|
+
+
 
 
 
