@@ -40,5 +40,19 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 | SlidesAI.io  | An AI Powered Text to Presentation Tool, Works with Google Slides | [🔗](https://slidesai.io)|
 | Flair  | AI design tool for branded content | [🔗](https://withflair.ai/)|
 
+## Developer
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| Chat Data Prep | data transformation using plain english | [🔗](https://www.akkio.com/chat-data-prep)|
+| Codeium | free AI powered code completion | [🔗](https://www.codeium.com/)|
+| Ghostwriter (by Replit) | AI pair programmer | [🔗](https://replit.com/site/ghostwriter)|
+| GitHub Copilot | an AI pair programmer | [🔗](https://github.com/features/copilot)|
+| Phind | LLM-powered search engine for developers and technical questions | [🔗](https://phind.com/)|
+| Promptable.ai | the ultimate workspace for prompt engineering | [🔗](https://promptable.ai/)|
+
+
+
+
+
 
 
