@@ -67,7 +67,13 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 | Peech | video content creator for content marketing | [🔗](https://www.peech-ai.com/)|
 
 
-
+## Productivity
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| Smart Write & Smart Edit (by Mem) | knowledge-aware AI writer | [🔗](https://get.mem.ai/)|
+| DraftLab | Gmail copilot | [🔗](https://draftlab.ai/)|
+| Adept | useful general intelligence | [🔗](https://www.adept.ai/)|
+| AutoRegEx | AI based Text to Regex conversion | [🔗](https://www.autoregex.xyz)|
 
 
 
