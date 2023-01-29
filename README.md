@@ -4,6 +4,12 @@
 
 A comprehensive, community-curated directory that aims to catalog and showcase the most outstanding AI-powered products. This index is not exhaustive, but rather a compilation of our research and contributions from the community.
 
+## Contributing
+
+* Please open a [PR](https://guides.github.com/activities/forking/) for list of top AI tools to be added
+* Use the format below
+
+
 ## Art & Creativity
 
 | Tools | Used for | Link |
