@@ -85,6 +85,7 @@ curated list of top AI Tools.
 ## Productivity
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| GPT for Sheets and Docs | integrate GPT in your everyday tools | [🔗](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) |
 | Lex | Web based AI writing tool | [🔗](https://lex.page/) |
 | Smart Write & Smart Edit (by Mem) | knowledge-aware AI writer | [🔗](https://get.mem.ai/)|
 | DraftLab | Gmail copilot | [🔗](https://draftlab.ai/)|
