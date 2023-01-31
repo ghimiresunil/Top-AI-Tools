@@ -64,6 +64,7 @@ curated list of top AI Tools.
 | GitHub Copilot | an AI pair programmer | [🔗](https://github.com/features/copilot)|
 | Phind | LLM-powered search engine for developers and technical questions | [🔗](https://phind.com/)|
 | Promptable.ai | the ultimate workspace for prompt engineering | [🔗](https://promptable.ai/)|
+| Suppress.js | Building or augmenting backend with AI | [🔗](https://github.com/velocitatem/suppress) |
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
