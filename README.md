@@ -76,6 +76,7 @@ curated list of top AI Tools.
 ## Sales/Marketing
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| Choppity.com | Instantly turn long podcast videos into short TikToks | [🔗](https://www.choppity.com/)|
 | copy.ai | AI content generator | [🔗](https://www.copy.ai/)|
 | Jasper | AI content creator | [🔗](https://www.jasper.ai/)|
 | Magic Summaries by Sybill | create automatic, accurate sales call summaries using AI | [🔗](https://www.sybill.ai/magic-summary)|
