@@ -116,4 +116,9 @@ curated list of top AI Tools.
 | Elicit | an AI research assistant | [🔗](https://elicit.org/)|
 | Explainpaper | an AI research assistant | [🔗](https://www.explainpaper.com/)|
 
+## Geospatial
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| Picterra | AI geospatial software platform for feature & change detection in satellite, drone, & aerial imagery | [🔗](https://picterra.ch/)|
+
 
