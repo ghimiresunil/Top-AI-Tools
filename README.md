@@ -31,6 +31,7 @@ curated list of top AI Tools.
 | Playground | search prompts for art generation | [🔗](https://playgroundai.com/)|
 | Synthesia | AI video creation platform | [🔗](https://www.synthesia.io/)|
 | Rytr | Automating the design process | [🔗](https://rytr.me/)|
+| Craiyon (Formerly DALL-E Mini) | Free online AI image generator from text| [🔗](https://www.craiyon.com/)|
 
 ## Conversational AI
 | Tools | Used for | Link |
@@ -97,6 +98,8 @@ curated list of top AI Tools.
 | DraftLab | Gmail copilot | [🔗](https://draftlab.ai/)|
 | Adept | useful general intelligence | [🔗](https://www.adept.ai/)|
 | AutoRegEx | AI based Text to Regex conversion | [🔗](https://www.autoregex.xyz)|
+| NotionAI | AI Writing tool | [🔗](https://www.notion.so/product/ai)| 
+
 
 ## Search Engines & Tools
 
