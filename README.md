@@ -30,6 +30,7 @@ curated list of top AI Tools.
 | Phraser | the collaborative creative AI tool | [🔗](https://phraser.tech)|
 | Playground | search prompts for art generation | [🔗](https://playgroundai.com/)|
 | Synthesia | AI video creation platform | [🔗](https://www.synthesia.io/)|
+| Rytr | Automating the design process | [🔗](https://rytr.me/)|
 
 ## Conversational AI
 | Tools | Used for | Link |
@@ -44,6 +45,10 @@ curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | Interior AI | interior design mockups and virtual staging | [🔗](https://interiorai.com/)|
 | stockimg.ai  | AI-powered designs | [🔗](https://stockimg.ai/)|
+| Brand Mark | Generating brand logos | [🔗](https://brandmark.io/)|
+| Magic Eraser | Removing unwanted elements from images | [🔗](https://www.magiceraser.io/)|
+| bigJPG | Increasing image resolution | [🔗](https://bigjpg.com/)|
+| Profile Pic Maker | Creating profile pictures | [🔗](https://pfpmaker.com/)|
 
 ## Education
 | Tools | Used for | Link |
@@ -77,11 +82,12 @@ curated list of top AI Tools.
 ## Sales/Marketing
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| Choppity.com | Instantly turn long podcast videos into short TikToks | [🔗](https://www.choppity.com/)|
 | copy.ai | AI content generator | [🔗](https://www.copy.ai/)|
 | Jasper | AI content creator | [🔗](https://www.jasper.ai/)|
 | Magic Summaries by Sybill | create automatic, accurate sales call summaries using AI | [🔗](https://www.sybill.ai/magic-summary)|
 | Peech | video content creator for content marketing | [🔗](https://www.peech-ai.com/)|
-
+| Headlines | Generating headlines for content marketing | [🔗](https://headlines.sharethrough.com/)|
 
 ## Productivity
 | Tools | Used for | Link |
