@@ -71,6 +71,7 @@ curated list of top AI Tools.
 | Phind | LLM-powered search engine for developers and technical questions | [🔗](https://phind.com/)|
 | Promptable.ai | the ultimate workspace for prompt engineering | [🔗](https://promptable.ai/)|
 | Suppress.js | Building or augmenting backend with AI | [🔗](https://github.com/velocitatem/suppress) |
+| Dystr | AI powered analysis / cloud runtime | [🔗](https://dystr.com)| 
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
@@ -100,7 +101,7 @@ curated list of top AI Tools.
 | Adept | useful general intelligence | [🔗](https://www.adept.ai/)|
 | AutoRegEx | AI based Text to Regex conversion | [🔗](https://www.autoregex.xyz)|
 | NotionAI | AI Writing tool | [🔗](https://www.notion.so/product/ai)| 
-
+| Dystr | AI powered analysis / cloud runtime | [🔗](https://dystr.com)| 
 
 ## Search Engines & Tools
 
