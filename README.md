@@ -52,6 +52,11 @@ curated list of top AI Tools.
 | bigJPG | Increasing image resolution | [🔗](https://bigjpg.com/)|
 | Profile Pic Maker | Creating profile pictures | [🔗](https://pfpmaker.com/)|
 
+## E-commerce
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| Lootgod.com | generative ai apparel using print-on-demand | [🔗](https://www.lootgod.com/)|
+
 ## Education
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
