@@ -120,6 +120,7 @@ curated list of top AI Tools.
 | Rewind | search engine for your life | [🔗](https://www.rewind.ai/)|
 | Tasmania | YouTube video search | [🔗](https://tasmania.sievedata.com/)|
 | You | AI powered search engine | [🔗](https://you.com/apps/discover)|
+| muse.ai | video content search and conversational assistant | [🔗](https://muse.ai/) |
 
 ## Research Tools
 | Tools | Used for | Link |
