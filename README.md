@@ -51,6 +51,8 @@ curated list of top AI Tools.
 | Magic Eraser | Removing unwanted elements from images | [🔗](https://www.magiceraser.io/)|
 | bigJPG | Increasing image resolution | [🔗](https://bigjpg.com/)|
 | Profile Pic Maker | Creating profile pictures | [🔗](https://pfpmaker.com/)|
+| Musicfy | Create AI covers of your favorite songs in seconds | [🔗](https://www.musicfy.lol/)
+
 
 ## E-commerce
 | Tools | Used for | Link |
