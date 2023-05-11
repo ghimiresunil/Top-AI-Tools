@@ -136,6 +136,3 @@ curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Picterra | AI geospatial software platform for feature & change detection in satellite, drone, & aerial imagery | [🔗](https://picterra.ch/)|
-
-Source: https://graspcoding.com/discover-the-future-a-curated-index-for-the-best-ai-powered-products/
-
