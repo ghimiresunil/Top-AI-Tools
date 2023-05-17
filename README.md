@@ -112,6 +112,7 @@ curated list of top AI Tools.
 | AutoRegEx | AI based Text to Regex conversion | [🔗](https://www.autoregex.xyz)|
 | NotionAI | AI Writing tool | [🔗](https://www.notion.so/product/ai)| 
 | Dystr | AI powered analysis / cloud runtime | [🔗](https://dystr.com)| 
+| Plus AI for Google Slides | Create AI-powered presentations in Google Slides | [🔗](https://www.plusdocs.com/plus-ai-for-google-slides)| 
 
 ## Search Engines & Tools
 
