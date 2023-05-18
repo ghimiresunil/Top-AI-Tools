@@ -137,3 +137,12 @@ curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Picterra | AI geospatial software platform for feature & change detection in satellite, drone, & aerial imagery | [🔗](https://picterra.ch/)|
+
+
+## Contributors 😍
+
+Many thanks to these AI whisperers:
+
+<a href="https://github.com/ghimiresunil/Top-AI-Tools/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ghimiresunil/Top-AI-Tools" />
+</a>
