@@ -118,6 +118,7 @@ curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| GoodListen | Find your next Podcast with the help of AI. AI-driven audio comprehension app | [🔗](https://goodlisten.co/)|
 | Ask Anything (by Perplexity)| combines large language models with search engines for question answering | [🔗](https://www.perplexity.ai/)|
 | Bird SQL (by Perplexity)| AI-powered search for the Twitter's social graph | [🔗](https://www.perplexity.ai/sql)|
 | Metaphor | a system to search the internet with large language models | [🔗](https://metaphor.systems/)|
