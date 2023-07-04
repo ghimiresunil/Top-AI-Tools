@@ -83,6 +83,7 @@ curated list of top AI Tools.
 | Suppress.js | Building or augmenting backend with AI | [🔗](https://github.com/velocitatem/suppress) |
 | Dystr | AI powered analysis / cloud runtime | [🔗](https://dystr.com)| 
 | GitPoet | Git commit message generator (based on your changes) with a VSCode extension | [🔗](https://www.gitpoet.dev/)| 
+|AskCommand|Generate Unix commands from text automatically|[🔗](https://www.askcommand.cppexpert.online/)|
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
