@@ -60,6 +60,11 @@ curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | Lootgod.com | generative ai apparel using print-on-demand | [🔗](https://www.lootgod.com/)|
 
+## Finance
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| morpher.com | Morpher AI is a comprehensive tool for financial market analysis that acts as your personal investment analyst. | [🔗](https://www.morpher.com/ai)|
+
 ## Education
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
