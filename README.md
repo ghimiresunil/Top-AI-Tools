@@ -142,6 +142,7 @@ curated list of top AI Tools.
 | Consensus | AI powered search for research papers | [🔗](https://consensus.app/)|
 | Elicit | an AI research assistant | [🔗](https://elicit.org/)|
 | Explainpaper | an AI research assistant | [🔗](https://www.explainpaper.com/)|
+| Expontum | AI generated research knowledge gaps| [🔗](https://www.expontum.com/)|
 
 ## Geospatial
 | Tools | Used for | Link |
