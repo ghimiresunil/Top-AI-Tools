@@ -33,6 +33,7 @@ curated list of top AI Tools.
 | Rytr | Automating the design process | [🔗](https://rytr.me/)|
 | Craiyon (Formerly DALL-E Mini) | Free online AI image generator from text| [🔗](https://www.craiyon.com/)|
 | IRIS Clarity Studio | AI powered online tool for voice isolation/noise cancellation | [🔗](https://studio.iris.audio/)
+| Let's Enhance | Image enhancer & upscaler without losing quality| [🔗](https://letsenhance.io/) |
 
 ## Conversational AI
 | Tools | Used for | Link |
