@@ -74,6 +74,7 @@ curated list of top AI Tools.
 | Lorro  | Practice speaking English with an AI tutor | [🔗](https://lorro.io/)|
 | SlidesAI.io  | An AI Powered Text to Presentation Tool, Works with Google Slides | [🔗](https://slidesai.io)|
 | Flair  | AI design tool for branded content | [🔗](https://withflair.ai/)|
+| Twee  | A.I. Powered Tools For English Teachers | [🔗](https://twee.com)|
 | Wilco Sierra  | A platform that generates engineering challenges for software engineers using AI | [🔗](https://trywilco.com/sierra)|
 
 ## Developer
