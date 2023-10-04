@@ -34,6 +34,7 @@ curated list of top AI Tools.
 | Craiyon (Formerly DALL-E Mini) | Free online AI image generator from text| [🔗](https://www.craiyon.com/)|
 | IRIS Clarity Studio | AI powered online tool for voice isolation/noise cancellation | [🔗](https://studio.iris.audio/)
 | Human Generator | AI powered generator of people | [🔗](https://generated.photos/human-generator)
+| Let's Enhance | Image enhancer & upscaler without losing quality| [🔗](https://letsenhance.io/) |
 
 ## Conversational AI
 | Tools | Used for | Link |
@@ -75,6 +76,7 @@ curated list of top AI Tools.
 | Lorro  | Practice speaking English with an AI tutor | [🔗](https://lorro.io/)|
 | SlidesAI.io  | An AI Powered Text to Presentation Tool, Works with Google Slides | [🔗](https://slidesai.io)|
 | Flair  | AI design tool for branded content | [🔗](https://withflair.ai/)|
+| Twee  | A.I. Powered Tools For English Teachers | [🔗](https://twee.com)|
 | Wilco Sierra  | A platform that generates engineering challenges for software engineers using AI | [🔗](https://trywilco.com/sierra)|
 
 ## Developer
@@ -84,6 +86,7 @@ curated list of top AI Tools.
 | Codeium | free AI powered code completion | [🔗](https://www.codeium.com/)|
 | Ghostwriter (by Replit) | AI pair programmer | [🔗](https://replit.com/site/ghostwriter)|
 | GitHub Copilot | an AI pair programmer | [🔗](https://github.com/features/copilot)|
+| Keploy | Open source Tool for converting user-traffic to Test Cases and Data Stubs | [🔗](https://keploy.io)|
 | Liner.ai | Creates classification models from your data | [🔗](https://liner.ai/)|
 | Phind | LLM-powered search engine for developers and technical questions | [🔗](https://phind.com/)|
 | Promptable.ai | the ultimate workspace for prompt engineering | [🔗](https://promptable.ai/)|
