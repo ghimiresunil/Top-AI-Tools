@@ -35,6 +35,8 @@ curated list of top AI Tools.
 | IRIS Clarity Studio | AI powered online tool for voice isolation/noise cancellation | [🔗](https://studio.iris.audio/)
 | Human Generator | AI powered generator of people | [🔗](https://generated.photos/human-generator)
 | Let's Enhance | Image enhancer & upscaler without losing quality| [🔗](https://letsenhance.io/) |
+| The Multiverse AI | Turn your selfies into professional headshots| [🔗]((https://themultiverse.ai/)) |
+
 
 ## Conversational AI
 | Tools | Used for | Link |
