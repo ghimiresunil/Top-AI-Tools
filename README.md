@@ -128,6 +128,7 @@ curated list of top AI Tools.
 | Podwise | The premier AI learning app for Podcast Listeners | [🔗](https://podwise.xyz) |
 | guidde | Magically create video documentation with AI | [🔗](https://www.guidde.com)| 
 | Kolega | AI powered employees for Slack and Teams | [🔗](https://kolega.ai)|
+| AI Character for GPT | Free Chrome extension providing one click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses. | [🔗]([https://kolega.ai](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh))|
 
 ## Search Engines & Tools
 
