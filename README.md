@@ -96,6 +96,7 @@ curated list of top AI Tools.
 | Dystr | AI powered analysis / cloud runtime | [🔗](https://dystr.com)| 
 | GitPoet | Git commit message generator (based on your changes) with a VSCode extension | [🔗](https://www.gitpoet.dev/)| 
 |AskCommand|Generate Unix commands from text automatically|[🔗](https://www.askcommand.cppexpert.online/)|
+| Shotstack Workflows | No-code, automation workflow tool for building Generative AI media applications |[🔗](https://shotstack.io/product/workflows/)|
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
