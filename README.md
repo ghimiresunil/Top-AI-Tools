@@ -36,7 +36,7 @@ curated list of top AI Tools.
 | Human Generator | AI powered generator of people | [🔗](https://generated.photos/human-generator)
 | Let's Enhance | Image enhancer & upscaler without losing quality| [🔗](https://letsenhance.io/) |
 | The Multiverse AI | Turn your selfies into professional headshots| [🔗]((https://themultiverse.ai/)) |
-
+| StockPhotoAI.net | Great stock photos, made for you. | [🔗](https://www.stockphotoai.net/?ref=Top-AI-Tools) | 
 
 ## Conversational AI
 | Tools | Used for | Link |
@@ -115,6 +115,7 @@ curated list of top AI Tools.
 | Magic Summaries by Sybill | create automatic, accurate sales call summaries using AI | [🔗](https://www.sybill.ai/magic-summary)|
 | Peech | video content creator for content marketing | [🔗](https://www.peech-ai.com/)|
 | Headlines | Generating headlines for content marketing | [🔗](https://headlines.sharethrough.com/)|
+| PressPulse AI | Get personalized media coverage leads every morning. | [🔗](https://www.presspulse.ai/?ref=Top-AI-Tools) |
 
 ## Productivity
 | Tools | Used for | Link |
@@ -132,6 +133,8 @@ curated list of top AI Tools.
 | guidde | Magically create video documentation with AI | [🔗](https://www.guidde.com)| 
 | Kolega | AI powered employees for Slack and Teams | [🔗](https://kolega.ai)|
 | AI Character for GPT | Free Chrome extension providing one click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses. | [🔗]([https://kolega.ai](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh))|
+| Elephas | Personal AI writing assistant for the Mac. | [🔗](https://elephas.app/?ref=Top-AI-Tools) |
+| Lemmy | Autonomous AI Assistant for Work. | [🔗](https://lemmy.co/?ref=Top-AI-Tools) |
 
 ## Search Engines & Tools
 
@@ -153,11 +156,24 @@ curated list of top AI Tools.
 | Elicit | an AI research assistant | [🔗](https://elicit.org/)|
 | Explainpaper | an AI research assistant | [🔗](https://www.explainpaper.com/)|
 | Expontum | AI generated research knowledge gaps| [🔗](https://www.expontum.com/)|
+| GummySearch | AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | [🔗](https://gummysearch.com/?ref=Top-AI-Tools) |
 
 ## Geospatial
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Picterra | AI geospatial software platform for feature & change detection in satellite, drone, & aerial imagery | [🔗](https://picterra.ch/)|
+
+## Customer Support
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| SiteGPT | Make AI your expert customer support agent. | [🔗](https://sitegpt.ai/?ref=Top-AI-Tools) |
+| GPTHelp.ai | ChatGPT for your website / AI customer support chatbot. | [🔗](https://gpthelp.ai/?ref=Top-AI-Tools) |
+
+## Others
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| Never Jobless LinkedIn Message Generator | Maximize Your Interview Chances with AI-Powered LinkedIn Messaging. | [🔗](https://neverjobless.com/?ref=Top-AI-Tools) |
+| Aispect | New way to experience events. | [🔗](https://aispect.io/?ref=Top-AI-Tools) |
 
 
 ## Contributors 😍
