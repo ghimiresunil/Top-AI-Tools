@@ -135,6 +135,7 @@ curated list of top AI Tools.
 | AI Character for GPT | Free Chrome extension providing one click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses. | [🔗]([https://kolega.ai](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh))|
 | Elephas | Personal AI writing assistant for the Mac. | [🔗](https://elephas.app/?ref=Top-AI-Tools) |
 | Lemmy | Autonomous AI Assistant for Work. | [🔗](https://lemmy.co/?ref=Top-AI-Tools) |
+| Google Sheets Formula Generator | Forget about frustrating formulas in Google Sheets. | [🔗](https://bettersheets.co/google-sheets-formula-generator?ref=Top-AI-Tools) |
 
 ## Search Engines & Tools
 
