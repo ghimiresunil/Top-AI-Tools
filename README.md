@@ -116,6 +116,7 @@ curated list of top AI Tools.
 | Peech | video content creator for content marketing | [🔗](https://www.peech-ai.com/)|
 | Headlines | Generating headlines for content marketing | [🔗](https://headlines.sharethrough.com/)|
 | PressPulse AI | Get personalized media coverage leads every morning. | [🔗](https://www.presspulse.ai/?ref=Top-AI-Tools) |
+| Taplio | The all-in-one, AI-powered LinkedIn tool. | [🔗](https://taplio.com/?ref=Top-AI-Tools) |
 
 ## Productivity
 | Tools | Used for | Link |
