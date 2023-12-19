@@ -80,6 +80,7 @@ curated list of top AI Tools.
 | Flair  | AI design tool for branded content | [🔗](https://withflair.ai/)|
 | Twee  | A.I. Powered Tools For English Teachers | [🔗](https://twee.com)|
 | Wilco Sierra  | A platform that generates engineering challenges for software engineers using AI | [🔗](https://trywilco.com/sierra)|
+| Yomu | AI writing assistant for students and academics |  [🔗](https://www.yomu.ai) |
 
 ## Developer
 | Tools | Used for | Link |
