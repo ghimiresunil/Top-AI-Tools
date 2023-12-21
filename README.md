@@ -81,6 +81,7 @@ curated list of top AI Tools.
 | Twee  | A.I. Powered Tools For English Teachers | [🔗](https://twee.com)|
 | Wilco Sierra  | A platform that generates engineering challenges for software engineers using AI | [🔗](https://trywilco.com/sierra)|
 | Yomu | AI writing assistant for students and academics |  [🔗](https://www.yomu.ai) |
+| PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
 
 ## Developer
 | Tools | Used for | Link |
