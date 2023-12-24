@@ -46,6 +46,7 @@ curated list of top AI Tools.
 | Bard (by Google) | conversational AI chat service from Google that can access and process information from the web | [🔗](https://bard.google.com/)|
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
 | Replika | an AI companion | [🔗](https://replika.ai/)|
+| AICamp | ChatGPT for Teams | [🔗](https://aicamp.so/)
 
 ## Design
 | Tools | Used for | Link |
