@@ -58,7 +58,7 @@ curated list of top AI Tools.
 | bigJPG | Increasing image resolution | [🔗](https://bigjpg.com/)|
 | Profile Pic Maker | Creating profile pictures | [🔗](https://pfpmaker.com/)|
 | Musicfy | Create AI covers of your favorite songs in seconds | [🔗](https://www.musicfy.lol/)
-
+| Room Reinvented | Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today. | [🔗](https://roomreinvented.com)
 
 ## E-commerce
 | Tools | Used for | Link |
