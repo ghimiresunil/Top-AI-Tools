@@ -37,6 +37,7 @@ curated list of top AI Tools.
 | Let's Enhance | Image enhancer & upscaler without losing quality| [🔗](https://letsenhance.io/) |
 | The Multiverse AI | Turn your selfies into professional headshots| [🔗]((https://themultiverse.ai/)) |
 | StockPhotoAI.net | Great stock photos, made for you. | [🔗](https://www.stockphotoai.net/?ref=Top-AI-Tools) | 
+| FairyTailAI | Personalized bedtime story generator | [🔗](https://fairytailai.com/) |
 
 ## Conversational AI
 | Tools | Used for | Link |
