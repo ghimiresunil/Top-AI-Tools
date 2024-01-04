@@ -84,6 +84,7 @@ curated list of top AI Tools.
 | Wilco Sierra  | A platform that generates engineering challenges for software engineers using AI | [🔗](https://trywilco.com/sierra)|
 | Yomu | AI writing assistant for students and academics |  [🔗](https://www.yomu.ai) |
 | PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
+| Sourcely | Academic Citation Finding Tool with AI | [🔗](https://www.sourcely.net/) |
 
 ## Developer
 | Tools | Used for | Link |
