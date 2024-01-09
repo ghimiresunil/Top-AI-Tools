@@ -175,6 +175,7 @@ curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | SiteGPT | Make AI your expert customer support agent. | [🔗](https://sitegpt.ai/?ref=Top-AI-Tools) |
 | GPTHelp.ai | ChatGPT for your website / AI customer support chatbot. | [🔗](https://gpthelp.ai/?ref=Top-AI-Tools) |
+| SiteSpeakAI | Automate your customer support with AI | [🔗](https://sitespeak.ai) |
 
 ## Others
 | Tools | Used for | Link |
