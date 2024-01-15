@@ -38,7 +38,7 @@ curated list of top AI Tools.
 | The Multiverse AI | Turn your selfies into professional headshots| [🔗]((https://themultiverse.ai/)) |
 | StockPhotoAI.net | Great stock photos, made for you. | [🔗](https://www.stockphotoai.net/?ref=Top-AI-Tools) | 
 | FairyTailAI | Personalized bedtime story generator | [🔗](https://fairytailai.com/) |
-| eBank | eBank is a AI Art Generator and AI Art Search Engine where you can search millions of community AI Artworks. |   [Link](https://eBank.nz)    |
+| eBank | eBank is a AI Art Generator and AI Art Search Engine where you can search millions of community AI Artworks. |   [🔗](https://eBank.nz)    |
 
 ## Conversational AI
 | Tools | Used for | Link |
