@@ -38,6 +38,7 @@ curated list of top AI Tools.
 | The Multiverse AI | Turn your selfies into professional headshots| [🔗]((https://themultiverse.ai/)) |
 | StockPhotoAI.net | Great stock photos, made for you. | [🔗](https://www.stockphotoai.net/?ref=Top-AI-Tools) | 
 | FairyTailAI | Personalized bedtime story generator | [🔗](https://fairytailai.com/) |
+| eBank | eBank is a AI Art Generator and AI Art Search Engine where you can search millions of community AI Artworks. |   [Link](https://eBank.nz)    |
 
 ## Conversational AI
 | Tools | Used for | Link |
@@ -48,6 +49,7 @@ curated list of top AI Tools.
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
 | Replika | an AI companion | [🔗](https://replika.ai/)|
 | AICamp | ChatGPT for Teams | [🔗](https://aicamp.so/)
+| Netwrck | AI Character Chat Social Network, saying "Appears" makes the AI make Art. | [🔗](https://netwrck.com/)|
 
 ## Design
 | Tools | Used for | Link |
@@ -102,6 +104,7 @@ curated list of top AI Tools.
 | GitPoet | Git commit message generator (based on your changes) with a VSCode extension | [🔗](https://www.gitpoet.dev/)| 
 |AskCommand|Generate Unix commands from text automatically|[🔗](https://www.askcommand.cppexpert.online/)|
 | Shotstack Workflows | No-code, automation workflow tool for building Generative AI media applications |[🔗](https://shotstack.io/product/workflows/)|
+| text-generator.io AI Text Generator | Open Source Vision language models and web crawlers to understand any links in prompts given. API for developers and special support for AI autocomplete. | [🔗](https://text-generator.io) |
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
