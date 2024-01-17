@@ -147,6 +147,7 @@ curated list of top AI Tools.
 | Lemmy | Autonomous AI Assistant for Work. | [🔗](https://lemmy.co/?ref=Top-AI-Tools) |
 | Google Sheets Formula Generator | Forget about frustrating formulas in Google Sheets. | [🔗](https://bettersheets.co/google-sheets-formula-generator?ref=Top-AI-Tools) |
 | CreateEasily | Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB. | [🔗](https://createeasily.com/?ref=Top-AI-Tools) |
+| aiPDF | The most advanced AI document assistant | [🔗](https://aipdf.ai) |
 
 ## Search Engines & Tools
 
