@@ -105,6 +105,7 @@ curated list of top AI Tools.
 |AskCommand|Generate Unix commands from text automatically|[🔗](https://www.askcommand.cppexpert.online/)|
 | Shotstack Workflows | No-code, automation workflow tool for building Generative AI media applications |[🔗](https://shotstack.io/product/workflows/)|
 | text-generator.io AI Text Generator | Open Source Vision language models and web crawlers to understand any links in prompts given. API for developers and special support for AI autocomplete. | [🔗](https://text-generator.io) |
+| Marblism | Generate a SaaS boilerplate from a prompt | [🔗](https://marblism.com) |
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
