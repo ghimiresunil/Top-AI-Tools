@@ -50,6 +50,8 @@ curated list of top AI Tools.
 | Replika | an AI companion | [🔗](https://replika.ai/)|
 | AICamp | ChatGPT for Teams | [🔗](https://aicamp.so/)
 | Netwrck | AI Character Chat Social Network, saying "Appears" makes the AI make Art. | [🔗](https://netwrck.com/)|
+| Claude | Talk to Claude, an AI assistant from Anthropic.. | [🔗](https://claude.ai/)|
+
 
 ## Design
 | Tools | Used for | Link |
