@@ -153,6 +153,7 @@ curated list of top AI Tools.
 | Google Sheets Formula Generator | Forget about frustrating formulas in Google Sheets. | [🔗](https://bettersheets.co/google-sheets-formula-generator?ref=Top-AI-Tools) |
 | CreateEasily | Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB. | [🔗](https://createeasily.com/?ref=Top-AI-Tools) |
 | aiPDF | The most advanced AI document assistant | [🔗](https://aipdf.ai) |
+| Myriad | Build and fine-tune AI content prompts for writing anything, from long-form posts to ads and emails, by mixing and matching rules. | [🔗](https://www.namepepper.com/free-tools/ai-content-prompt-tool) |
 
 ## Search Engines & Tools
 
