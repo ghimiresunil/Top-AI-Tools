@@ -192,6 +192,12 @@ curated list of top AI Tools.
 | SiteSpeakAI | Automate your customer support with AI | [🔗](https://sitespeak.ai) |
 | Dear AI | Supercharge Customer Services and boost sales with AI Chatbot | [🔗](https://www.dearai.online) |
 
+## Phone Calls
+curated list of top AI Tools.
+| Tools | Used For | Link |
+|------ | ------------ | :----------: |
+| AICaller.io | AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial. | [🔗](https://aicaller.io/?ref=v) |
+
 ## Others
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
