@@ -157,6 +157,7 @@ curated list of top AI Tools.
 | CreateEasily | Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB. | [🔗](https://createeasily.com/?ref=Top-AI-Tools) |
 | aiPDF | The most advanced AI document assistant | [🔗](https://aipdf.ai) |
 | Myriad | Build and fine-tune AI content prompts for writing anything, from long-form posts to ads and emails, by mixing and matching rules. | [🔗](https://www.namepepper.com/free-tools/ai-content-prompt-tool) |
+| Chatpdf.so | Chatpdf.so is an AI based chat tool designed to chat with PDF. | [🔗](https://chatpdf.so) |
 
 ## Search Engines & Tools
 
