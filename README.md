@@ -39,6 +39,7 @@ curated list of top AI Tools.
 | StockPhotoAI.net | Great stock photos, made for you. | [🔗](https://www.stockphotoai.net/?ref=Top-AI-Tools) | 
 | FairyTailAI | Personalized bedtime story generator | [🔗](https://fairytailai.com/) |
 | eBank | eBank is a AI Art Generator and AI Art Search Engine where you can search millions of community AI Artworks. |   [🔗](https://eBank.nz)    |
+| Architecture Helper | Analyze any building architecture, and generate your own custom styles, in seconds. | [🔗](https://architecturehelper.com) |
 
 ## Conversational AI
 | Tools | Used for | Link |
