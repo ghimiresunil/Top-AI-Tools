@@ -133,6 +133,7 @@ curated list of top AI Tools.
 | Clipwing | A tool for cutting long videos into dozens of short clips. | [🔗](https://clipwing.pro/) |
 | Recast Studio | AI-powered podcast marketing assistant | [🔗](https://recast.studio) |
 | LinkActions | AI Internal Links Assistant | [🔗](https://linkactions.com) |
+| TrollyAI | Create professional SEO articles, 2x faster | [🔗](https://trolly.ai/) |
 
 
 ## Productivity
@@ -207,6 +208,7 @@ curated list of top AI Tools.
 | Never Jobless LinkedIn Message Generator | Maximize Your Interview Chances with AI-Powered LinkedIn Messaging. | [🔗](https://neverjobless.com/?ref=Top-AI-Tools) |
 | Aispect | New way to experience events. | [🔗](https://aispect.io/?ref=Top-AI-Tools) |
 | PromptPal | Search for prompts and bots, then use them with your favourite AI. All in one place. |  [🔗](https://promptpal.net) |
+| WebscrapeAI | Scrape any website without code using AI | [🔗](https://webscrapeai.com/) |
 
 ## Contributors 😍
 
