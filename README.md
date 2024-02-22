@@ -207,6 +207,7 @@ curated list of top AI Tools.
 | Never Jobless LinkedIn Message Generator | Maximize Your Interview Chances with AI-Powered LinkedIn Messaging. | [🔗](https://neverjobless.com/?ref=Top-AI-Tools) |
 | Aispect | New way to experience events. | [🔗](https://aispect.io/?ref=Top-AI-Tools) |
 | PromptPal | Search for prompts and bots, then use them with your favourite AI. All in one place. |  [🔗](https://promptpal.net) |
+| WebscrapeAI | Scrape any website without code using AI | [🔗](https://webscrapeai.com/) |
 
 ## Contributors 😍
 
