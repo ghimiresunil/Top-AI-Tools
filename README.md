@@ -133,6 +133,7 @@ curated list of top AI Tools.
 | Clipwing | A tool for cutting long videos into dozens of short clips. | [🔗](https://clipwing.pro/) |
 | Recast Studio | AI-powered podcast marketing assistant | [🔗](https://recast.studio) |
 | LinkActions | AI Internal Links Assistant | [🔗](https://linkactions.com) |
+| TrollyAI | Create professional SEO articles, 2x faster | [🔗](https://trolly.ai/) |
 
 
 ## Productivity
