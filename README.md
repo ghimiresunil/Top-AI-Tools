@@ -134,6 +134,7 @@ curated list of top AI Tools.
 | Recast Studio | AI-powered podcast marketing assistant | [🔗](https://recast.studio) |
 | LinkActions | AI Internal Links Assistant | [🔗](https://linkactions.com) |
 | TrollyAI | Create professional SEO articles, 2x faster | [🔗](https://trolly.ai/) |
+| SEOByAI | Rank Faster on Google with FREE AI SEO Tools | [🔗](https://seoby.ai) |
 
 
 ## Productivity
