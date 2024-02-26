@@ -199,6 +199,7 @@ curated list of top AI Tools.
 | GPTHelp.ai | ChatGPT for your website / AI customer support chatbot. | [🔗](https://gpthelp.ai/?ref=Top-AI-Tools) |
 | SiteSpeakAI | Automate your customer support with AI | [🔗](https://sitespeak.ai) |
 | Dear AI | Supercharge Customer Services and boost sales with AI Chatbot | [🔗](https://www.dearai.online) |
+| Inline Help | Answer customer questions before they ask | [🔗](https://inlinehelp.com) |
 
 ## Phone Calls
 | Tools | Used For | Link |
