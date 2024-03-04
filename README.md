@@ -214,6 +214,7 @@ curated list of top AI Tools.
 | PromptPal | Search for prompts and bots, then use them with your favourite AI. All in one place. |  [🔗](https://promptpal.net) |
 | WebscrapeAI | Scrape any website without code using AI | [🔗](https://webscrapeai.com/) |
 | Interviews Chat | Your Personal Interview Prep & Copilot | [🔗](https://www.interviews.chat/) |
+| scale.jobs | Hire a Human Career Assistant for your Job Hunt | [🔗](https://www.scale.jobs/) |
 
 ## Contributors 😍
 
