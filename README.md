@@ -137,7 +137,7 @@ curated list of top AI Tools.
 | TrollyAI | Create professional SEO articles, 2x faster | [🔗](https://trolly.ai/) |
 | SEOByAI | Rank Faster on Google with FREE AI SEO Tools | [🔗](https://seoby.ai) |
 | Dittto.ai | Fix your hero copy with an AI trained on top SaaS websites. | [🔗](https://dittto.ai) |
-
+| Persuva | Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale. | [🔗](https://persuva.ai) |
 
 ## Productivity
 | Tools | Used for | Link |
