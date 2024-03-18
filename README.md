@@ -112,6 +112,7 @@ curated list of top AI Tools.
 | Code to Flow | Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly. | [🔗](https://codetoflow.com) |
 | SinglebaseCloud | AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development. | [🔗](https://singlebase.cloud) |
 | Interview Solver | Ace your live coding interviews with our AI Copilot | [🔗](https://interviewsolver.com) |
+| Floom | AI gateway and marketplace for developers, enables streamlined integration of AI features into products | [🔗](https://floom.ai) |
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
