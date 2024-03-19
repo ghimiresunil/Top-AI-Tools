@@ -90,6 +90,7 @@ curated list of top AI Tools.
 | Yomu | AI writing assistant for students and academics |  [🔗](https://www.yomu.ai) |
 | PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
 | Sourcely | Academic Citation Finding Tool with AI | [🔗](https://www.sourcely.net/) |
+| LangMagic | Learn languages from native content. | [🔗](https://easytolearn.io) |
 
 ## Developer
 | Tools | Used for | Link |
