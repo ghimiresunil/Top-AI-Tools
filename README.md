@@ -220,6 +220,7 @@ curated list of top AI Tools.
 | Interviews Chat | Your Personal Interview Prep & Copilot | [🔗](https://www.interviews.chat/) |
 | scale.jobs | Hire a Human Career Assistant for your Job Hunt | [🔗](https://www.scale.jobs/) |
 | AI Wedding Toast | Generate a personalized wedding speech with AI | [🔗](https://aiweddingtoast.com) |
+| Taskbase | Virtual assistants packaged with AI powered software. | [🔗](https://www.taskbase.co.uk) |
 
 ## Contributors 😍
 
