@@ -225,6 +225,7 @@ curated list of top AI Tools.
 | Taskbase | Virtual assistants packaged with AI powered software. | [🔗](https://www.taskbase.co.uk) |
 | fynk | AI powered contract management software | [🔗](https://fynk.com/) |
 | LooksMax AI | Find out how hot you are using AI | [🔗](https://looksmax.ai) |
+| STRProfitMap | Data analytics Saas for airbnb investors. | [🔗](https://www.strprofitmap.com) |
 
 ## Contributors 😍
 
