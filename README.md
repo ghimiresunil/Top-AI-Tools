@@ -92,6 +92,7 @@ curated list of top AI Tools.
 | PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
 | Sourcely | Academic Citation Finding Tool with AI | [🔗](https://www.sourcely.net/) |
 | LangMagic | Learn languages from native content. | [🔗](https://easytolearn.io) |
+| Auto Streamer | Learn & teach anything on demand. Create course websites in minutes. | [🔗](https://www.autostreamer.live/) |
 
 ## Developer
 | Tools | Used for | Link |
