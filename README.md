@@ -93,6 +93,7 @@ curated list of top AI Tools.
 | Sourcely | Academic Citation Finding Tool with AI | [🔗](https://www.sourcely.net/) |
 | LangMagic | Learn languages from native content. | [🔗](https://easytolearn.io) |
 | Auto Streamer | Learn & teach anything on demand. Create course websites in minutes. | [🔗](https://www.autostreamer.live/) |
+| SopCreator | Create your Statement of Purpose with AI | [🔗](https://www.sopcreator.com) |
 
 ## Developer
 | Tools | Used for | Link |
