@@ -210,6 +210,7 @@ curated list of top AI Tools.
 | SiteSpeakAI | Automate your customer support with AI | [🔗](https://sitespeak.ai) |
 | Dear AI | Supercharge Customer Services and boost sales with AI Chatbot | [🔗](https://www.dearai.online) |
 | Inline Help | Answer customer questions before they ask | [🔗](https://inlinehelp.com) |
+| Chat Thing | Make AI chatbots in minutes | [🔗](https://chatthing.ai) |
 
 ## Phone Calls
 | Tools | Used For | Link |
