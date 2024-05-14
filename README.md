@@ -234,6 +234,7 @@ curated list of top AI Tools.
 | LooksMax AI | Find out how hot you are using AI | [🔗](https://looksmax.ai) |
 | STRProfitMap | Data analytics Saas for airbnb investors. | [🔗](https://www.strprofitmap.com) |
 | Glowup AI | Find out what pretty you are | [🔗](https://glowup.fm) |
+| MyLooks.AI | Find out how hot you are & become hotter! | [🔗](https://mylooks.ai) |
 
 ## Contributors 😍
 
