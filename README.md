@@ -95,6 +95,7 @@ curated list of top AI Tools.
 | LangMagic | Learn languages from native content. | [🔗](https://easytolearn.io) |
 | Auto Streamer | Learn & teach anything on demand. Create course websites in minutes. | [🔗](https://www.autostreamer.live/) |
 | SopCreator | Create your Statement of Purpose with AI | [🔗](https://www.sopcreator.com) |
+| MathSolver | Use AI to solve math problems and study | [🔗](https://www.mathsolver.top/) |
 
 ## Developer
 | Tools | Used for | Link |
