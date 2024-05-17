@@ -149,6 +149,7 @@ curated list of top AI Tools.
 | Persuva | Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale. | [🔗](https://persuva.ai) |
 | Jack AI | AI Marketing Copywriter tool | [🔗](https://www.usejackai.com) |
 | CopyTruck | AI tool to organically grow on LinkedIn | [🔗](https://www.copytruck.com) |
+| markero | marketing made easy! | [🔗](https://markero.com/) |
 
 ## Productivity
 | Tools | Used for | Link |
