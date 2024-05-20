@@ -150,6 +150,7 @@ curated list of top AI Tools.
 | Jack AI | AI Marketing Copywriter tool | [🔗](https://www.usejackai.com) |
 | CopyTruck | AI tool to organically grow on LinkedIn | [🔗](https://www.copytruck.com) |
 | markero | marketing made easy! | [🔗](https://markero.com/) |
+| Podify.io | Leverage AI and community to grow on LinkedIn | [🔗](https://podify.io) |
 
 ## Productivity
 | Tools | Used for | Link |
