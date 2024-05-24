@@ -201,6 +201,7 @@ curated list of top AI Tools.
 | Explainpaper | an AI research assistant | [🔗](https://www.explainpaper.com/)|
 | Expontum | AI generated research knowledge gaps| [🔗](https://www.expontum.com/)|
 | GummySearch | AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | [🔗](https://gummysearch.com/?ref=Top-AI-Tools) |
+| Competitor Research | AI tool to help companies track their competitors | [🔗](https://www.competitoresearch.com/) |
 
 ## Geospatial
 | Tools | Used for | Link |
