@@ -151,6 +151,7 @@ curated list of top AI Tools.
 | CopyTruck | AI tool to organically grow on LinkedIn | [🔗](https://www.copytruck.com) |
 | markero | marketing made easy! | [🔗](https://markero.com/) |
 | Podify.io | Leverage AI and community to grow on LinkedIn | [🔗](https://podify.io) |
+| BlogFox | Generate impressive blogs from a Youtube video or SEO keywords at scale. | [🔗](https://blogfox.ai) |
 
 ## Productivity
 | Tools | Used for | Link |
