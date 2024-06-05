@@ -97,6 +97,7 @@ curated list of top AI Tools.
 | Auto Streamer | Learn & teach anything on demand. Create course websites in minutes. | [🔗](https://www.autostreamer.live/) |
 | SopCreator | Create your Statement of Purpose with AI | [🔗](https://www.sopcreator.com) |
 | MathSolver | Use AI to solve math problems and study | [🔗](https://www.mathsolver.top/) |
+| ResumeDive | A resume boosting service using AI | [🔗](https://resumedive.com) |
 
 ## Developer
 | Tools | Used for | Link |
