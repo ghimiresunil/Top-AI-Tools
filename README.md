@@ -221,6 +221,7 @@ curated list of top AI Tools.
 | Inline Help | Answer customer questions before they ask | [🔗](https://inlinehelp.com) |
 | Chat Thing | Make AI chatbots in minutes | [🔗](https://chatthing.ai) |
 | Owlbot | AI Support Agent | [🔗](https://www.owlbot.ai/) |
+| Galichat.com | Custom ChatGPT trained on your Website data. | [🔗](https://www.galichat.com/ref=Top-AI-Tools) |
 
 ## Phone Calls
 | Tools | Used For | Link |
