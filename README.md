@@ -42,6 +42,7 @@ curated list of top AI Tools.
 | Architecture Helper | Analyze any building architecture, and generate your own custom styles, in seconds. | [🔗](https://architecturehelper.com) |
 | VocalReplica | AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks | [🔗](https://vocalreplica.com/) |
 | X Headshot | Professional AI Headshot Generator | [🔗](https://xheadshot.com) |
+| Jamorphosia | AI-Powered Instrument remover and isolation | [🔗](https://www.jamorphosia.com/) |
 
 ## Conversational AI
 | Tools | Used for | Link |
