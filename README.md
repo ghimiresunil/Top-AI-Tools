@@ -185,6 +185,7 @@ curated list of top AI Tools.
 | Chatpdf.so | Chatpdf.so is an AI based chat tool designed to chat with PDF. | [🔗](https://chatpdf.so) |
 | ReportGPT | Elevate your document writing by harnessing the power of AI and experience the seamless creation of documents. | [🔗](https://report-gpt.io) |
 | Recurrr | Send recurring emails | [🔗](https://recurrr.com) |
+| AI PowerPoint Maker | AI presentation generator for PowerPoint | [🔗](https://aipowerpointmaker.com/) |
 
 ## Search Engines & Tools
 
