@@ -125,6 +125,7 @@ curated list of top AI Tools.
 | Floom | AI gateway and marketplace for developers, enables streamlined integration of AI features into products | [🔗](https://floom.ai) |
 | StartKit.AI | Boilerplate for quickly building AI products | [🔗](https://startkit.ai) |
 | Context Data | Data Processing & ETL infrastructure for Generative AI applications | [🔗](https://contextdata.ai/) |
+| SvelteLaunch | Svelte 5 Boilerplate for building AI apps quickly | [🔗](https://sveltelaunch.io) |
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
