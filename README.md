@@ -158,6 +158,7 @@ curated list of top AI Tools.
 | markero | marketing made easy! | [🔗](https://markero.com/) |
 | Podify.io | Leverage AI and community to grow on LinkedIn | [🔗](https://podify.io) |
 | BlogFox | Generate impressive blogs from a Youtube video or SEO keywords at scale. | [🔗](https://blogfox.ai) |
+| Salesably | AI-driven sales coaching to enhance communication | [🔗](https://www.salesably.ai/) |
 
 ## Productivity
 | Tools | Used for | Link |
