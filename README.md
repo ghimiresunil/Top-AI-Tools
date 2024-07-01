@@ -125,6 +125,7 @@ curated list of top AI Tools.
 | Floom | AI gateway and marketplace for developers, enables streamlined integration of AI features into products | [🔗](https://floom.ai) |
 | StartKit.AI | Boilerplate for quickly building AI products | [🔗](https://startkit.ai) |
 | Context Data | Data Processing & ETL infrastructure for Generative AI applications | [🔗](https://contextdata.ai/) |
+| SvelteLaunch | Svelte 5 Boilerplate for building AI apps quickly | [🔗](https://sveltelaunch.io) |
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
@@ -158,6 +159,7 @@ curated list of top AI Tools.
 | Podify.io | Leverage AI and community to grow on LinkedIn | [🔗](https://podify.io) |
 | BlogFox | Generate impressive blogs from a Youtube video or SEO keywords at scale. | [🔗](https://blogfox.ai) |
 | PostPulse | Monthly SEO-optimized posts that drive your SaaS startup’s online presence and page rankings. | [🔗](https://post-pulse.io) |
+| Salesably | AI-driven sales coaching to enhance communication | [🔗](https://www.salesably.ai/) |
 
 ## Productivity
 | Tools | Used for | Link |
