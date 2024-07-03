@@ -189,7 +189,9 @@ curated list of top AI Tools.
 | ReportGPT | Elevate your document writing by harnessing the power of AI and experience the seamless creation of documents. | [🔗](https://report-gpt.io) |
 | Recurrr | Send recurring emails | [🔗](https://recurrr.com) |
 | AI PowerPoint Maker | AI presentation generator for PowerPoint | [🔗](https://aipowerpointmaker.com/) |
+| Lede | Generate In-Depth Blog Content | [🔗](https://thelede.ai) |
 | Panem | AI Powered SaaS Spend Management | [🔗](https://panem.co) |
+
 
 ## Search Engines & Tools
 
