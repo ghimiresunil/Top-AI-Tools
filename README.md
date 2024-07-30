@@ -126,6 +126,8 @@ curated list of top AI Tools.
 | StartKit.AI | Boilerplate for quickly building AI products | [🔗](https://startkit.ai) |
 | Context Data | Data Processing & ETL infrastructure for Generative AI applications | [🔗](https://contextdata.ai/) |
 | SvelteLaunch | Svelte 5 Boilerplate for building AI apps quickly | [🔗](https://sveltelaunch.io) |
+| Maxim AI | A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed. | [🔗](https://www.getmaxim.ai/) |
+
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
