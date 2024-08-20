@@ -43,6 +43,7 @@ curated list of top AI Tools.
 | VocalReplica | AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks | [🔗](https://vocalreplica.com/) |
 | X Headshot | Professional AI Headshot Generator | [🔗](https://xheadshot.com) |
 | Jamorphosia | AI-Powered Instrument remover and isolation | [🔗](https://www.jamorphosia.com/) |
+| Content Studio AI | AI-Powered Faceless Video Creation | [🔗](https://contentstudioai.com) |
 
 ## Conversational AI
 | Tools | Used for | Link |
