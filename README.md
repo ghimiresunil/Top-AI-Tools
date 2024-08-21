@@ -220,6 +220,7 @@ curated list of top AI Tools.
 | GummySearch | AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | [🔗](https://gummysearch.com/?ref=Top-AI-Tools) |
 | Competitor Research | AI tool to help companies track their competitors | [🔗](https://www.competitoresearch.com/) |
 | Compass | AI-driven answers to SaaS research questions | [🔗](https://www.getwhys.io/compass) |
+| MuckBrass | Find & Validate Startup Ideas | [🔗](https://www.muckbrass.com) |
 
 ## Geospatial
 | Tools | Used for | Link |
