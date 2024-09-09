@@ -44,6 +44,7 @@ curated list of top AI Tools.
 | X Headshot | Professional AI Headshot Generator | [🔗](https://xheadshot.com) |
 | Jamorphosia | AI-Powered Instrument remover and isolation | [🔗](https://www.jamorphosia.com/) |
 | Content Studio AI | AI-Powered Faceless Video Creation | [🔗](https://contentstudioai.com) |
+| Podcast Clip Maker | Automatically generate podcast clips from long-form video and audio | [🔗](https://recast.studio/tools/podcast-clip-maker) |
 
 ## Conversational AI
 | Tools | Used for | Link |
