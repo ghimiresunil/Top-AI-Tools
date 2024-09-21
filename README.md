@@ -131,7 +131,7 @@ curated list of top AI Tools.
 | SvelteLaunch | Svelte 5 Boilerplate for building AI apps quickly | [🔗](https://sveltelaunch.io) |
 | Maxim AI | A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed. | [🔗](https://www.getmaxim.ai/) |
 | OppyDev | Agentic AI coding assistant built with a focus on ease of use, transparency, customization and data control | [🔗](https://oppydev.ai/) |
-
+| Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
