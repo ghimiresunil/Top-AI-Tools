@@ -243,6 +243,7 @@ curated list of top AI Tools.
 | Chat Thing | Make AI chatbots in minutes | [🔗](https://chatthing.ai) |
 | Owlbot | AI Support Agent | [🔗](https://www.owlbot.ai/) |
 | Galichat.com | Custom ChatGPT trained on your Website data. | [🔗](https://www.galichat.com/ref=Top-AI-Tools) |
+| Rosie | AI Phone Answering Service | [🔗](https://heyrosie.com/) |
 
 ## Phone Calls
 | Tools | Used For | Link |
