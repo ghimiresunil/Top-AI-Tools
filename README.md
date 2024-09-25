@@ -270,6 +270,7 @@ curated list of top AI Tools.
 | ezJobs | Automated job search and applications | [🔗](https://getezjobs.com/) |
 | DecorAI | Generate Interior and Exterior Ideas in Seconds | [🔗](https://decorai.io) |
 | Foundy.com | Sell your business at a higher valuation or find quality acquisitions with Foundy's AI and expert support. | [🔗](https://foundy.com) |
+| Build Club | Community + education for AI builders | [🔗](https://www.buildclub.ai) |
 
 
 ## Contributors 😍
