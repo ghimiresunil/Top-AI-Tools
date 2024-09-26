@@ -103,6 +103,7 @@ curated list of top AI Tools.
 | SopCreator | Create your Statement of Purpose with AI | [🔗](https://www.sopcreator.com) |
 | MathSolver | Use AI to solve math problems and study | [🔗](https://www.mathsolver.top/) |
 | ResumeDive | A resume boosting service using AI | [🔗](https://resumedive.com) |
+| Exam Samurai | AI Exam Generator | [🔗](https://www.examsamur.ai/) |
 
 ## Developer
 | Tools | Used for | Link |
