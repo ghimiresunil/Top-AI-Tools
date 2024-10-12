@@ -57,7 +57,6 @@ curated list of top AI Tools.
 | ChatGPT (by OpenAI) | conversational AI system powered by large language models | [🔗](https://chat.openai.com/)|
 | Bard (by Google) | conversational AI chat service from Google that can access and process information from the web | [🔗](https://bard.google.com/)|
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
-| Hexabot | Open-source conversational AI system that supports multiple channels and languages | [🔗](https://hexabot.ai/)|
 | Replika | an AI companion | [🔗](https://replika.ai/)|
 | AICamp | ChatGPT for Teams | [🔗](https://aicamp.so/)
 | Netwrck | AI Character Chat Social Network, saying "Appears" makes the AI make Art. | [🔗](https://netwrck.com/)|
@@ -139,6 +138,7 @@ curated list of top AI Tools.
 | OppyDev | Agentic AI coding assistant built with a focus on ease of use, transparency, customization and data control | [🔗](https://oppydev.ai/) |
 | Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
 | Fine | End-to-end AI coding assistant with full context awareness and no need for API keys. Plan, design, code, test, deploy, maintain. | [🔗](https://fine.dev/?ref=ognaa_github)
+| Hexabot | Open-source conversational AI builder that supports multiple channels and languages | [🔗](https://hexabot.ai/)|
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
