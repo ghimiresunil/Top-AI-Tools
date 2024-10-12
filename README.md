@@ -48,6 +48,7 @@ curated list of top AI Tools.
 | Black Headshots | AI headshots generator for black professionals | [🔗](https://www.blackheadshots.com) |
 | AISaver | Collection of AI Powered Video and Photo Tools | [🔗](https://aisaver.io) |
 | AI Watermark Remover | Remove watermarks from images and videos | [🔗](https://aiwatermarkremover.io/) |
+| Pixvify AI | Free realistic AI photo generator platform | [🔗](https://pixvify.com/) |
 
 
 ## Conversational AI
