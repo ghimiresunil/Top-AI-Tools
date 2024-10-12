@@ -57,6 +57,7 @@ curated list of top AI Tools.
 | ChatGPT (by OpenAI) | conversational AI system powered by large language models | [🔗](https://chat.openai.com/)|
 | Bard (by Google) | conversational AI chat service from Google that can access and process information from the web | [🔗](https://bard.google.com/)|
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
+| Hexabot | Open-source conversational AI system that supports multiple channels and languages | [🔗](https://hexabot.ai/)|
 | Replika | an AI companion | [🔗](https://replika.ai/)|
 | AICamp | ChatGPT for Teams | [🔗](https://aicamp.so/)
 | Netwrck | AI Character Chat Social Network, saying "Appears" makes the AI make Art. | [🔗](https://netwrck.com/)|
