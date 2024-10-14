@@ -175,6 +175,7 @@ curated list of top AI Tools.
 | PostPulse | Monthly SEO-optimized posts that drive your SaaS startup’s online presence and page rankings. | [🔗](https://post-pulse.io) |
 | Salesably | AI-driven sales coaching to enhance communication | [🔗](https://www.salesably.ai/) |
 | Luthor | Programmatic content marketing at scale | [🔗](https://luthor.ai/) |
+| Logicballs | AI Copywriting Tool | [🔗](https://logicballs.com/) |
 
 ## Productivity
 | Tools | Used for | Link |
