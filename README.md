@@ -63,7 +63,7 @@ curated list of top AI Tools.
 | Netwrck | AI Character Chat Social Network, saying "Appears" makes the AI make Art. | [🔗](https://netwrck.com/)|
 | Claude | Talk to Claude, an AI assistant from Anthropic. | [🔗](https://claude.ai/)|
 | Pleasuredomes | AI Image and chatbot | [🔗](http://pleasuredomes.ai/) |
-
+| ChatSweetie | Free AI Girlfriend Chat | [🔗](https://chatsweetie.ai/) |
 
 ## Design
 | Tools | Used for | Link |
