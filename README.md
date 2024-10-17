@@ -49,7 +49,7 @@ curated list of top AI Tools.
 | AISaver | Collection of AI Powered Video and Photo Tools | [🔗](https://aisaver.io) |
 | AI Watermark Remover | Remove watermarks from images and videos | [🔗](https://aiwatermarkremover.io/) |
 | Pixvify AI | Free realistic AI photo generator platform | [🔗](https://pixvify.com/) |
-
+| Pawtrait | AI Pet Portraits | [🔗](https://www.pawtrait.art/)
 
 ## Conversational AI
 | Tools | Used for | Link |
