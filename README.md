@@ -49,7 +49,7 @@ curated list of top AI Tools.
 | AISaver | Collection of AI Powered Video and Photo Tools | [🔗](https://aisaver.io) |
 | AI Watermark Remover | Remove watermarks from images and videos | [🔗](https://aiwatermarkremover.io/) |
 | Pixvify AI | Free realistic AI photo generator platform | [🔗](https://pixvify.com/) |
-
+| Pawtrait | AI Pet Portraits | [🔗](https://www.pawtrait.art/)
 
 ## Conversational AI
 | Tools | Used for | Link |
@@ -64,6 +64,7 @@ curated list of top AI Tools.
 | Claude | Talk to Claude, an AI assistant from Anthropic. | [🔗](https://claude.ai/)|
 | Pleasuredomes | AI Image and chatbot | [🔗](http://pleasuredomes.ai/) |
 | ChatSweetie | Free AI Girlfriend Chat | [🔗](https://chatsweetie.ai/) |
+| DreamjourneyAI | AI roleplay and character chat platform | [🔗](https://dreamjourneyai.com)
 
 ## Design
 | Tools | Used for | Link |
@@ -175,6 +176,7 @@ curated list of top AI Tools.
 | PostPulse | Monthly SEO-optimized posts that drive your SaaS startup’s online presence and page rankings. | [🔗](https://post-pulse.io) |
 | Salesably | AI-driven sales coaching to enhance communication | [🔗](https://www.salesably.ai/) |
 | Luthor | Programmatic content marketing at scale | [🔗](https://luthor.ai/) |
+| Logicballs | AI Copywriting Tool | [🔗](https://logicballs.com/) |
 
 ## Productivity
 | Tools | Used for | Link |
