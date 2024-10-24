@@ -109,6 +109,7 @@ curated list of top AI Tools.
 | MathSolver | Use AI to solve math problems and study | [🔗](https://www.mathsolver.top/) |
 | ResumeDive | A resume boosting service using AI | [🔗](https://resumedive.com) |
 | Exam Samurai | AI Exam Generator | [🔗](https://www.examsamur.ai/) |
+| iColoring | Free AI Coloring Pages Generator | [🔗](https://icoloring.ai) |
 
 ## Developer
 | Tools | Used for | Link |
