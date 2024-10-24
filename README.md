@@ -82,6 +82,7 @@ curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Lootgod.com | generative ai apparel using print-on-demand | [🔗](https://www.lootgod.com/)|
+| Rupert AI | AI tools for designers and marketers | [🔗](https://www.getrupert.com/)|
 
 ## Finance
 | Tools | Used for | Link |
