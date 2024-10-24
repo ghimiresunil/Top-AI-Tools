@@ -208,7 +208,7 @@ curated list of top AI Tools.
 | AI PowerPoint Maker | AI presentation generator for PowerPoint | [🔗](https://aipowerpointmaker.com/) |
 | Lede | Generate In-Depth Blog Content | [🔗](https://thelede.ai) |
 | Panem | AI Powered SaaS Spend Management | [🔗](https://panem.co) |
-
+| AI for Google Slides | AI presentation maker for Google Slides | [🔗](https://www.aiforgoogleslides.com/) |
 
 ## Search Engines & Tools
 
