@@ -281,6 +281,7 @@ curated list of top AI Tools.
 | Foundy.com | Sell your business at a higher valuation or find quality acquisitions with Foundy's AI and expert support. | [🔗](https://foundy.com) |
 | Build Club | Community + education for AI builders | [🔗](https://www.buildclub.ai) |
 | AI Presentation Makers | In-depth reviews of dozens of AI presentation makers | [🔗](https://www.aipresentationmakers.com/) |
+| GOSH | Free AI Price Tracker - Track any price of any product at any store using AI | [🔗](https://gosh.app) |
 
 
 ## Contributors 😍
