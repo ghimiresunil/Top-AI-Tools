@@ -209,6 +209,7 @@ curated list of top AI Tools.
 | Lede | Generate In-Depth Blog Content | [🔗](https://thelede.ai) |
 | Panem | AI Powered SaaS Spend Management | [🔗](https://panem.co) |
 | FARSITE | AI-powered Compliance Software for U.S. Government Contractors | [🔗](https://far.site/) |
+| AI for Google Slides | AI presentation maker for Google Slides | [🔗](https://www.aiforgoogleslides.com/) |
 
 ## Search Engines & Tools
 
