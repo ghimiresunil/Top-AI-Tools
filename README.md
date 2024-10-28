@@ -177,6 +177,7 @@ curated list of top AI Tools.
 | Salesably | AI-driven sales coaching to enhance communication | [🔗](https://www.salesably.ai/) |
 | Luthor | Programmatic content marketing at scale | [🔗](https://luthor.ai/) |
 | Logicballs | AI Copywriting Tool | [🔗](https://logicballs.com/) |
+| PersonaForce | Create and chat with AI buyer personas | [🔗](https://personaforce.ai/) |
 
 ## Productivity
 | Tools | Used for | Link |
