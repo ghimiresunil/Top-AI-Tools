@@ -285,6 +285,7 @@ curated list of top AI Tools.
 | Build Club | Community + education for AI builders | [🔗](https://www.buildclub.ai) |
 | AI Presentation Makers | In-depth reviews of dozens of AI presentation makers | [🔗](https://www.aipresentationmakers.com/) |
 | GOSH | Free AI Price Tracker - Track any price of any product at any store using AI | [🔗](https://gosh.app) |
+| Telegram content downloader | A fast, user-friendly Chrome plugin that allows you to download Telegram videos for free—no registration required! | [🔗](https://tg-video-downloader.net/) |
 
 
 ## Contributors 😍
