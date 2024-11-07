@@ -214,6 +214,8 @@ curated list of top AI Tools.
 | FARSITE | AI-powered Compliance Software for U.S. Government Contractors | [🔗](https://far.site/) |
 | AI for Google Slides | AI presentation maker for Google Slides | [🔗](https://www.aiforgoogleslides.com/) |
 | Decopy AI | Decopy AI is a tool that identifies if text is written by a human or AI | [🔗](https://decopy.ai/) |
+| AI PPT Maker | Make your unique PPT with AI online for free | [🔗](https://aipptmaker.ai) |
+
 
 ## Search Engines & Tools
 
