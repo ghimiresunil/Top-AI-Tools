@@ -252,6 +252,7 @@ curated list of top AI Tools.
 ## Customer Support
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| Twig | Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7. | [🔗](https://www.twig.so/) |
 | SiteGPT | Make AI your expert customer support agent. | [🔗](https://sitegpt.ai/?ref=Top-AI-Tools) |
 | GPTHelp.ai | ChatGPT for your website / AI customer support chatbot. | [🔗](https://gpthelp.ai/?ref=Top-AI-Tools) |
 | SiteSpeakAI | Automate your customer support with AI | [🔗](https://sitespeak.ai) |
