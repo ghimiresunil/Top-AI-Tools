@@ -113,6 +113,8 @@ curated list of top AI Tools.
 | ResumeDive | A resume boosting service using AI | [🔗](https://resumedive.com) |
 | Exam Samurai | AI Exam Generator | [🔗](https://www.examsamur.ai/) |
 | iColoring | Free AI Coloring Pages Generator | [🔗](https://icoloring.ai) |
+| Remusic | AI Music Generator and Music Learning Platform Online Free | [🔗](https://remusic.ai/en) |
+
 
 ## Developer
 | Tools | Used for | Link |
