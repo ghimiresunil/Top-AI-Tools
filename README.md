@@ -235,6 +235,7 @@ curated list of top AI Tools.
 | Tasmania | YouTube video search | [🔗](https://tasmania.sievedata.com/)|
 | You | AI powered search engine | [🔗](https://you.com/apps/discover)|
 | muse.ai | video content search and conversational assistant | [🔗](https://muse.ai/) |
+| Refinder AI | AI-powered universal search and assistant for work| [🔗](https://refinder.ai/)|
 
 ## Research Tools
 | Tools | Used for | Link |
