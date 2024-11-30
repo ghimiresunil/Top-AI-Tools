@@ -220,7 +220,7 @@ curated list of top AI Tools.
 | Decopy AI | Decopy AI is a tool that identifies if text is written by a human or AI | [🔗](https://decopy.ai/) |
 | AI PPT Maker | Make your unique PPT with AI online for free | [🔗](https://aipptmaker.ai) |
 | Transgate | AI Speech to Text | [🔗](https://transgate.ai/) |
-
+| TextCraft | Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface. | [🔗](https://github.com/suncloudsmoon/TextCraft) |
 
 
 ## Search Engines & Tools
