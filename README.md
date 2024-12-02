@@ -114,6 +114,7 @@ curated list of top AI Tools.
 | Exam Samurai | AI Exam Generator | [🔗](https://www.examsamur.ai/) |
 | iColoring | Free AI Coloring Pages Generator | [🔗](https://icoloring.ai) |
 | Remusic | AI Music Generator and Music Learning Platform Online Free | [🔗](https://remusic.ai/en) |
+| CasperPractice | AI tutor for the CASPer test | [🔗](https://casperpractice.org/) |
 
 
 ## Developer
