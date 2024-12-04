@@ -151,6 +151,8 @@ curated list of top AI Tools.
 | Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
 | Fine | End-to-end AI coding assistant with full context awareness and no need for API keys. Plan, design, code, test, deploy, maintain. | [🔗](https://fine.dev/?ref=ognaa_github)
 | Hexabot | Open-source conversational AI builder that supports multiple channels and languages | [🔗](https://hexabot.ai/)|
+| Lisapet.ai | AI Prompt Testing Platform | [🔗](https://www.lisapet.ai/)|
+
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
