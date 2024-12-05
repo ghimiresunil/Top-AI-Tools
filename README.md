@@ -227,6 +227,7 @@ curated list of top AI Tools.
 | AI PPT Maker | Make your unique PPT with AI online for free | [🔗](https://aipptmaker.ai) |
 | Transgate | AI Speech to Text | [🔗](https://transgate.ai/) |
 | TextCraft | Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface. | [🔗](https://github.com/suncloudsmoon/TextCraft) |
+| Klarity | Turn your voice notes into blog posts, podcast scripts, and tweets instantly with AI | [🔗](https://klarity.pro/) |
 
 
 ## Search Engines & Tools
