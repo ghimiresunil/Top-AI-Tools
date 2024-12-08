@@ -228,6 +228,7 @@ curated list of top AI Tools.
 | Transgate | AI Speech to Text | [🔗](https://transgate.ai/) |
 | TextCraft | Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface. | [🔗](https://github.com/suncloudsmoon/TextCraft) |
 | Klarity | Turn your voice notes into blog posts, podcast scripts, and tweets instantly with AI | [🔗](https://klarity.pro/) |
+| VideoFaceSwap | Free Online Face Swapping Tool | [🔗](https://videofaceswap.io/) |
 
 
 ## Search Engines & Tools
