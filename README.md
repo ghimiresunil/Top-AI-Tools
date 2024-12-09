@@ -190,6 +190,7 @@ curated list of top AI Tools.
 | Luthor | Programmatic content marketing at scale | [🔗](https://luthor.ai/) |
 | Logicballs | AI Copywriting Tool | [🔗](https://logicballs.com/) |
 | PersonaForce | Create and chat with AI buyer personas | [🔗](https://personaforce.ai/) |
+| Shosay | AI Powered Free Social Proof Management - Testimonials, References, Recommendations | [🔗](https://www.shosay.com/) |
 
 ## Productivity
 | Tools | Used for | Link |
