@@ -310,6 +310,7 @@ curated list of top AI Tools.
 | Telegram content downloader | A fast, user-friendly Chrome plugin that allows you to download Telegram videos for free—no registration required! | [🔗](https://tg-video-downloader.net/) |
 | Kink AI | Best NSFW AI App | [🔗](https://chat.kink.ai/) |
 | Coin Newsify | AI-Powered Cryptocurrency news aggregator application | [🔗](https://www.coinewsify.ai) |
+| Drive AI | AI car assistant predicting routes, providing real-time alerts, and ensuring safer, smoother rides | [🔗](https://driveapp.ai/) |
 
 
 ## Contributors 😍
