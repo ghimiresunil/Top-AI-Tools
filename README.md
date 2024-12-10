@@ -117,6 +117,8 @@ curated list of top AI Tools.
 | iColoring | Free AI Coloring Pages Generator | [🔗](https://icoloring.ai) |
 | Remusic | AI Music Generator and Music Learning Platform Online Free | [🔗](https://remusic.ai/en) |
 | CasperPractice | AI tutor for the CASPer test | [🔗](https://casperpractice.org/) |
+| RabbitHoles AI | Chat with AI on an Infinite Canvas | [🔗](https://www.rabbitholes.ai/) |
+
 
 
 ## Developer
