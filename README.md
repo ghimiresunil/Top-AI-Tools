@@ -154,6 +154,7 @@ curated list of top AI Tools.
 | Fine | End-to-end AI coding assistant with full context awareness and no need for API keys. Plan, design, code, test, deploy, maintain. | [🔗](https://fine.dev/?ref=ognaa_github)
 | Hexabot | Open-source conversational AI builder that supports multiple channels and languages | [🔗](https://hexabot.ai/)|
 | Lisapet.ai | AI Prompt Testing Platform | [🔗](https://www.lisapet.ai/)|
+| Kiln | Intuitive app to build your own AI models. Includes synthetic data generation, fine-tuning, dataset collaboration, and more. | [🔗](https://getkiln.ai/)|
 
 
 ## Gaming, 3D, Motion
