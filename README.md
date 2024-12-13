@@ -193,6 +193,7 @@ curated list of top AI Tools.
 | Logicballs | AI Copywriting Tool | [🔗](https://logicballs.com/) |
 | PersonaForce | Create and chat with AI buyer personas | [🔗](https://personaforce.ai/) |
 | Shosay | AI Powered Free Social Proof Management - Testimonials, References, Recommendations | [🔗](https://www.shosay.com/) |
+| PostPuma | Social media management platform | [🔗](https://postpuma.com/) |
 
 ## Productivity
 | Tools | Used for | Link |
