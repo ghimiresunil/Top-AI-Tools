@@ -198,6 +198,7 @@ curated list of top AI Tools.
 | PersonaForce | Create and chat with AI buyer personas | [🔗](https://personaforce.ai/) |
 | Shosay | AI Powered Free Social Proof Management - Testimonials, References, Recommendations | [🔗](https://www.shosay.com/) |
 | PostPuma | Social media management platform | [🔗](https://postpuma.com/) |
+| Make It Quick | Create instant AI videos from just a few sentences | [🔗](https://makeitquick.ai/) |
 
 ## Productivity
 | Tools | Used for | Link |
