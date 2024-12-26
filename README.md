@@ -199,6 +199,7 @@ curated list of top AI Tools.
 | Shosay | AI Powered Free Social Proof Management - Testimonials, References, Recommendations | [🔗](https://www.shosay.com/) |
 | PostPuma | Social media management platform | [🔗](https://postpuma.com/) |
 | Make It Quick | Create instant AI videos from just a few sentences | [🔗](https://makeitquick.ai/) |
+| SEO Katana | SEO Content Generator That Knows What Works For Your Competitors | [🔗](https://seokatana.com/) |
 
 ## Productivity
 | Tools | Used for | Link |
