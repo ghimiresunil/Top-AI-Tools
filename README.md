@@ -293,6 +293,11 @@ curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | AICaller.io | AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial. | [🔗](https://aicaller.io/?ref=v) |
 
+## HR
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| Resume Screener AI| a cutting-edge resume screening tool tailored for small business owners, startup HR teams, and independent headhunters. Powered by advanced AI technology, it offers an efficient and accurate solution for batch resume screening, significantly reducing the workload for recruiters and founders. | [🔗](https://resume-screening.com/) |
+
 ## Others
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
