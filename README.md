@@ -200,6 +200,7 @@ curated list of top AI Tools.
 | PostPuma | Social media management platform | [🔗](https://postpuma.com/) |
 | Make It Quick | Create instant AI videos from just a few sentences | [🔗](https://makeitquick.ai/) |
 | SEO Katana | SEO Content Generator That Knows What Works For Your Competitors | [🔗](https://seokatana.com/) |
+| KarmaLinks | AI backlink exchange platform for B2B companies | [🔗](https://karmalinks.io/) |
 
 ## Productivity
 | Tools | Used for | Link |
