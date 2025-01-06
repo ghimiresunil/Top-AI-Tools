@@ -27,6 +27,7 @@ curated list of top AI Tools.
 | DreamStudio | open-sourced image generation model to product realistic images | [🔗](https://stability.ai/)|
 | Lensa | AI-powered image editing app for avatars | [🔗](https://prisma-ai.com/lensa)|
 | Midjourney | AI-powered art generator | [🔗](https://www.midjourney.com/app/)|
+| Noble Shapes | AI Image Prompt Generator Assistant - Explore a curated collection of premium digital design assets. | [🔗](https://nobleshapes.com)|
 | Phraser | the collaborative creative AI tool | [🔗](https://phraser.tech)|
 | Playground | search prompts for art generation | [🔗](https://playgroundai.com/)|
 | Synthesia | AI video creation platform | [🔗](https://www.synthesia.io/)|
