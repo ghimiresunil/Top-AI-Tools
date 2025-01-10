@@ -202,6 +202,7 @@ curated list of top AI Tools.
 | SEO Katana | SEO Content Generator That Knows What Works For Your Competitors | [🔗](https://seokatana.com/) |
 | KarmaLinks | AI backlink exchange platform for B2B companies | [🔗](https://karmalinks.io/) |
 | Adligator | AI Ad Spy service for analyzing competitors’ creatives | [🔗](https://adligator.com) |
+| Vesta | AI Content Generator that learns your style | [🔗](https://www.vesta-app.com/) |
 
 ## Productivity
 | Tools | Used for | Link |
