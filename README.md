@@ -123,6 +123,7 @@ curated list of top AI Tools.
 | CasperPractice | AI tutor for the CASPer test | [🔗](https://casperpractice.org/) |
 | RabbitHoles AI | Chat with AI on an Infinite Canvas | [🔗](https://www.rabbitholes.ai/) |
 | bugfree.ai | Guided Practice on System Design Behavior Problems like the way you do at Leetcode. | [🔗](https://bugfree.ai/)|
+| AI Tutor | Your personalized AI tutor—learn anything, anytime, anywhere | [🔗](https://ai-tutor.ai/) |
 
 ## Developer
 | Tools | Used for | Link |
