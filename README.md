@@ -84,6 +84,7 @@ curated list of top AI Tools.
 | Unwatermark | Easily remove watermarks with advanced AI image recognition technology | [🔗](https://unwatermark.ai/)|
 | AI Logo Generator | Free online AI logo creator that generates professional company, business, and brand logos | [🔗](https://www.ailogogenerator.org)|
 | Unblurimage AI | A free online tool to unblur images swiftly | [🔗](https://unblurimage.ai)|
+| ImgUpscaler AI | Free image & video upscaler | [🔗](https://imgupscaler.ai/)|
 
 
 ## E-commerce
