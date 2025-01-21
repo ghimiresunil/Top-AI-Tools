@@ -206,6 +206,7 @@ curated list of top AI Tools.
 | Adligator | AI Ad Spy service for analyzing competitors’ creatives | [🔗](https://adligator.com) |
 | Vesta | AI Content Generator that learns your style | [🔗](https://www.vesta-app.com/) |
 | Aeon | AI-Powered Video Production Platform | [🔗](https://project-aeon.com/) |
+| Campaign Link | The easiest to use short link, QR code and UTM maker | [🔗](https://www.campaignware.com/campaignlink) |
 
 ## Productivity
 | Tools | Used for | Link |
