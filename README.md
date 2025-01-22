@@ -126,6 +126,7 @@ curated list of top AI Tools.
 | bugfree.ai | Guided Practice on System Design Behavior Problems like the way you do at Leetcode. | [🔗](https://bugfree.ai/)|
 | AI Tutor | Your personalized AI tutor—learn anything, anytime, anywhere | [🔗](https://ai-tutor.ai/) |
 | Notescast | PDF to Brainrot | [🔗](https://notescast.app/) |
+| Bookimagic | Create & publish children’s books with stories & illustrations | [🔗](https://www.bookimagic.com/) |
 
 ## Developer
 | Tools | Used for | Link |
