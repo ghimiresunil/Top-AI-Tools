@@ -163,7 +163,7 @@ curated list of top AI Tools.
 | Lisapet.ai | AI Prompt Testing Platform | [🔗](https://www.lisapet.ai/)|
 | Kiln | Intuitive app to build your own AI models. Includes synthetic data generation, fine-tuning, dataset collaboration, and more. | [🔗](https://getkiln.ai/)|
 | Srcbook | The best AI website builder | [🔗](https://srcbook.com/)|
-
+| Swapcode AI | AI that helps write, convert, and debug code 10x faster | [🔗](https://swapcode.ai/)|
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
