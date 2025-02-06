@@ -85,6 +85,7 @@ curated list of top AI Tools.
 | AI Logo Generator | Free online AI logo creator that generates professional company, business, and brand logos | [🔗](https://www.ailogogenerator.org)|
 | Unblurimage AI | A free online tool to unblur images swiftly | [🔗](https://unblurimage.ai)|
 | ImgUpscaler AI | Free image & video upscaler | [🔗](https://imgupscaler.ai/)|
+| Seede AI | Helps you create a poster in 1 min | [🔗](https://seede.ai/)|
 
 
 ## E-commerce
