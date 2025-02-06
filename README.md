@@ -127,6 +127,7 @@ curated list of top AI Tools.
 | AI Tutor | Your personalized AI tutor—learn anything, anytime, anywhere | [🔗](https://ai-tutor.ai/) |
 | Notescast | PDF to Brainrot | [🔗](https://notescast.app/) |
 | Bookimagic | Create & publish children’s books with stories & illustrations | [🔗](https://www.bookimagic.com/) |
+| Preschools Near Me | AI personal assistant for finding and applying to preschools | [🔗](https://www.preschoolsnearme.org/) |
 
 ## Developer
 | Tools | Used for | Link |
