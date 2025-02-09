@@ -216,6 +216,7 @@ curated list of top AI Tools.
 | Virlo | Viral trend track | [🔗](https://virlo.ai/) |
 | ReelProof | Video Testimonials on Autopilot with AI-Powered Customer Interviews | [🔗](https://reelproof.io/) |
 | Podcast Maker | Turn your Text into Lifelike Audio Discussions | [🔗](https://podcastmaker.ai/) |
+| Commenze | CMS for programmatic SEO | [🔗](https://commenze.com/) |
 
 ## Productivity
 | Tools | Used for | Link |
