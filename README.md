@@ -349,6 +349,7 @@ curated list of top AI Tools.
 | Drive AI | AI car assistant predicting routes, providing real-time alerts, and ensuring safer, smoother rides | [🔗](https://driveapp.ai/) |
 | ARIA - AI Parenting Support | Parenting made easier with AI-powered guidance | [🔗](https://aria-ai.augmentedstartups.com/) |
 | Tatship | Virtual Tattoo Try-On and Design for Safe and Easy Decisions | [🔗](https://tatship.com/) |
+| Flirt | Dating App Convo AI Assistant | [🔗](https://flirtos.com/) |
 
 
 ## Contributors 😍
