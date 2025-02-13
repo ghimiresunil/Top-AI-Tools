@@ -60,7 +60,7 @@ curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | Character.AI | conversational AI for open-ended conversations | [🔗](https://beta.character.ai/)|
 | ChatGPT (by OpenAI) | conversational AI system powered by large language models | [🔗](https://chat.openai.com/)|
-| Bard (by Google) | conversational AI chat service from Google that can access and process information from the web | [🔗](https://bard.google.com/)|
+| Gemini (by Google) | conversational AI chat service from Google that can access and process information from the web | [🔗](https://gemini.google.com/)|
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
 | Replika | an AI companion | [🔗](https://replika.ai/)|
 | AICamp | ChatGPT for Teams | [🔗](https://aicamp.so/)
