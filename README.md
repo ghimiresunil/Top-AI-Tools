@@ -167,6 +167,7 @@ curated list of top AI Tools.
 | Kiln | Intuitive app to build your own AI models. Includes synthetic data generation, fine-tuning, dataset collaboration, and more. | [🔗](https://getkiln.ai/)|
 | Srcbook | The best AI website builder | [🔗](https://srcbook.com/)|
 | Swapcode AI | AI that helps write, convert, and debug code 10x faster | [🔗](https://swapcode.ai/)|
+| Google AI Studio | Google AI Studio lets you quickly try out Google's language models and experiment with different prompts | [🔗](https://aistudio.google.com/) |
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
