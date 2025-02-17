@@ -60,7 +60,7 @@ curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | Character.AI | conversational AI for open-ended conversations | [🔗](https://beta.character.ai/)|
 | ChatGPT (by OpenAI) | conversational AI system powered by large language models | [🔗](https://chat.openai.com/)|
-| Bard (by Google) | conversational AI chat service from Google that can access and process information from the web | [🔗](https://bard.google.com/)|
+| Gemini (by Google) | conversational AI chat service from Google that can access and process information from the web | [🔗](https://gemini.google.com/)|
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
 | Replika | an AI companion | [🔗](https://replika.ai/)|
 | AICamp | ChatGPT for Teams | [🔗](https://aicamp.so/)
@@ -167,6 +167,7 @@ curated list of top AI Tools.
 | Kiln | Intuitive app to build your own AI models. Includes synthetic data generation, fine-tuning, dataset collaboration, and more. | [🔗](https://getkiln.ai/)|
 | Srcbook | The best AI website builder | [🔗](https://srcbook.com/)|
 | Swapcode AI | AI that helps write, convert, and debug code 10x faster | [🔗](https://swapcode.ai/)|
+| Google AI Studio | Google AI Studio lets you quickly try out Google's language models and experiment with different prompts | [🔗](https://aistudio.google.com/) |
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
@@ -291,6 +292,7 @@ curated list of top AI Tools.
 | Competitor Research | AI tool to help companies track their competitors | [🔗](https://www.competitoresearch.com/) |
 | Compass | AI-driven answers to SaaS research questions | [🔗](https://www.getwhys.io/compass) |
 | MuckBrass | Find & Validate Startup Ideas | [🔗](https://www.muckbrass.com) |
+| Phind | An AI search engine, using multi-step reasoning to find the answer & generative UI to present it in a beautiful and interactive way.| [🔗](https://www.phind.com/)|
 
 ## Geospatial
 | Tools | Used for | Link |
