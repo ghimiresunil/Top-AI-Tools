@@ -219,6 +219,7 @@ curated list of top AI Tools.
 | Podcast Maker | Turn your Text into Lifelike Audio Discussions | [🔗](https://podcastmaker.ai/) |
 | Commenze | CMS for programmatic SEO | [🔗](https://commenze.com/) |
 | Pykaso.ai | Create consistent and realistic AI influencers with Pykaso AI tools. | [🔗](https://www.pykaso.ai/) |
+| FirmOS | AI-Powered Automation for Accounting Firms | [🔗](https://www.firmos.ai/) |
 
 ## Productivity
 | Tools | Used for | Link |
