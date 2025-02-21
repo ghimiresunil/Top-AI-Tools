@@ -53,6 +53,7 @@ curated list of top AI Tools.
 | Pawtrait | AI Pet Portraits | [🔗](https://www.pawtrait.art/)
 | AI Boost | All-in-one service for creating and editing images with AI | [🔗](https://boost.pictures/)
 | EchoWave | Online video editor | [🔗](https://echowave.io/)
+| The Birthday Poem | AI Birthday Poem Generator | [🔗](https://www.thebirthdaypoem.com/)
 
 
 ## Conversational AI
