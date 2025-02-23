@@ -14,7 +14,7 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 
 ```
 curated list of top AI Tools.
-| Tools | Used For | Link |
+| Tools | Used For | [🔗] Link |
 ```
 
 ## Art & Creativity
