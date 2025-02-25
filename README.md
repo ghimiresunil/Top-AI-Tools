@@ -169,6 +169,7 @@ curated list of top AI Tools.
 | Srcbook | The best AI website builder | [🔗](https://srcbook.com/)|
 | Swapcode AI | AI that helps write, convert, and debug code 10x faster | [🔗](https://swapcode.ai/)|
 | Google AI Studio | Google AI Studio lets you quickly try out Google's language models and experiment with different prompts | [🔗](https://aistudio.google.com/) |
+| Proxed.AI | Secure AI APIs in iOS - No SDK, Just Change Your API URL | [🔗](https://proxed.ai/)|
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
