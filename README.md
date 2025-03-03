@@ -13,8 +13,8 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 ## Format
 
 ```
-curated list of top AI Tools.
-| Tools | Used For | [🔗] Link |
+Curated list of top AI Tools.
+| Tools | Used For | [🔗](Link) |
 ```
 
 ## Art & Creativity
