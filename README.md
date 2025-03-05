@@ -139,6 +139,7 @@ Curated list of top AI Tools.
 | Codeium | free AI powered code completion | [🔗](https://www.codeium.com/)|
 | Ghostwriter (by Replit) | AI pair programmer | [🔗](https://replit.com/site/ghostwriter)|
 | GitHub Copilot | an AI pair programmer | [🔗](https://github.com/features/copilot)|
+| GoCodeo | GoCodeo is an AI agent for building full-stack apps in minutes | [🔗](https://www.gocodeo.com/)|
 | Keywords AI | The enterprise-grade software to build, monitor, and improve your AI application. We are a full-stack LLM engineering platform for developers and PMs. | [🔗](https://keywordsai.co)|
 | Helicone AI | Open-source LLM observability platform for logging, monitoring, and debugging AI applications.| [🔗](https://github.com/Helicone/helicone)|
 | Keploy | Open source Tool for converting user-traffic to Test Cases and Data Stubs | [🔗](https://keploy.io)|
