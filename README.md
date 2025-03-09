@@ -9,7 +9,6 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 * Please open a [PR](https://guides.github.com/activities/forking/) for list of top AI tools to be added.
 * Use the format below.
 
-
 ## Format
 
 ```
