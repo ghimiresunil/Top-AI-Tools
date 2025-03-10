@@ -171,6 +171,7 @@ Curated list of top AI Tools.
 | Google AI Studio | Google AI Studio lets you quickly try out Google's language models and experiment with different prompts | [🔗](https://aistudio.google.com/) |
 | Proxed.AI | Secure AI APIs in iOS - No SDK, Just Change Your API URL | [🔗](https://proxed.ai/)|
 | CaptureKit | The Ultimate Web Scraping API for Developers | [🔗](https://www.capturekit.dev)|
+| NeuralTrust | LLM Gateway and Red Teaming | [🔗](https://neuraltrust.ai/)|
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
