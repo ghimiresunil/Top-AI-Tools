@@ -53,7 +53,7 @@ Curated list of top AI Tools.
 | AI Boost | All-in-one service for creating and editing images with AI | [🔗](https://boost.pictures/)
 | EchoWave | Online video editor | [🔗](https://echowave.io/)
 | The Birthday Poem | AI Birthday Poem Generator | [🔗](https://www.thebirthdaypoem.com/)
-
+| CreativePixel | AI creative studio: turning "impossible" to "done" in seconds. | [🔗](https://creativepixel.ai)
 
 ## Conversational AI
 | Tools | Used for | Link |
