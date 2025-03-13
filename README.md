@@ -86,6 +86,7 @@ Curated list of top AI Tools.
 | Unblurimage AI | A free online tool to unblur images swiftly | [🔗](https://unblurimage.ai)|
 | ImgUpscaler AI | Free image & video upscaler | [🔗](https://imgupscaler.ai/)|
 | Seede AI | Helps you create a poster in 1 min | [🔗](https://seede.ai/)|
+| FLUX AI ART | AI Image Generator | [🔗](https://fluxaiart.ai/)|
 
 
 ## E-commerce
