@@ -173,6 +173,7 @@ Curated list of top AI Tools.
 | Proxed.AI | Secure AI APIs in iOS - No SDK, Just Change Your API URL | [🔗](https://proxed.ai/)|
 | CaptureKit | The Ultimate Web Scraping API for Developers | [🔗](https://www.capturekit.dev)|
 | NeuralTrust | LLM Gateway and Red Teaming | [🔗](https://neuraltrust.ai/)|
+| FlexApp | Build mobile apps with AI, not code | [🔗](https://flexapp.ai/)|
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
