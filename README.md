@@ -249,7 +249,6 @@ Curated list of top AI Tools.
 | Elephas | Personal AI writing assistant for the Mac. | [🔗](https://elephas.app/?ref=Top-AI-Tools) |
 | Lemmy | Autonomous AI Assistant for Work. | [🔗](https://lemmy.co/?ref=Top-AI-Tools) |
 | Google Sheets Formula Generator | Forget about frustrating formulas in Google Sheets. | [🔗](https://bettersheets.co/google-sheets-formula-generator?ref=Top-AI-Tools) |
-| CreateEasily | Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB. | [🔗](https://createeasily.com/?ref=Top-AI-Tools) |
 | aiPDF | The most advanced AI document assistant | [🔗](https://aipdf.ai) |
 | Myriad | Build and fine-tune AI content prompts for writing anything, from long-form posts to ads and emails, by mixing and matching rules. | [🔗](https://www.namepepper.com/free-tools/ai-content-prompt-tool) |
 | Emilio | Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time | [🔗](https://getemil.io?ref=ghimiresunil-top-ai-tools) |
