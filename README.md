@@ -228,6 +228,7 @@ Curated list of top AI Tools.
 | Commenze | CMS for programmatic SEO | [🔗](https://commenze.com/) |
 | Pykaso.ai | Create consistent and realistic AI influencers with Pykaso AI tools. | [🔗](https://www.pykaso.ai/) |
 | FirmOS | AI-Powered Automation for Accounting Firms | [🔗](https://www.firmos.ai/) |
+| Keyla.AI | Create video ads in minutes | [🔗](https://keyla.ai/) |
 
 ## Productivity
 | Tools | Used for | Link |
