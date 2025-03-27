@@ -175,6 +175,7 @@ Curated list of top AI Tools.
 | NeuralTrust | LLM Gateway and Red Teaming | [🔗](https://neuraltrust.ai/)|
 | FlexApp | Build mobile apps with AI, not code | [🔗](https://flexapp.ai/)|
 | Next9 | Boost on-call productivity with our centralized dashboard | [🔗](https://www.next9.ai)|
+| Fynix | Fynix combines real-time AI coding assistance with agent-powered code reviews|[🔗](https://www.fynix.ai/)|
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
