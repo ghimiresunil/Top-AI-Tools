@@ -230,6 +230,7 @@ Curated list of top AI Tools.
 | Pykaso.ai | Create consistent and realistic AI influencers with Pykaso AI tools. | [🔗](https://www.pykaso.ai/) |
 | FirmOS | AI-Powered Automation for Accounting Firms | [🔗](https://www.firmos.ai/) |
 | Keyla.AI | Create video ads in minutes | [🔗](https://keyla.ai/) |
+| Meshr | AI-powered internal linking tool for better SEO & user experience | [🔗](https://meshr.link) |
 
 ## Productivity
 | Tools | Used for | Link |
