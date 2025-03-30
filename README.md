@@ -99,7 +99,7 @@ Curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | morpher.com | Morpher AI is a comprehensive tool for financial market analysis that acts as your personal investment analyst. | [🔗](https://www.morpher.com/ai)|
-| COUNT | AI-powered accounting for small businesses | [🔗](https://getcount.com) |
+| GetCount | AI-powered accounting for small businesses | [🔗](https://getcount.com) |
 
 ## Education
 | Tools | Used for | Link |
