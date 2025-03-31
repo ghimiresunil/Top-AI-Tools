@@ -279,6 +279,10 @@ Curated list of top AI Tools.
 | Type Think AI | Your Gateway to Multiple AI Models | [🔗](https://typethinkai.com/) |
 | Smmry | Summarize Long Content Into Clear Insights | [🔗](https://smmry.com/) |
 | TranscribeTube | Transcribe youtube video, spotify podcast to text free & AI-ready formats | [🔗](https://www.transcribetube.com/?ref=Top-AI-Tools) |
+| ResumeBoostAI | Generate professional resumes using AI | [🔗](https://resumeboostai.com/) |
+| Alt Text Generator AI | Generate alt text for images using AI | [🔗](https://alttextgeneratorai.com/) |
+| PropertyListingsAI | Generate real estate listings using AI | [🔗](https://propertylistingsai.com/) |
+| VideosGeneratorAI | Generate viral TikTok videos using AI | [🔗](https://videosgeneratorai.com/) |
 
 ## Search Engines & Tools
 
