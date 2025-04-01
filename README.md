@@ -373,6 +373,7 @@ Curated list of top AI Tools.
 | Tatship | Virtual Tattoo Try-On and Design for Safe and Easy Decisions | [🔗](https://tatship.com/) |
 | Flirt | Dating App Convo AI Assistant | [🔗](https://flirtos.com/) |
 | Palm | AI small business filing assistant and identity wallet | [🔗](http://getpalm.com/) |
+| ChefPandas | Smart meal planning, made simple! | [🔗](https://www.chefpandas.com/) |
 
 ## Contributors 😍
 
