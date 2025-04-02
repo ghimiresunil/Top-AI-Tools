@@ -283,6 +283,7 @@ Curated list of top AI Tools.
 | Alt Text Generator AI | Generate alt text for images using AI | [🔗](https://alttextgeneratorai.com/) |
 | PropertyListingsAI | Generate real estate listings using AI | [🔗](https://propertylistingsai.com/) |
 | VideosGeneratorAI | Generate viral TikTok videos using AI | [🔗](https://videosgeneratorai.com/) |
+| GPT Reader | Natural ChatGPT AI text to speech (TTS) for PDFs, articles, & docs | [🔗](https://gpt-reader.com/) |
 
 ## Search Engines & Tools
 
