@@ -10,7 +10,6 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 * Use the format below.
 
 ## Format
-
 ```
 Curated list of top AI Tools.
 |Tools|Used For|[🔗](Link)|
