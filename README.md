@@ -130,6 +130,7 @@ Curated list of top AI Tools.
 | Bookimagic | Create & publish children’s books with stories & illustrations | [🔗](https://www.bookimagic.com/) |
 | Preschools Near Me | AI personal assistant for finding and applying to preschools | [🔗](https://www.preschoolsnearme.org/) |
 | Learn Copywriting | Practice copywriting exercises and get scored by AI | [🔗](https://learncopywriting.com/) |
+| ClassX | AI for the classroom | [🔗](https://classx.org/) |
 
 ## Developer
 | Tools | Used for | Link |
