@@ -231,6 +231,7 @@ Curated list of top AI Tools.
 | FirmOS | AI-Powered Automation for Accounting Firms | [🔗](https://www.firmos.ai/) |
 | Keyla.AI | Create video ads in minutes | [🔗](https://keyla.ai/) |
 | Meshr | AI-powered internal linking tool for better SEO & user experience | [🔗](https://meshr.link) |
+| Convert.ai | Generates quality B2B sales meetings with personalized AI outreach | [🔗](https://convert.ai/) |
 
 ## Productivity
 | Tools | Used for | Link |
