@@ -379,6 +379,7 @@ Curated list of top AI Tools.
 | Flirt | Dating App Convo AI Assistant | [🔗](https://flirtos.com/) |
 | Palm | AI small business filing assistant and identity wallet | [🔗](http://getpalm.com/) |
 | ChefPandas | Smart meal planning, made simple! | [🔗](https://www.chefpandas.com/) |
+| Narrativ | AI powered career storytelling tool | [🔗](https://mynarrativ.com) |
 
 ## Contributors 😍
 
