@@ -136,6 +136,7 @@ Curated list of top AI Tools.
 ## Developer
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| AI/ML API | 200+ AI models thorugh on API. ChatGPT, Sonnet, Gemini, Llama, and even many video and image-gen models, all in one place. | [🔗](https://aimlapi.com/?utm_source=top-ai-tools&utm_medium=github&utm_campaign=integration)|
 | Chat Data Prep | data transformation using plain english | [🔗](https://www.akkio.com/chat-data-prep)|
 | Codeium | free AI powered code completion | [🔗](https://www.codeium.com/)|
 | Ghostwriter (by Replit) | AI pair programmer | [🔗](https://replit.com/site/ghostwriter)|
