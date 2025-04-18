@@ -290,6 +290,7 @@ Curated list of top AI Tools.
 | PropertyListingsAI | Generate real estate listings using AI | [🔗](https://propertylistingsai.com/) |
 | VideosGeneratorAI | Generate viral TikTok videos using AI | [🔗](https://videosgeneratorai.com/) |
 | GPT Reader | Natural ChatGPT AI text to speech (TTS) for PDFs, articles, & docs | [🔗](https://gpt-reader.com/) |
+| Nudge AI | Ambient AI Scribe for Healthcare | [🔗](https://getnudgeai.com/) |
 
 ## Search Engines & Tools
 
