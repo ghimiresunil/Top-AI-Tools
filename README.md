@@ -132,6 +132,7 @@ Curated list of top AI Tools.
 | Preschools Near Me | AI personal assistant for finding and applying to preschools | [🔗](https://www.preschoolsnearme.org/) |
 | Learn Copywriting | Practice copywriting exercises and get scored by AI | [🔗](https://learncopywriting.com/) |
 | ClassX | AI for the classroom | [🔗](https://classx.org/) |
+| Homeworkify | AI-powered homework assistant helping students learn faster | [🔗](https://homeworkify.app/) |
 
 ## Developer
 | Tools | Used for | Link |
