@@ -182,6 +182,7 @@ Curated list of top AI Tools.
 | Amazon Q Developer | An IDE plugin that provides both chat and agent based tools to developers| [🔗](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)|
 | Amazon Q Developer CLI | An command line tool  that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code| [🔗](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)|
 | Zuzia.app | AI-powered server monitoring and task automation for Linux and VPS. | [🔗](https://zuzia.app)|
+| ChatterBox | One API for meeting bots on Zoom, Meet & Teams | [🔗](https://chatter-box.io) |
 
 ## Gaming, 3D, Motion
 | Tools | Used for | Link |
