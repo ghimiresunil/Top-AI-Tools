@@ -87,7 +87,7 @@ Curated list of top AI Tools.
 | Seede AI | Helps you create a poster in 1 min | [🔗](https://seede.ai/)|
 | FLUX AI ART | AI Image Generator | [🔗](https://fluxaiart.ai/)|
 | Velocity | On-demand feedback for Figma prototypes | [🔗](https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min)|
-
+| Venngage AI Infographic Generator | AI-powered visuals that turn your ideas into infographics, instantly. | [🔗](https://venngage.com/ai-tools/infographic-generator)|
 
 ## E-commerce
 | Tools | Used for | Link |
