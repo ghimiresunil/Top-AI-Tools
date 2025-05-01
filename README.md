@@ -133,6 +133,7 @@ Curated list of top AI Tools.
 | Learn Copywriting | Practice copywriting exercises and get scored by AI | [🔗](https://learncopywriting.com/) |
 | ClassX | AI for the classroom | [🔗](https://classx.org/) |
 | Homeworkify | AI-powered homework assistant helping students learn faster | [🔗](https://homeworkify.app/) |
+| Summara | YouTube AI Summary and Transcript widget | [🔗](https://summara.io/) |
 
 ## Developer
 | Tools | Used for | Link |
