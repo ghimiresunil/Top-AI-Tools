@@ -296,6 +296,7 @@ Curated list of top AI Tools.
 | VideosGeneratorAI | Generate viral TikTok videos using AI | [🔗](https://videosgeneratorai.com/) |
 | GPT Reader | Natural ChatGPT AI text to speech (TTS) for PDFs, articles, & docs | [🔗](https://gpt-reader.com/) |
 | Nudge AI | Ambient AI Scribe for Healthcare | [🔗](https://getnudgeai.com/) |
+| Mocha | AI app builder | [🔗](https://getmocha.com) |
 
 ## Search Engines & Tools
 
