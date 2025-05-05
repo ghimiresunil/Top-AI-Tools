@@ -156,7 +156,6 @@ Curated list of top AI Tools.
 |AskCommand|Generate Unix commands from text automatically|[🔗](https://www.askcommand.cppexpert.online/)|
 | Shotstack Workflows | No-code, automation workflow tool for building Generative AI media applications |[🔗](https://shotstack.io/product/workflows/)|
 | text-generator.io AI Text Generator | Open Source Vision language models and web crawlers to understand any links in prompts given. API for developers and special support for AI autocomplete. | [🔗](https://text-generator.io) |
-| Marblism | Generate a SaaS boilerplate from a prompt | [🔗](https://marblism.com) |
 | Code to Flow | Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly. | [🔗](https://codetoflow.com) |
 | SinglebaseCloud | AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development. | [🔗](https://singlebase.cloud) |
 | Interview Solver | Ace your live coding interviews with our AI Copilot | [🔗](https://interviewsolver.com) |
@@ -297,6 +296,7 @@ Curated list of top AI Tools.
 | GPT Reader | Natural ChatGPT AI text to speech (TTS) for PDFs, articles, & docs | [🔗](https://gpt-reader.com/) |
 | Nudge AI | Ambient AI Scribe for Healthcare | [🔗](https://getnudgeai.com/) |
 | Mocha | AI app builder | [🔗](https://getmocha.com) |
+| Marblism | AI Employees for your business | [🔗](https://marblism.com) |
 
 ## Search Engines & Tools
 
