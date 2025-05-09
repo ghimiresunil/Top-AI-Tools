@@ -6,7 +6,7 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 
 ## Contributing
 
-* Please **Open** a [PR](https://github.com/ghimiresunil/Top-AI-Tools/pulls) for list of top AI tools to be added.
+* Please **Open** a [**PR**](https://github.com/ghimiresunil/Top-AI-Tools/pulls) for list of top AI tools to be added.
 * Use the format below.
 
 ## Format
