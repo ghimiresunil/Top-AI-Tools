@@ -393,6 +393,7 @@ Curated list of top AI Tools.
 | ChefPandas | Smart meal planning, made simple! | [🔗](https://www.chefpandas.com/) |
 | Narrativ | AI powered career storytelling tool | [🔗](https://mynarrativ.com) |
 | NAYA | FinOps platform for Fintechs. Reconciliation, Ledgering and Compliance | [🔗](https://naya.finance/) |
+| Composed | AI reply coach for dating—flirty, confident, grounded responses. | [🔗](https://naya.finance/) |
 
 ## Contributors 😍
 
