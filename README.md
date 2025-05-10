@@ -298,6 +298,7 @@ Curated list of top AI Tools.
 | Nudge AI | Ambient AI Scribe for Healthcare | [🔗](https://getnudgeai.com/) |
 | Mocha | AI app builder | [🔗](https://getmocha.com) |
 | Marblism | AI Employees for your business | [🔗](https://marblism.com) |
+| Spell | Spell is the AI alternative to Google Docs | [🔗](https://spellapp.com) |
 
 ## Search Engines & Tools
 
