@@ -89,6 +89,7 @@ Curated list of top AI Tools.
 | Velocity | On-demand feedback for Figma prototypes | [🔗](https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min)|
 | Venngage AI Infographic Generator | AI-powered visuals that turn your ideas into infographics, instantly. | [🔗](https://venngage.com/ai-tools/infographic-generator)|
 | DreamLADU | AI image generator for accessory dwelling units (ADUs) | [🔗](https://www.dreamladu.com)|
+| PlantTattoosAI | Plant and flower tattoo designs generator based on models trained on real plants | [🔗](https://planttattoosai.com/)|
 
 ## E-commerce
 | Tools | Used for | Link |
