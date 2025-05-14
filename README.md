@@ -394,6 +394,7 @@ Curated list of top AI Tools.
 | Narrativ | AI powered career storytelling tool | [🔗](https://mynarrativ.com) |
 | NAYA | FinOps platform for Fintechs. Reconciliation, Ledgering and Compliance | [🔗](https://naya.finance/) |
 | Composed | AI reply coach for dating—flirty, confident, grounded responses. | [🔗](https://naya.finance/) |
+| ManuscriptReport | AI Book Marketing Reports for Authors | [🔗](https://ManuscriptReport.com) |
 
 ## Contributors 😍
 
