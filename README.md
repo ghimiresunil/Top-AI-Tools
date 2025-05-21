@@ -42,7 +42,6 @@ Curated list of top AI Tools.
 | VocalReplica | AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks | [🔗](https://vocalreplica.com/) |
 | X Headshot | Professional AI Headshot Generator | [🔗](https://xheadshot.com) |
 | Jamorphosia | AI-Powered Instrument remover and isolation | [🔗](https://www.jamorphosia.com/) |
-| Content Studio AI | AI-Powered Faceless Video Creation | [🔗](https://contentstudioai.com) |
 | Podcast Clip Maker | Automatically generate podcast clips from long-form video and audio | [🔗](https://recast.studio/tools/podcast-clip-maker) |
 | Black Headshots | AI headshots generator for black professionals | [🔗](https://www.blackheadshots.com) |
 | AISaver | Collection of AI Powered Video and Photo Tools | [🔗](https://aisaver.io) |
@@ -100,20 +99,14 @@ Curated list of top AI Tools.
 ## Finance
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
-| morpher.com | Morpher AI is a comprehensive tool for financial market analysis that acts as your personal investment analyst. | [🔗](https://www.morpher.com/ai)|
 | GetCount | AI-powered accounting for small businesses | [🔗](https://getcount.com) |
 
 ## Education
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
-| Anypod.ai | semantic search engine for YouTube and podcast content | [🔗](https://www.anypod.ai/)|
-| Ask Botta  | personal teaching assistant | [🔗](https://askbotta.com/)|
-| Podly.ai | summarized podcasts | [🔗](https://podly.ai/)|
-| Lorro  | Practice speaking English with an AI tutor | [🔗](https://lorro.io/)|
 | SlidesAI.io  | An AI Powered Text to Presentation Tool, Works with Google Slides | [🔗](https://slidesai.io)|
 | Flair  | AI design tool for branded content | [🔗](https://withflair.ai/)|
 | Twee  | A.I. Powered Tools For English Teachers | [🔗](https://twee.com)|
-| Wilco Sierra  | A platform that generates engineering challenges for software engineers using AI | [🔗](https://trywilco.com/sierra)|
 | Yomu | AI writing assistant for students and academics |  [🔗](https://www.yomu.ai) |
 | PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
 | Sourcely | Academic Citation Finding Tool with AI | [🔗](https://www.sourcely.net/) |
@@ -311,7 +304,6 @@ Curated list of top AI Tools.
 | Bird SQL (by Perplexity)| AI-powered search for the Twitter's social graph | [🔗](https://www.perplexity.ai/sql)|
 | Metaphor | a system to search the internet with large language models | [🔗](https://metaphor.systems/)|
 | Rewind | search engine for your life | [🔗](https://www.rewind.ai/)|
-| Tasmania | YouTube video search | [🔗](https://tasmania.sievedata.com/)|
 | You | AI powered search engine | [🔗](https://you.com/apps/discover)|
 | muse.ai | video content search and conversational assistant | [🔗](https://muse.ai/) |
 | Refinder AI | AI-powered universal search and assistant for work| [🔗](https://refinder.ai/)|
