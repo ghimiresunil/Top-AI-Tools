@@ -10,6 +10,7 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 * Use the format below.
 
 ## Format
+
 ```
 Curated list of top AI Tools.
 |Tools|Used For|[🔗](Link)|
@@ -35,7 +36,7 @@ Curated list of top AI Tools.
 | Human Generator | AI powered generator of people | [🔗](https://generated.photos/human-generator)
 | Let's Enhance | Image enhancer & upscaler without losing quality| [🔗](https://letsenhance.io/) |
 | The Multiverse AI | Turn your selfies into professional headshots| [🔗]((https://themultiverse.ai/)) |
-| StockPhotoAI.net | Great stock photos, made for you. | [🔗](https://www.stockphotoai.net/?ref=Top-AI-Tools) | 
+| StockPhotoAI.net | Great stock photos, made for you. | [🔗](https://www.stockphotoai.net/?ref=Top-AI-Tools) |
 | FairyTailAI | Personalized bedtime story generator | [🔗](https://fairytailai.com/) |
 | eBank | eBank is a AI Art Generator and AI Art Search Engine where you can search millions of community AI Artworks. |   [🔗](https://eBank.nz)    |
 | Architecture Helper | Analyze any building architecture, and generate your own custom styles, in seconds. | [🔗](https://architecturehelper.com) |
@@ -54,6 +55,7 @@ Curated list of top AI Tools.
 | CreativePixel | AI creative studio: turning "impossible" to "done" in seconds. | [🔗](https://creativepixel.ai)
 
 ## Conversational AI
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Character.AI | conversational AI for open-ended conversations | [🔗](https://beta.character.ai/)|
@@ -69,6 +71,7 @@ Curated list of top AI Tools.
 | DreamjourneyAI | AI roleplay and character chat platform | [🔗](https://dreamjourneyai.com)
 
 ## Design
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Interior AI | interior design mockups and virtual staging | [🔗](https://interiorai.com/)|
@@ -91,17 +94,20 @@ Curated list of top AI Tools.
 | PlantTattoosAI | Plant and flower tattoo designs generator based on models trained on real plants | [🔗](https://planttattoosai.com/)|
 
 ## E-commerce
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Lootgod.com | generative ai apparel using print-on-demand | [🔗](https://www.lootgod.com/)|
 | Rupert AI | AI tools for designers and marketers | [🔗](https://www.getrupert.com/)|
 
 ## Finance
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | GetCount | AI-powered accounting for small businesses | [🔗](https://getcount.com) |
 
 ## Education
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | SlidesAI.io  | An AI Powered Text to Presentation Tool, Works with Google Slides | [🔗](https://slidesai.io)|
@@ -131,6 +137,7 @@ Curated list of top AI Tools.
 | Summara | YouTube AI Summary and Transcript widget | [🔗](https://summara.io/) |
 
 ## Developer
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | AI/ML API | 200+ AI models thorugh on API. ChatGPT, Sonnet, Gemini, Llama, and even many video and image-gen models, all in one place. | [🔗](https://aimlapi.com/?utm_source=top-ai-tools&utm_medium=github&utm_campaign=integration)|
@@ -146,8 +153,8 @@ Curated list of top AI Tools.
 | Phind | LLM-powered search engine for developers and technical questions | [🔗](https://phind.com/)|
 | Promptable.ai | the ultimate workspace for prompt engineering | [🔗](https://promptable.ai/)|
 | Suppress.js | Building or augmenting backend with AI | [🔗](https://github.com/velocitatem/suppress) |
-| Dystr | AI powered analysis / cloud runtime | [🔗](https://dystr.com)| 
-| GitPoet | Git commit message generator (based on your changes) with a VSCode extension | [🔗](https://www.gitpoet.dev/)| 
+| Dystr | AI powered analysis / cloud runtime | [🔗](https://dystr.com)|
+| GitPoet | Git commit message generator (based on your changes) with a VSCode extension | [🔗](https://www.gitpoet.dev/)|
 |AskCommand|Generate Unix commands from text automatically|[🔗](https://www.askcommand.cppexpert.online/)|
 | Shotstack Workflows | No-code, automation workflow tool for building Generative AI media applications |[🔗](https://shotstack.io/product/workflows/)|
 | text-generator.io AI Text Generator | Open Source Vision language models and web crawlers to understand any links in prompts given. API for developers and special support for AI autocomplete. | [🔗](https://text-generator.io) |
@@ -178,8 +185,10 @@ Curated list of top AI Tools.
 | Amazon Q Developer CLI | An command line tool  that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code| [🔗](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)|
 | Zuzia.app | AI-powered server monitoring and task automation for Linux and VPS. | [🔗](https://zuzia.app)|
 | ChatterBox | One API for meeting bots on Zoom, Meet & Teams | [🔗](https://chatter-box.io) |
+| Gestell | Gestell takes your messy, unstructured data and turns it into organized, searchable databases | [🔗](https://gestell.ai) |
 
 ## Gaming, 3D, Motion
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Imagine 3D (by Luma AI) | tool for prototyping 3D objects with text | [🔗](https://captures.lumalabs.ai/imagine)|
@@ -188,6 +197,7 @@ Curated list of top AI Tools.
 | Inworld AI | create any character you can imagine | [🔗](https://inworld.ai/)|
 
 ## Sales/Marketing
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Choppity.com | Instantly turn long podcast videos into short TikToks | [🔗](https://www.choppity.com/)|
@@ -238,6 +248,7 @@ Curated list of top AI Tools.
 | Audio Forms | AI-Powered Audio Surveys | [🔗](https://getaudioforms.com/) |
 
 ## Productivity
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | GPT for Sheets and Docs | integrate GPT in your everyday tools | [🔗](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) |
@@ -246,12 +257,12 @@ Curated list of top AI Tools.
 | DraftLab | Gmail copilot | [🔗](https://draftlab.ai/)|
 | Adept | useful general intelligence | [🔗](https://www.adept.ai/)|
 | AutoRegEx | AI based Text to Regex conversion | [🔗](https://www.autoregex.xyz)|
-| NotionAI | AI Writing tool | [🔗](https://www.notion.so/product/ai)| 
-| Dystr | AI powered analysis / cloud runtime | [🔗](https://dystr.com)| 
-| Plus AI for Google Slides | Create AI-powered presentations in Google Slides | [🔗](https://www.plusdocs.com/plus-ai-for-google-slides)| 
+| NotionAI | AI Writing tool | [🔗](https://www.notion.so/product/ai)|
+| Dystr | AI powered analysis / cloud runtime | [🔗](https://dystr.com)|
+| Plus AI for Google Slides | Create AI-powered presentations in Google Slides | [🔗](https://www.plusdocs.com/plus-ai-for-google-slides)|
 | Podwise | The premier AI learning app for Podcast Listeners | [🔗](https://podwise.xyz) |
 | Documind AI | Chat with pdf using GPT4 | [🔗](https://documind.chat) |
-| guidde | Magically create video documentation with AI | [🔗](https://www.guidde.com)| 
+| guidde | Magically create video documentation with AI | [🔗](https://www.guidde.com)|
 | Kolega | AI powered employees for Slack and Teams | [🔗](https://kolega.ai)|
 | AI Character for GPT | Free Chrome extension providing one click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses. | [🔗]([https://kolega.ai](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh))|
 | Elephas | Personal AI writing assistant for the Mac. | [🔗](https://elephas.app/?ref=Top-AI-Tools) |
@@ -309,8 +320,8 @@ Curated list of top AI Tools.
 | Refinder AI | AI-powered universal search and assistant for work| [🔗](https://refinder.ai/)|
 | Hika AI| AI search for deeper thinking, not just find answers | [🔗](https://www.hika.fyi)|
 
-
 ## Research Tools
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Consensus | AI powered search for research papers | [🔗](https://consensus.app/)|
@@ -324,11 +335,13 @@ Curated list of top AI Tools.
 | Phind | An AI search engine, using multi-step reasoning to find the answer & generative UI to present it in a beautiful and interactive way.| [🔗](https://www.phind.com/)|
 
 ## Geospatial
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Picterra | AI geospatial software platform for feature & change detection in satellite, drone, & aerial imagery | [🔗](https://picterra.ch/)|
 
 ## Customer Support
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Twig | Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7. | [🔗](https://www.twig.so/) |
@@ -343,18 +356,20 @@ Curated list of top AI Tools.
 | Rosie | AI Phone Answering Service | [🔗](https://heyrosie.com/) |
 
 ## Phone Calls
+
 | Tools | Used For | Link |
 |------ | ------------ | :----------: |
 | AICaller.io | AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial. | [🔗](https://aicaller.io/?ref=v) |
 
 ## HR
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Resume Screener AI| a cutting-edge resume screening tool tailored for small business owners, startup HR teams, and independent headhunters. Powered by advanced AI technology, it offers an efficient and accurate solution for batch resume screening, significantly reducing the workload for recruiters and founders. | [🔗](https://resume-screening.com/) |
 | Candor | AI-Powered 360-Degree Feedback | [🔗](https://www.candor.so/) |
 
-
 ## Others
+
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Never Jobless LinkedIn Message Generator | Maximize Your Interview Chances with AI-Powered LinkedIn Messaging. | [🔗](https://neverjobless.com/?ref=Top-AI-Tools) |
