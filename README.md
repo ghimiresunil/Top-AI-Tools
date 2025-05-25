@@ -246,6 +246,7 @@ Curated list of top AI Tools.
 | Convert.ai | Generates quality B2B sales meetings with personalized AI outreach | [🔗](https://convert.ai/) |
 | Storyy | A Content Team In Your Pocket | [🔗](https://storyy.co/) |
 | Audio Forms | AI-Powered Audio Surveys | [🔗](https://getaudioforms.com/) |
+| Gauge | Gauge helps your company show up in AI answers | [🔗](https://withgauge.com/) |
 
 ## Productivity
 
