@@ -247,6 +247,7 @@ Curated list of top AI Tools.
 | Storyy | A Content Team In Your Pocket | [🔗](https://storyy.co/) |
 | Audio Forms | AI-Powered Audio Surveys | [🔗](https://getaudioforms.com/) |
 | Gauge | Gauge helps your company show up in AI answers | [🔗](https://withgauge.com/) |
+| Outlier Kit | Discover YouTube niches, trends & Keywords to grow your channel faster | [🔗](https://outlierkit.com/) |
 
 ## Productivity
 
