@@ -105,6 +105,7 @@ Curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | GetCount | AI-powered accounting for small businesses | [🔗](https://getcount.com) |
+| Wallet Finder AI | Defi wallets and tokens analytics information | [🔗](https://www.walletfinder.ai/) |
 
 ## Education
 
