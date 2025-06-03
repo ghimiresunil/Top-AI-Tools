@@ -249,6 +249,7 @@ Curated list of top AI Tools.
 | Audio Forms | AI-Powered Audio Surveys | [🔗](https://getaudioforms.com/) |
 | Gauge | Gauge helps your company show up in AI answers | [🔗](https://withgauge.com/) |
 | Outlier Kit | Discover YouTube niches, trends & Keywords to grow your channel faster | [🔗](https://outlierkit.com/) |
+| Wave Instagram Outreach | Automate Instagram outreach to find leads, send DMs, and get clients | [🔗](https://www.usewave.co) |
 
 ## Productivity
 
