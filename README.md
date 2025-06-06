@@ -310,6 +310,7 @@ Curated list of top AI Tools.
 | Marblism | AI Employees for your business | [🔗](https://marblism.com) |
 | Promptly | Discover, create and share powerful prompts | [🔗](https://searchpromptly.com/) |
 | Spell | Spell is the AI alternative to Google Docs | [🔗](https://spellapp.com) |
+| Kosmik | AI moodboarding platform | [🔗](https://www.kosmik.app) |
 
 ## Search Engines & Tools
 
