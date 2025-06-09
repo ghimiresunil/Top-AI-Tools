@@ -187,6 +187,7 @@ Curated list of top AI Tools.
 | Zuzia.app | AI-powered server monitoring and task automation for Linux and VPS. | [🔗](https://zuzia.app)|
 | ChatterBox | One API for meeting bots on Zoom, Meet & Teams | [🔗](https://chatter-box.io) |
 | Gestell | Gestell takes your messy, unstructured data and turns it into organized, searchable databases | [🔗](https://gestell.ai) |
+| StarOps | AI Platform Engineer | [🔗](https://ingenimax.ai) |
 
 ## Gaming, 3D, Motion
 
