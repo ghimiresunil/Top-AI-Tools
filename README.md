@@ -409,7 +409,7 @@ Curated list of top AI Tools.
 | Palm | AI small business filing assistant and identity wallet | [🔗](http://getpalm.com/) |
 | ChefPandas | Smart meal planning, made simple! | [🔗](https://www.chefpandas.com/) |
 | Narrativ | AI powered career storytelling tool | [🔗](https://mynarrativ.com) |
-| NAYA | FinOps platform for Fintechs. Reconciliation, Ledgering and Compliance | [🔗](https://naya.finance/) |
+| NAYA | AI Financial Operations platform for Fintechs & Financial services providers. Automate Reconciliation, Ledgering and Compliance | [🔗](https://naya.finance/) |
 | Composed | AI reply coach for dating—flirty, confident, grounded responses. | [🔗](https://naya.finance/) |
 | ManuscriptReport | AI Book Marketing Reports for Authors | [🔗](https://ManuscriptReport.com) |
 | EasyVC | Skip the investor research for your startup. Get introduced by portfolio founders. |[🔗](https://easyvc.ai)|
