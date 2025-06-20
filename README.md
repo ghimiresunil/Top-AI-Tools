@@ -253,6 +253,7 @@ Curated list of top AI Tools.
 | Gauge | Gauge helps your company show up in AI answers | [🔗](https://withgauge.com/) |
 | Outlier Kit | Discover YouTube niches, trends & Keywords to grow your channel faster | [🔗](https://outlierkit.com/) |
 | Wave Instagram Outreach | Automate Instagram outreach to find leads, send DMs, and get clients | [🔗](https://www.usewave.co) |
+| Postiz | AI Social Media Scheduling Tool | [🔗](https://www.postiz.com) |
 
 ## Productivity
 
