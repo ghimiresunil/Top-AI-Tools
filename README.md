@@ -93,6 +93,7 @@ Curated list of top AI Tools.
 | Venngage AI Infographic Generator | AI-powered visuals that turn your ideas into infographics, instantly. | [🔗](https://venngage.com/ai-tools/infographic-generator)|
 | DreamLADU | AI image generator for accessory dwelling units (ADUs) | [🔗](https://www.dreamladu.com)|
 | PlantTattoosAI | Plant and flower tattoo designs generator based on models trained on real plants | [🔗](https://planttattoosai.com/)|
+| AI Brochure Generator | Turn prompts into brochures - fast, polished, and on-brand. | [🔗](https://venngage.com/ai-tools/brochure-generator)
 
 ## E-commerce
 
