@@ -54,6 +54,7 @@ Curated list of top AI Tools.
 | The Birthday Poem | AI Birthday Poem Generator | [🔗](https://www.thebirthdaypoem.com/)
 | CreativePixel | AI creative studio: turning "impossible" to "done" in seconds. | [🔗](https://creativepixel.ai)
 | AI Image Editor | Edit, transform and enhance photos with text prompt. | [🔗](https://aiimageeditor.ai)
+| Caricature Maker | Make caricatures from your photos with high resemblance | [🔗](https://caricaturemaker.net/)
 
 ## Conversational AI
 
