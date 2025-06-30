@@ -258,6 +258,7 @@ Curated list of top AI Tools.
 | Wave Instagram Outreach | Automate Instagram outreach to find leads, send DMs, and get clients | [🔗](https://www.usewave.co) |
 | Postiz | AI Social Media Scheduling Tool | [🔗](https://www.postiz.com) |
 | Smartshort | Text to video | [🔗](https://smartshort.co) |
+| SalesAgent Chat | AI Sales Coach & Copilot for real-time support | [🔗](https://www.salesagent.chat) |
 
 ## Productivity
 
