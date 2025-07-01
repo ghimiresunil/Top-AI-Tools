@@ -321,6 +321,7 @@ Curated list of top AI Tools.
 | Kosmik | AI moodboarding platform | [🔗](https://www.kosmik.app) |
 | Magic Potion | Visual AI Prompt Editor | [🔗](https://www.magicpotion.app) |
 | EKHOS AI | EKHOS AI is a powerful speech-to-text software that accurately transcribes audio and video files, supports real-time recording and transcription, and a built-in proofreading editor. | [🔗](https://ekhos.ai/) |
+| 3D House Planner | AI-Powered 3D Floor Plan Generation from Images | [🔗](https://3dhouseplanner.com/) |
 
 ## Search Engines & Tools
 
