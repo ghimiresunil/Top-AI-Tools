@@ -193,6 +193,8 @@ Curated list of top AI Tools.
 | ChatterBox | One API for meeting bots on Zoom, Meet & Teams | [🔗](https://chatter-box.io) |
 | Gestell | Gestell takes your messy, unstructured data and turns it into organized, searchable databases | [🔗](https://gestell.ai) |
 | StarOps | AI Platform Engineer | [🔗](https://ingenimax.ai) |
+| Langfa.st | Test and share AI prompts instantly. No signup. Built for engineers and product teams. | [🔗](https://www.langfa.st) |
+
 
 ## Gaming, 3D, Motion
 
