@@ -425,6 +425,7 @@ Curated list of top AI Tools.
 | ManuscriptReport | AI Book Marketing Reports for Authors | [🔗](https://ManuscriptReport.com) |
 | EasyVC | Skip the investor research for your startup. Get introduced by portfolio founders. |[🔗](https://easyvc.ai)|
 | Best AI Agents Directory | Curated Collection of the Best AI Agents to Boost Your Workflow |[🔗](https://www.bestaiagents.directory/)|
+| FairPact AI | Scan contracts & find gotchas before signing |[🔗](https://fairpact.actualization.ai)|
 
 ## Contributors 😍
 
