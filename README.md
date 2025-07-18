@@ -195,7 +195,7 @@ Curated list of top AI Tools.
 | StarOps | AI Platform Engineer | [🔗](https://ingenimax.ai) |
 | Langfa.st | Test and share AI prompts instantly. No signup. Built for engineers and product teams. | [🔗](https://www.langfa.st) |
 | SocialKit | Analyze Social Media Videos with a simple API | [🔗](https://www.socialkit.dev/) |
-
+| DeepDocs | AI that updates docs when you ship code | [🔗](https://deepdocs.dev/) |
 
 ## Gaming, 3D, Motion
 
