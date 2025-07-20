@@ -262,6 +262,7 @@ Curated list of top AI Tools.
 | Postiz | AI Social Media Scheduling Tool | [🔗](https://www.postiz.com) |
 | Smartshort | Text to video | [🔗](https://smartshort.co) |
 | SalesAgent Chat | AI Sales Coach & Copilot for real-time support | [🔗](https://www.salesagent.chat) |
+| LinkRocket | Earn Credits. Build Backlinks. Dominate Rankings | [🔗](https://linkrocket.ai) |
 
 ## Productivity
 
