@@ -263,6 +263,8 @@ Curated list of top AI Tools.
 | Smartshort | Text to video | [🔗](https://smartshort.co) |
 | SalesAgent Chat | AI Sales Coach & Copilot for real-time support | [🔗](https://www.salesagent.chat) |
 | LinkRocket | Earn Credits. Build Backlinks. Dominate Rankings | [🔗](https://linkrocket.ai) |
+| Serplux | 400+ AI Tools and AI Agents for digital marketing | [🔗](https://serplux.com/) |
+
 
 ## Productivity
 
