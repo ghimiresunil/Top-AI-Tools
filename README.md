@@ -96,6 +96,7 @@ Curated list of top AI Tools.
 | PlantTattoosAI | Plant and flower tattoo designs generator based on models trained on real plants | [🔗](https://planttattoosai.com/)|
 | AI Brochure Generator | Turn prompts into brochures - fast, polished, and on-brand. | [🔗](https://venngage.com/ai-tools/brochure-generator)
 | Blurbackground AI | Blurbackground.AI is a free online tool to edit background swiftly. | [🔗](https://blurbackground.ai/)
+| AI Chart Generator | Turn messy data into smart, stunning AI-generated charts in seconds | [🔗](https://venngage.com/ai-tools/chart)
 
 ## E-commerce
 
