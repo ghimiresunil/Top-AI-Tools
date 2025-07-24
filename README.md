@@ -265,6 +265,7 @@ Curated list of top AI Tools.
 | SalesAgent Chat | AI Sales Coach & Copilot for real-time support | [🔗](https://www.salesagent.chat) |
 | LinkRocket | Earn Credits. Build Backlinks. Dominate Rankings | [🔗](https://linkrocket.ai) |
 | Serplux | 400+ AI Tools and AI Agents for digital marketing | [🔗](https://serplux.com/) |
+| Meridian | Be more visible in AI search | [🔗](https://trymeridian.com/) |
 
 
 ## Productivity
