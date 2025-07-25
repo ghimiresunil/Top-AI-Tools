@@ -197,6 +197,7 @@ Curated list of top AI Tools.
 | Langfa.st | Test and share AI prompts instantly. No signup. Built for engineers and product teams. | [🔗](https://www.langfa.st) |
 | SocialKit | Analyze Social Media Videos with a simple API | [🔗](https://www.socialkit.dev/) |
 | DeepDocs | AI that updates docs when you ship code | [🔗](https://deepdocs.dev/) |
+| Manifest | A backend for AI Code Editors and Vibe Coding tools | [🔗](https://manifest.build/) |
 
 ## Gaming, 3D, Motion
 
