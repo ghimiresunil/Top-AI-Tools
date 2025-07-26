@@ -267,6 +267,7 @@ Curated list of top AI Tools.
 | LinkRocket | Earn Credits. Build Backlinks. Dominate Rankings | [🔗](https://linkrocket.ai) |
 | Serplux | 400+ AI Tools and AI Agents for digital marketing | [🔗](https://serplux.com/) |
 | Meridian | Be more visible in AI search | [🔗](https://trymeridian.com/) |
+| BrandLife | Digital asset management platform | [🔗](https://www.brandlife.io/) |
 
 
 ## Productivity
