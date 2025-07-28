@@ -197,7 +197,6 @@ Curated list of top AI Tools.
 | Langfa.st | Test and share AI prompts instantly. No signup. Built for engineers and product teams. | [🔗](https://www.langfa.st) |
 | SocialKit | Analyze Social Media Videos with a simple API | [🔗](https://www.socialkit.dev/) |
 | DeepDocs | AI that updates docs when you ship code | [🔗](https://deepdocs.dev/) |
-| Chat2DB | AI SQL Generator for Easy Database Management | [🔗](https://chat2db.ai/) |
 
 ## Gaming, 3D, Motion
 
@@ -267,6 +266,7 @@ Curated list of top AI Tools.
 | LinkRocket | Earn Credits. Build Backlinks. Dominate Rankings | [🔗](https://linkrocket.ai) |
 | Serplux | 400+ AI Tools and AI Agents for digital marketing | [🔗](https://serplux.com/) |
 | Meridian | Be more visible in AI search | [🔗](https://trymeridian.com/) |
+| BrandLife | Digital asset management platform | [🔗](https://www.brandlife.io/) |
 
 
 ## Productivity
