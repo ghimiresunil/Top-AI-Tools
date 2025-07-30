@@ -199,6 +199,7 @@ Curated list of top AI Tools.
 | SocialKit | Analyze Social Media Videos with a simple API | [🔗](https://www.socialkit.dev/) |
 | DeepDocs | AI that updates docs when you ship code | [🔗](https://deepdocs.dev/) |
 | Chat2DB | AI SQL Generator for Easy Database Management | [🔗](https://chat2db.ai/) |
+| AI For Developers | Curated AI DevTools For Developers Community | [🔗](https://aifordevelopers.org/) |
 
 ## Gaming, 3D, Motion
 
