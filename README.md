@@ -97,6 +97,8 @@ Curated list of top AI Tools.
 | AI Brochure Generator | Turn prompts into brochures - fast, polished, and on-brand. | [🔗](https://venngage.com/ai-tools/brochure-generator)
 | Blurbackground AI | Blurbackground.AI is a free online tool to edit background swiftly. | [🔗](https://blurbackground.ai/)
 | AI Chart Generator | Turn messy data into smart, stunning AI-generated charts in seconds | [🔗](https://venngage.com/ai-tools/chart)
+| AI Poster Generator | Create custom posters fast with Venngage’s AI-powered design tool. | [🔗](https://venngage.com/ai-tools/poster-generator)
+| MagicEraser AI | Free online tool to clean up photos instantly | [🔗](https://magiceraser.org/)
 
 ## E-commerce
 
@@ -197,6 +199,7 @@ Curated list of top AI Tools.
 | Langfa.st | Test and share AI prompts instantly. No signup. Built for engineers and product teams. | [🔗](https://www.langfa.st) |
 | SocialKit | Analyze Social Media Videos with a simple API | [🔗](https://www.socialkit.dev/) |
 | DeepDocs | AI that updates docs when you ship code | [🔗](https://deepdocs.dev/) |
+| Chat2DB | AI SQL Generator for Easy Database Management | [🔗](https://chat2db.ai/) |
 
 ## Gaming, 3D, Motion
 
@@ -265,6 +268,8 @@ Curated list of top AI Tools.
 | SalesAgent Chat | AI Sales Coach & Copilot for real-time support | [🔗](https://www.salesagent.chat) |
 | LinkRocket | Earn Credits. Build Backlinks. Dominate Rankings | [🔗](https://linkrocket.ai) |
 | Serplux | 400+ AI Tools and AI Agents for digital marketing | [🔗](https://serplux.com/) |
+| Meridian | Be more visible in AI search | [🔗](https://trymeridian.com/) |
+| BrandLife | Digital asset management platform | [🔗](https://www.brandlife.io/) |
 
 
 ## Productivity
@@ -330,6 +335,7 @@ Curated list of top AI Tools.
 | Magic Potion | Visual AI Prompt Editor | [🔗](https://www.magicpotion.app) |
 | EKHOS AI | EKHOS AI is a powerful speech-to-text software that accurately transcribes audio and video files, supports real-time recording and transcription, and a built-in proofreading editor. | [🔗](https://ekhos.ai/) |
 | 3D House Planner | AI-Powered 3D Floor Plan Generation from Images | [🔗](https://3dhouseplanner.com/) |
+| UnSoloMind | A chat-style tool for sharing your business knowledge asynchronously | [🔗](https://unsolomind.com) |
 
 ## Search Engines & Tools
 
