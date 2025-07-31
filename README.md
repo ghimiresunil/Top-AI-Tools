@@ -270,6 +270,7 @@ Curated list of top AI Tools.
 | Serplux | 400+ AI Tools and AI Agents for digital marketing | [🔗](https://serplux.com/) |
 | Meridian | Be more visible in AI search | [🔗](https://trymeridian.com/) |
 | BrandLife | Digital asset management platform | [🔗](https://www.brandlife.io/) |
+| HeadsUp | Your AI Competitive Intelligence Agent | [🔗](https://headsup.bot/) |
 
 
 ## Productivity
