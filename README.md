@@ -55,6 +55,7 @@ Curated list of top AI Tools.
 | CreativePixel | AI creative studio: turning "impossible" to "done" in seconds. | [🔗](https://creativepixel.ai)
 | AI Image Editor | Edit, transform and enhance photos with text prompt. | [🔗](https://aiimageeditor.ai)
 | Caricature Maker | Make caricatures from your photos with high resemblance | [🔗](https://caricaturemaker.net/)
+| Aleph AI | A new way to edit, transform, and generate stunning videos | [🔗](https://alephai.app)
 
 ## Conversational AI
 
