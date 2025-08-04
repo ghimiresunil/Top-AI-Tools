@@ -100,6 +100,7 @@ Curated list of top AI Tools.
 | AI Chart Generator | Turn messy data into smart, stunning AI-generated charts in seconds | [🔗](https://venngage.com/ai-tools/chart)
 | AI Poster Generator | Create custom posters fast with Venngage’s AI-powered design tool. | [🔗](https://venngage.com/ai-tools/poster-generator)
 | MagicEraser AI | Free online tool to clean up photos instantly | [🔗](https://magiceraser.org/)
+| VDraw AI | Free online AI Carousel Post Generator for Social Media | [🔗](https://vdraw.ai//)|
 
 ## E-commerce
 
