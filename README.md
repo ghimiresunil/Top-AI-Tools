@@ -273,6 +273,7 @@ Curated list of top AI Tools.
 | BrandLife | Digital asset management platform | [🔗](https://www.brandlife.io/) |
 | HeadsUp | Your AI Competitive Intelligence Agent | [🔗](https://headsup.bot/) |
 | PageSpike.ai | CRO Audits for landing pages - powered by AI | [🔗](https://pagespike.ai/) |
+| BestFarewell | Family Estate Management System | [🔗](https://bestfarewell.com) |
 
 ## Productivity
 
