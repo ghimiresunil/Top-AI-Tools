@@ -56,6 +56,8 @@ Curated list of top AI Tools.
 | AI Image Editor | Edit, transform and enhance photos with text prompt. | [🔗](https://aiimageeditor.ai)
 | Caricature Maker | Make caricatures from your photos with high resemblance | [🔗](https://caricaturemaker.net/)
 | Aleph AI | A new way to edit, transform, and generate stunning videos | [🔗](https://alephai.app)
+| AIvector | Not Just Converter: AI Vector Engine for Perfect SVG. | [🔗](https://aivector.ai/)
+
 
 ## Conversational AI
 
