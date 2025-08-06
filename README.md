@@ -58,7 +58,6 @@ Curated list of top AI Tools.
 | Aleph AI | A new way to edit, transform, and generate stunning videos | [🔗](https://alephai.app)
 | AIvector | Not Just Converter: AI Vector Engine for Perfect SVG. | [🔗](https://aivector.ai/)
 
-
 ## Conversational AI
 
 | Tools | Used for | Link |
