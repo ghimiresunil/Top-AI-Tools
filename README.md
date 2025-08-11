@@ -277,6 +277,7 @@ Curated list of top AI Tools.
 | HeadsUp | Your AI Competitive Intelligence Agent | [🔗](https://headsup.bot/) |
 | PageSpike.ai | CRO Audits for landing pages - powered by AI | [🔗](https://pagespike.ai/) |
 | BestFarewell | Family Estate Management System | [🔗](https://bestfarewell.com) |
+| Toksta | AI Software Research Agent | [🔗](https://www.toksta.com) |
 
 ## Productivity
 
