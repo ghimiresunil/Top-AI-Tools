@@ -155,6 +155,7 @@ Curated list of top AI Tools.
 | AI/ML API | 200+ AI models thorugh on API. ChatGPT, Sonnet, Gemini, Llama, and even many video and image-gen models, all in one place. | [🔗](https://aimlapi.com/?utm_source=top-ai-tools&utm_medium=github&utm_campaign=integration)|
 | Chat Data Prep | data transformation using plain english | [🔗](https://www.akkio.com/chat-data-prep)|
 | Codeium | free AI powered code completion | [🔗](https://www.codeium.com/)|
+| Codeflash | Ship Blazing-Fast Python Code — Every Time. | [🔗](https://www.codeflash.ai/) 
 | Ghostwriter (by Replit) | AI pair programmer | [🔗](https://replit.com/site/ghostwriter)|
 | GitHub Copilot | an AI pair programmer | [🔗](https://github.com/features/copilot)|
 | GoCodeo | GoCodeo is an AI agent for building full-stack apps in minutes | [🔗](https://www.gocodeo.com/)|
@@ -285,6 +286,7 @@ Curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | GPT for Sheets and Docs | integrate GPT in your everyday tools | [🔗](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) |
 | Lex | Web based AI writing tool | [🔗](https://lex.page/) |
+| Codeflash | Ship Blazing-Fast Python Code — Every Time. | [🔗](https://www.codeflash.ai/) 
 | Smart Write & Smart Edit (by Mem) | knowledge-aware AI writer | [🔗](https://get.mem.ai/)|
 | DraftLab | Gmail copilot | [🔗](https://draftlab.ai/)|
 | Adept | useful general intelligence | [🔗](https://www.adept.ai/)|
