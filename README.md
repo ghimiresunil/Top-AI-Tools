@@ -278,6 +278,7 @@ Curated list of top AI Tools.
 | PageSpike.ai | CRO Audits for landing pages - powered by AI | [🔗](https://pagespike.ai/) |
 | BestFarewell | Family Estate Management System | [🔗](https://bestfarewell.com) |
 | Toksta | AI Software Research Agent | [🔗](https://www.toksta.com) |
+| Waveon | AI Landing Page Builder | [🔗](https://www.waveon.io) |
 
 ## Productivity
 
