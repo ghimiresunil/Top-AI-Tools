@@ -344,6 +344,7 @@ Curated list of top AI Tools.
 | EKHOS AI | EKHOS AI is a powerful speech-to-text software that accurately transcribes audio and video files, supports real-time recording and transcription, and a built-in proofreading editor. | [🔗](https://ekhos.ai/) |
 | 3D House Planner | AI-Powered 3D Floor Plan Generation from Images | [🔗](https://3dhouseplanner.com/) |
 | UnSoloMind | A chat-style tool for sharing your business knowledge asynchronously | [🔗](https://unsolomind.com) |
+| Trails | The easiest way to document your process | [🔗](https://trails.so/) |
 | iPurix | AI-Powered Watermark Remover - Free, Quick, and Easy to Use | [🔗](https://remove-watermark.org) |
 
 ## Search Engines & Tools
