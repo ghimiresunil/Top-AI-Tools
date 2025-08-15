@@ -278,6 +278,7 @@ Curated list of top AI Tools.
 | PageSpike.ai | CRO Audits for landing pages - powered by AI | [🔗](https://pagespike.ai/) |
 | BestFarewell | Family Estate Management System | [🔗](https://bestfarewell.com) |
 | Toksta | AI Software Research Agent | [🔗](https://www.toksta.com) |
+| Waveon | AI Landing Page Builder | [🔗](https://www.waveon.io) |
 
 ## Productivity
 
@@ -344,6 +345,7 @@ Curated list of top AI Tools.
 | 3D House Planner | AI-Powered 3D Floor Plan Generation from Images | [🔗](https://3dhouseplanner.com/) |
 | UnSoloMind | A chat-style tool for sharing your business knowledge asynchronously | [🔗](https://unsolomind.com) |
 | Trails | The easiest way to document your process | [🔗](https://trails.so/) |
+| iPurix | AI-Powered Watermark Remover - Free, Quick, and Easy to Use | [🔗](https://remove-watermark.org) |
 
 ## Search Engines & Tools
 
