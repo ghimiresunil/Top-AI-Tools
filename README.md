@@ -205,6 +205,7 @@ Curated list of top AI Tools.
 | DeepDocs | AI that updates docs when you ship code | [🔗](https://deepdocs.dev/) |
 | Chat2DB | AI SQL Generator for Easy Database Management | [🔗](https://chat2db.ai/) |
 | Recurse ML | Find bugs in AI Generated Code | [🔗](https://recurse.ml) |
+| PromptTester | Test, compare, and optimize your AI prompts in minutes. | [🔗](https://github.com/aralyekta/prompttester) |
 
 ## Gaming, 3D, Motion
 
