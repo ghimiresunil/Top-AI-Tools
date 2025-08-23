@@ -353,6 +353,7 @@ Curated list of top AI Tools.
 | UnSoloMind | A chat-style tool for sharing your business knowledge asynchronously | [🔗](https://unsolomind.com) |
 | Trails | The easiest way to document your process | [🔗](https://trails.so/) |
 | iPurix | AI-Powered Watermark Remover - Free, Quick, and Easy to Use | [🔗](https://remove-watermark.org) |
+| X-doc AI | The most accurate AI translator | [🔗](https://x-doc.ai/) |
 
 ## Search Engines & Tools
 
