@@ -208,6 +208,7 @@ Curated list of top AI Tools.
 | Chat2DB | AI SQL Generator for Easy Database Management | [🔗](https://chat2db.ai/) |
 | Recurse ML | Find bugs in AI Generated Code | [🔗](https://recurse.ml) |
 | PromptTester | Test, compare, and optimize your AI prompts in minutes. | [🔗](https://github.com/aralyekta/prompttester) |
+| Rysa AI | AI GTM Automation Agent | [🔗](https://www.rysa.ai) |
 
 ## Gaming, 3D, Motion
 
