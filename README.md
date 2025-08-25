@@ -103,6 +103,7 @@ Curated list of top AI Tools.
 | MagicEraser AI | Free online tool to clean up photos instantly | [🔗](https://magiceraser.org/)
 | VDraw AI | Free online AI Carousel Post Generator for Social Media | [🔗](https://vdraw.ai/)|
 | AI Timeline Generator | Turn ideas into stunning timelines in seconds—powered by smart AI | [🔗](https://venngage.com/ai-tools/timeline-generator)|
+| AI Flyer Generator | Create professional flyers instantly with AI using simple text prompts. | [🔗](https://venngage.com/ai-tools/flyer-generator)|
 
 ## E-commerce
 
@@ -208,6 +209,7 @@ Curated list of top AI Tools.
 | Chat2DB | AI SQL Generator for Easy Database Management | [🔗](https://chat2db.ai/) |
 | Recurse ML | Find bugs in AI Generated Code | [🔗](https://recurse.ml) |
 | PromptTester | Test, compare, and optimize your AI prompts in minutes. | [🔗](https://github.com/aralyekta/prompttester) |
+| Rysa AI | AI GTM Automation Agent | [🔗](https://www.rysa.ai) |
 
 ## Gaming, 3D, Motion
 
