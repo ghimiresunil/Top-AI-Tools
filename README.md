@@ -63,6 +63,7 @@ Curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Character.AI | conversational AI for open-ended conversations | [🔗](https://beta.character.ai/)|
+| DreamjourneyAI | AI roleplay and character chat platform | [🔗](https://dreamjourneyai.com)
 | ChatGPT (by OpenAI) | conversational AI system powered by large language models | [🔗](https://chat.openai.com/)|
 | Gemini (by Google) | conversational AI chat service from Google that can access and process information from the web | [🔗](https://gemini.google.com/)|
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
@@ -72,7 +73,6 @@ Curated list of top AI Tools.
 | Claude | Talk to Claude, an AI assistant from Anthropic. | [🔗](https://claude.ai/)|
 | Pleasuredomes | AI Image and chatbot | [🔗](http://pleasuredomes.ai/) |
 | ChatSweetie | Free AI Girlfriend Chat | [🔗](https://chatsweetie.ai/) |
-| DreamjourneyAI | AI roleplay and character chat platform | [🔗](https://dreamjourneyai.com)
 
 ## Design
 
