@@ -20,6 +20,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| AIvector | Not Just Converter: AI Vector Engine for Perfect SVG. | [🔗](https://aivector.ai/)
 | AI Magic Tools (by runway) | creativity tools to edit and generate content | [🔗](https://runwayml.com/ai-magic-tools/)|
 | AvatarAI | create photorealistic AI avatars | [🔗](https://avatarai.me/)|
 | ClipDrop| apps, plugins, and resources for creators, powered by AI | [🔗](https://clipdrop.co/)|
@@ -56,7 +57,6 @@ Curated list of top AI Tools.
 | AI Image Editor | Edit, transform and enhance photos with text prompt. | [🔗](https://aiimageeditor.ai)
 | Caricature Maker | Make caricatures from your photos with high resemblance | [🔗](https://caricaturemaker.net/)
 | Aleph AI | A new way to edit, transform, and generate stunning videos | [🔗](https://alephai.app)
-| AIvector | Not Just Converter: AI Vector Engine for Perfect SVG. | [🔗](https://aivector.ai/)
 
 ## Conversational AI
 
