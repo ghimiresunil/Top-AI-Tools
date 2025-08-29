@@ -285,6 +285,7 @@ Curated list of top AI Tools.
 | BestFarewell | Family Estate Management System | [🔗](https://bestfarewell.com) |
 | Toksta | AI Software Research Agent | [🔗](https://www.toksta.com) |
 | Waveon | AI Landing Page Builder | [🔗](https://www.waveon.io) |
+| SalesMagic | Virtual role-playing and live-call analysis for sales teams | [🔗](https://www.salesmagic.com/) |
 
 ## Productivity
 
