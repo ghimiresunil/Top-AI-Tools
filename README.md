@@ -460,6 +460,7 @@ Curated list of top AI Tools.
 | Best AI Agents Directory | Curated Collection of the Best AI Agents to Boost Your Workflow |[🔗](https://www.bestaiagents.directory/)|
 | FairPact AI | Scan contracts & find gotchas before signing |[🔗](https://fairpact.actualization.ai)|
 | Botpool | Marketplace for AI-Powered Freelancers |[🔗](https://www.botpool.ai/)|
+| Amino: Supplement Scanner | AI-powered supplement scanner and tracker for clean, safe choices. |[🔗](https://aminohealth.app/)|
 
 ## Contributors 😍
 
