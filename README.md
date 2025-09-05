@@ -357,6 +357,7 @@ Curated list of top AI Tools.
 | Trails | The easiest way to document your process | [🔗](https://trails.so/) |
 | iPurix | AI-Powered Watermark Remover - Free, Quick, and Easy to Use | [🔗](https://remove-watermark.org) |
 | X-doc AI | The most accurate AI translator | [🔗](https://x-doc.ai/) |
+| Supercamp | AI workspace for business | [🔗](https://supercamp.ai/) |
 
 ## Search Engines & Tools
 
