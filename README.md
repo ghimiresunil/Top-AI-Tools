@@ -105,6 +105,7 @@ Curated list of top AI Tools.
 | VDraw AI | Free online AI Carousel Post Generator for Social Media | [🔗](https://vdraw.ai/)|
 | AI Timeline Generator | Turn ideas into stunning timelines in seconds—powered by smart AI | [🔗](https://venngage.com/ai-tools/timeline-generator)|
 | AI Flyer Generator | Create professional flyers instantly with AI using simple text prompts. | [🔗](https://venngage.com/ai-tools/flyer-generator)|
+| MyNextInk | The all-in-one tattoo platform | [🔗](https://www.mynextink.com)|
 
 ## E-commerce
 
