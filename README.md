@@ -409,6 +409,7 @@ Curated list of top AI Tools.
 | Owlbot | AI Support Agent | [🔗](https://www.owlbot.ai/) |
 | Galichat.com | Custom ChatGPT trained on your Website data. | [🔗](https://www.galichat.com/ref=Top-AI-Tools) |
 | Rosie | AI Phone Answering Service | [🔗](https://heyrosie.com/) |
+| Beheard Labs | AI-Powered Customer Insight Platform | [🔗](https://www.gobeheard.com/) |
 
 ## Phone Calls
 
