@@ -153,6 +153,7 @@ Curated list of top AI Tools.
 | Homeworkify | AI-powered homework assistant helping students learn faster | [🔗](https://homeworkify.app/) |
 | Summara | YouTube AI Summary and Transcript widget | [🔗](https://summara.io/) |
 | Mathos AI | The best AI math solver, calculator and tutor | [🔗](https://www.mathgptpro.com/) |
+| ExamGPT | AI Assessment Platform | [🔗](https://excelas.ai/) |
 
 ## Developer
 
