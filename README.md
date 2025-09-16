@@ -205,7 +205,6 @@ Curated list of top AI Tools.
 | Zuzia.app | AI-powered server monitoring and task automation for Linux and VPS. | [🔗](https://zuzia.app)|
 | ChatterBox | One API for meeting bots on Zoom, Meet & Teams | [🔗](https://chatter-box.io) |
 | Gestell | Gestell takes your messy, unstructured data and turns it into organized, searchable databases | [🔗](https://gestell.ai) |
-| StarOps | AI Platform Engineer | [🔗](https://ingenimax.ai) |
 | Langfa.st | Test and share AI prompts instantly. No signup. Built for engineers and product teams. | [🔗](https://www.langfa.st) |
 | SocialKit | Analyze Social Media Videos with a simple API | [🔗](https://www.socialkit.dev/) |
 | DeepDocs | AI that updates docs when you ship code | [🔗](https://deepdocs.dev/) |
@@ -213,6 +212,8 @@ Curated list of top AI Tools.
 | Recurse ML | Find bugs in AI Generated Code | [🔗](https://recurse.ml) |
 | PromptTester | Test, compare, and optimize your AI prompts in minutes. | [🔗](https://github.com/aralyekta/prompttester) |
 | Rysa AI | AI GTM Automation Agent | [🔗](https://www.rysa.ai) |
+| StarOps | AI Platform Engineer | [🔗](https://ingenimax.ai) |
+
 
 ## Gaming, 3D, Motion
 
