@@ -469,6 +469,7 @@ Curated list of top AI Tools.
 | FairPact AI | Scan contracts & find gotchas before signing |[🔗](https://fairpact.actualization.ai)|
 | Botpool | Marketplace for AI-Powered Freelancers |[🔗](https://www.botpool.ai/)|
 | Amino: Supplement Scanner | AI-powered supplement scanner and tracker for clean, safe choices. |[🔗](https://aminohealth.app/)|
+| Image Describer | Accessible Image Descriptions Generator. |[🔗](https://image-describer.org/)|
 
 ## Contributors 😍
 
