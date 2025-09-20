@@ -363,6 +363,7 @@ Curated list of top AI Tools.
 | iPurix | AI-Powered Watermark Remover - Free, Quick, and Easy to Use | [🔗](https://remove-watermark.org) |
 | X-doc AI | The most accurate AI translator | [🔗](https://x-doc.ai/) |
 | Supercamp | AI workspace for business | [🔗](https://supercamp.ai/) |
+| PodcastAdBlock | Remove ads from any podcast feed with AI | [🔗](https://podcastadblock.app/) |
 
 ## Search Engines & Tools
 
