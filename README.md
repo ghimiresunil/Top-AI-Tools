@@ -292,6 +292,7 @@ Curated list of top AI Tools.
 | Toksta | AI Software Research Agent | [🔗](https://www.toksta.com) |
 | Waveon | AI Landing Page Builder | [🔗](https://www.waveon.io) |
 | SalesMagic | Virtual role-playing and live-call analysis for sales teams | [🔗](https://www.salesmagic.com/) |
+| Linkedin Bulk Search | Automate your searches in Linkedin and output the results to your sheet | [🔗](https://growthtoolz.com/shop/linked-bulk-search/) |
 
 ## Productivity
 
