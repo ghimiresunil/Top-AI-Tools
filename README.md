@@ -427,6 +427,7 @@ Curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | Resume Screener AI| a cutting-edge resume screening tool tailored for small business owners, startup HR teams, and independent headhunters. Powered by advanced AI technology, it offers an efficient and accurate solution for batch resume screening, significantly reducing the workload for recruiters and founders. | [🔗](https://resume-screening.com/) |
 | Candor | AI-Powered 360-Degree Feedback | [🔗](https://www.candor.so/) |
+| SimplePerf | A simple, guided 360° performance review tool made for small teams | [🔗](https://buddieshr.com/simpleperf) |
 
 ## Others
 
