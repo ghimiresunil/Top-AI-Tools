@@ -44,7 +44,6 @@ Curated list of top AI Tools.
 | eBank | eBank is a AI Art Generator and AI Art Search Engine where you can search millions of community AI Artworks. |   [🔗](https://eBank.nz)    |
 | Architecture Helper | Analyze any building architecture, and generate your own custom styles, in seconds. | [🔗](https://architecturehelper.com) |
 | VocalReplica | AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks | [🔗](https://vocalreplica.com/) |
-| X Headshot | Professional AI Headshot Generator | [🔗](https://xheadshot.com) |
 | Jamorphosia | AI-Powered Instrument remover and isolation | [🔗](https://www.jamorphosia.com/) |
 | Podcast Clip Maker | Automatically generate podcast clips from long-form video and audio | [🔗](https://recast.studio/tools/podcast-clip-maker) |
 | Black Headshots | AI headshots generator for black professionals | [🔗](https://www.blackheadshots.com) |
@@ -59,6 +58,8 @@ Curated list of top AI Tools.
 | AI Image Editor | Edit, transform and enhance photos with text prompt. | [🔗](https://aiimageeditor.ai)
 | Caricature Maker | Make caricatures from your photos with high resemblance | [🔗](https://caricaturemaker.net/)
 | Aleph AI | A new way to edit, transform, and generate stunning videos | [🔗](https://alephai.app)
+| X Headshot | Professional AI Headshot Generator | [🔗](https://xheadshot.com) |
+
 
 ## Conversational AI
 
