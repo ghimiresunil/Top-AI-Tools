@@ -134,7 +134,6 @@ Curated list of top AI Tools.
 | Flair  | AI design tool for branded content | [🔗](https://withflair.ai/)|
 | Twee  | A.I. Powered Tools For English Teachers | [🔗](https://twee.com)|
 | Yomu | AI writing assistant for students and academics |  [🔗](https://www.yomu.ai) |
-| PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
 | Sourcely | Academic Citation Finding Tool with AI | [🔗](https://www.sourcely.net/) |
 | LangMagic | Learn languages from native content. | [🔗](https://easytolearn.io) |
 | Auto Streamer | Learn & teach anything on demand. Create course websites in minutes. | [🔗](https://www.autostreamer.live/) |
@@ -157,6 +156,8 @@ Curated list of top AI Tools.
 | Summara | YouTube AI Summary and Transcript widget | [🔗](https://summara.io/) |
 | Mathos AI | The best AI math solver, calculator and tutor | [🔗](https://www.mathgptpro.com/) |
 | ExamGPT | AI Assessment Platform | [🔗](https://excelas.ai/) |
+| PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
+
 
 ## Developer
 
