@@ -191,7 +191,6 @@ Curated list of top AI Tools.
 | SvelteLaunch | Svelte 5 Boilerplate for building AI apps quickly | [🔗](https://sveltelaunch.io) |
 | Maxim AI | A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed. | [🔗](https://www.getmaxim.ai/) |
 | OppyDev | Agentic AI coding assistant built with a focus on ease of use, transparency, customization and data control | [🔗](https://oppydev.ai/) |
-| Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
 | Fine | End-to-end AI coding assistant with full context awareness and no need for API keys. Plan, design, code, test, deploy, maintain. | [🔗](https://fine.dev/?ref=ognaa_github)
 | Hexabot | Open-source conversational AI builder that supports multiple channels and languages | [🔗](https://hexabot.ai/)|
 | Lisapet.ai | AI Prompt Testing Platform | [🔗](https://www.lisapet.ai/)|
@@ -218,6 +217,7 @@ Curated list of top AI Tools.
 | PromptTester | Test, compare, and optimize your AI prompts in minutes. | [🔗](https://github.com/aralyekta/prompttester) |
 | Rysa AI | AI GTM Automation Agent | [🔗](https://www.rysa.ai) |
 | StarOps | AI Platform Engineer | [🔗](https://ingenimax.ai) |
+| Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
 
 
 ## Gaming, 3D, Motion
