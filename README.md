@@ -354,7 +354,6 @@ Curated list of top AI Tools.
 | VideosGeneratorAI | Generate viral TikTok videos using AI | [🔗](https://videosgeneratorai.com/) |
 | GPT Reader | Natural ChatGPT AI text to speech (TTS) for PDFs, articles, & docs | [🔗](https://gpt-reader.com/) |
 | Nudge AI | Ambient AI Scribe for Healthcare | [🔗](https://getnudgeai.com/) |
-| Mocha | AI app builder | [🔗](https://getmocha.com) |
 | Marblism | AI Employees for your business | [🔗](https://marblism.com) |
 | Promptly | Discover, create and share powerful prompts | [🔗](https://searchpromptly.com/) |
 | Spell | Spell is the AI alternative to Google Docs | [🔗](https://spellapp.com) |
@@ -368,6 +367,8 @@ Curated list of top AI Tools.
 | X-doc AI | The most accurate AI translator | [🔗](https://x-doc.ai/) |
 | Supercamp | AI workspace for business | [🔗](https://supercamp.ai/) |
 | PodcastAdBlock | Remove ads from any podcast feed with AI | [🔗](https://podcastadblock.app/) |
+| Mocha | AI app builder | [🔗](https://getmocha.com) |
+
 
 ## Search Engines & Tools
 
