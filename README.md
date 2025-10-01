@@ -76,6 +76,7 @@ Curated list of top AI Tools.
 | Claude | Talk to Claude, an AI assistant from Anthropic. | [🔗](https://claude.ai/)|
 | Pleasuredomes | AI Image and chatbot | [🔗](http://pleasuredomes.ai/) |
 | ChatSweetie | Free AI Girlfriend Chat | [🔗](https://chatsweetie.ai/) |
+| Venice | Private and uncensored conversational AI | [🔗](https://venice.ai/) |
 
 ## Design
 
