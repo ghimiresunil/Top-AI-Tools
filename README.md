@@ -370,6 +370,7 @@ Curated list of top AI Tools.
 | Supercamp | AI workspace for business | [🔗](https://supercamp.ai/) |
 | PodcastAdBlock | Remove ads from any podcast feed with AI | [🔗](https://podcastadblock.app/) |
 | Mocha | AI app builder | [🔗](https://getmocha.com) |
+| Image to Prompt Generator | An AI Chrome extension to turn any image into a detailed prompt | [🔗](https://imageprompt.dev/) 
 
 
 ## Search Engines & Tools
