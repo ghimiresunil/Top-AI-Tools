@@ -401,6 +401,7 @@ Curated list of top AI Tools.
 | Compass | AI-driven answers to SaaS research questions | [🔗](https://www.getwhys.io/compass) |
 | MuckBrass | Find & Validate Startup Ideas | [🔗](https://www.muckbrass.com) |
 | Phind | An AI search engine, using multi-step reasoning to find the answer & generative UI to present it in a beautiful and interactive way.| [🔗](https://www.phind.com/)|
+| Deepresearch-Agent | A Openai like DeepResearch-Agent plans, thinks btw the deepresearch equiped with a beautiful frontend(UI). | [🔗](https://github.com/Parveshiiii/Deepresearch-Agent)|
 
 ## Geospatial
 
