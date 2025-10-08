@@ -372,6 +372,7 @@ Curated list of top AI Tools.
 | PodcastAdBlock | Remove ads from any podcast feed with AI | [🔗](https://podcastadblock.app/) |
 | Mocha | AI app builder | [🔗](https://getmocha.com) |
 | Image to Prompt Generator | An AI Chrome extension to turn any image into a detailed prompt | [🔗](https://imageprompt.dev/) 
+| Gamma | An AI-powered slide and presentation tool that helps you create beautiful, structured decks with minimal effort. Ideal for storytelling, pitching, and visual communication. | [🔗](https://gamma.app/) |
 
 
 ## Search Engines & Tools
@@ -401,6 +402,7 @@ Curated list of top AI Tools.
 | Compass | AI-driven answers to SaaS research questions | [🔗](https://www.getwhys.io/compass) |
 | MuckBrass | Find & Validate Startup Ideas | [🔗](https://www.muckbrass.com) |
 | Phind | An AI search engine, using multi-step reasoning to find the answer & generative UI to present it in a beautiful and interactive way.| [🔗](https://www.phind.com/)|
+| DeepResearch-Agent | An OpenAI-like DeepResearch agent that plans and thinks, equipped with a beautiful frontend (UI). | [🔗](https://github.com/Parveshiiii/Deepresearch-Agent) |
 
 ## Geospatial
 
