@@ -33,7 +33,6 @@ Curated list of top AI Tools.
 | Phraser | the collaborative creative AI tool | [🔗](https://phraser.tech)|
 | Playground | search prompts for art generation | [🔗](https://playgroundai.com/)|
 | Synthesia | AI video creation platform | [🔗](https://www.synthesia.io/)|
-| Rytr | Automating the design process | [🔗](https://rytr.me/)|
 | Craiyon (Formerly DALL-E Mini) | Free online AI image generator from text| [🔗](https://www.craiyon.com/)|
 | IRIS Clarity Studio | AI powered online tool for voice isolation/noise cancellation | [🔗](https://studio.iris.audio/)
 | Human Generator | AI powered generator of people | [🔗](https://generated.photos/human-generator)
@@ -59,6 +58,8 @@ Curated list of top AI Tools.
 | Caricature Maker | Make caricatures from your photos with high resemblance | [🔗](https://caricaturemaker.net/)
 | Aleph AI | A new way to edit, transform, and generate stunning videos | [🔗](https://alephai.app)
 | X Headshot | Professional AI Headshot Generator | [🔗](https://xheadshot.com) |
+| Rytr | Automating the design process | [🔗](https://rytr.me/)|
+
 
 
 ## Conversational AI
