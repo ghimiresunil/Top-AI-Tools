@@ -95,7 +95,6 @@ Curated list of top AI Tools.
 | AI Logo Generator | Free online AI logo creator that generates professional company, business, and brand logos | [🔗](https://www.ailogogenerator.org)|
 | Unblurimage AI | A free online tool to unblur images swiftly | [🔗](https://unblurimage.ai)|
 | ImgUpscaler AI | Free image & video upscaler | [🔗](https://imgupscaler.ai/)|
-| Seede AI | Helps you create a poster in 1 min | [🔗](https://seede.ai/)|
 | FLUX AI ART | AI Image Generator | [🔗](https://fluxaiart.ai/)|
 | Velocity | On-demand feedback for Figma prototypes | [🔗](https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min)|
 | Venngage AI Infographic Generator | AI-powered visuals that turn your ideas into infographics, instantly. | [🔗](https://venngage.com/ai-tools/infographic-generator)|
@@ -111,7 +110,7 @@ Curated list of top AI Tools.
 | RoomHaven | AI-powered room design and interior styling platform | [🔗](https://roomhaven.app)|
 | MyNextInk | The all-in-one tattoo platform | [🔗](https://www.mynextink.com)|
 | VDraw AI | Free online AI Carousel Post Generator for Social Media | [🔗](https://vdraw.ai/)|
-
+| Seede AI | Helps you create a poster in 1 min | [🔗](https://seede.ai/)|
 
 ## E-commerce
 
