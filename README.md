@@ -285,7 +285,6 @@ Curated list of top AI Tools.
 | Outlier Kit | Discover YouTube niches, trends & Keywords to grow your channel faster | [🔗](https://outlierkit.com/) |
 | Wave Instagram Outreach | Automate Instagram outreach to find leads, send DMs, and get clients | [🔗](https://www.usewave.co) |
 | Postiz | AI Social Media Scheduling Tool | [🔗](https://www.postiz.com) |
-| Smartshort | Text to video | [🔗](https://smartshort.co) |
 | SalesAgent Chat | AI Sales Coach & Copilot for real-time support | [🔗](https://www.salesagent.chat) |
 | LinkRocket | Earn Credits. Build Backlinks. Dominate Rankings | [🔗](https://linkrocket.ai) |
 | Serplux | 400+ AI Tools and AI Agents for digital marketing | [🔗](https://serplux.com/) |
@@ -299,6 +298,8 @@ Curated list of top AI Tools.
 | SalesMagic | Virtual role-playing and live-call analysis for sales teams | [🔗](https://www.salesmagic.com/) |
 | Linkedin Bulk Search | Automate your searches in Linkedin and output the results to your sheet | [🔗](https://growthtoolz.com/shop/linked-bulk-search/) |
 | Online Receipt Maker | Generate professional business receipts with AI | [🔗](https://onlinereceiptmaker.com/) |
+| Smartshort | Text to video | [🔗](https://smartshort.co) |
+
 
 ## Productivity
 
