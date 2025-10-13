@@ -59,6 +59,7 @@ Curated list of top AI Tools.
 | Aleph AI | A new way to edit, transform, and generate stunning videos | [🔗](https://alephai.app)
 | X Headshot | Professional AI Headshot Generator | [🔗](https://xheadshot.com) |
 | Rytr | Automating the design process | [🔗](https://rytr.me/)|
+| Nano Banana AI | Edit, restyle, transform, and recreate images with text prompt. | [🔗](https://banana-ai.org)
 
 
 
