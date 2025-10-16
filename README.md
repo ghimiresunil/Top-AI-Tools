@@ -51,7 +51,6 @@ Curated list of top AI Tools.
 | Pixvify AI | Free realistic AI photo generator platform | [🔗](https://pixvify.com/) |
 | Pawtrait | AI Pet Portraits | [🔗](https://www.pawtrait.art/)
 | AI Boost | All-in-one service for creating and editing images with AI | [🔗](https://boost.pictures/)
-| EchoWave | Online video editor | [🔗](https://echowave.io/)
 | The Birthday Poem | AI Birthday Poem Generator | [🔗](https://www.thebirthdaypoem.com/)
 | CreativePixel | AI creative studio: turning "impossible" to "done" in seconds. | [🔗](https://creativepixel.ai)
 | AI Image Editor | Edit, transform and enhance photos with text prompt. | [🔗](https://aiimageeditor.ai)
@@ -60,8 +59,7 @@ Curated list of top AI Tools.
 | X Headshot | Professional AI Headshot Generator | [🔗](https://xheadshot.com) |
 | Rytr | Automating the design process | [🔗](https://rytr.me/)|
 | Nano Banana AI | Edit, restyle, transform, and recreate images with text prompt. | [🔗](https://banana-ai.org)
-
-
+| EchoWave | Online video editor | [🔗](https://echowave.io/)
 
 ## Conversational AI
 
