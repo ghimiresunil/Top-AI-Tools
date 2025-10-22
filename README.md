@@ -22,6 +22,7 @@ Curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | Face Swap Video AI | Free Online AI Face Swap for Video & Photo. | [🔗](https://faceswapvideo.io/)|
 | NanoPhoto.AI | Making AI photo editing simple and efficient | [🔗](https://nanophoto.ai)|
+| PortraitLabs.AI | Take photos of yourself using AI and edit images easily | [🔗](https://portraitlabs.ai)|
 | AIvector | Not Just Converter: AI Vector Engine for Perfect SVG. | [🔗](https://aivector.ai/)
 | AI Magic Tools (by runway) | creativity tools to edit and generate content | [🔗](https://runwayml.com/ai-magic-tools/)|
 | AvatarAI | create photorealistic AI avatars | [🔗](https://avatarai.me/)|
@@ -60,6 +61,7 @@ Curated list of top AI Tools.
 | Rytr | Automating the design process | [🔗](https://rytr.me/)|
 | Nano Banana AI | Edit, restyle, transform, and recreate images with text prompt. | [🔗](https://banana-ai.org)
 | EchoWave | Online video editor | [🔗](https://echowave.io/)
+| Storyshort AI | Create viral faceless videos on Auto-Pilot. | [🔗](https://storyshort.ai/)
 
 ## Conversational AI
 
@@ -169,6 +171,7 @@ Curated list of top AI Tools.
 | AI/ML API | 200+ AI models thorugh on API. ChatGPT, Sonnet, Gemini, Llama, and even many video and image-gen models, all in one place. | [🔗](https://aimlapi.com/?utm_source=top-ai-tools&utm_medium=github&utm_campaign=integration)|
 | Chat Data Prep | data transformation using plain english | [🔗](https://www.akkio.com/chat-data-prep)|
 | Codeium | free AI powered code completion | [🔗](https://www.codeium.com/)|
+| Capacity | Create fullstack web applications using AI | [🔗](https://capacity.so/)|
 | Codeflash | Ship Blazing-Fast Python Code — Every Time. | [🔗](https://www.codeflash.ai/) 
 | Ghostwriter (by Replit) | AI pair programmer | [🔗](https://replit.com/site/ghostwriter)|
 | GitHub Copilot | an AI pair programmer | [🔗](https://github.com/features/copilot)|
@@ -377,7 +380,7 @@ Curated list of top AI Tools.
 | Image to Prompt Generator | An AI Chrome extension to turn any image into a detailed prompt | [🔗](https://imageprompt.dev/) 
 | Gamma | An AI-powered slide and presentation tool that helps you create beautiful, structured decks with minimal effort. Ideal for storytelling, pitching, and visual communication. | [🔗](https://gamma.app/) |
 | Alai | Create high quality presentations with AI | [🔗](https://getalai.com) |
-
+| Packgine | Instant packaging analysis and environmental compliance reports | [🔗](https://packgine.ai/) |
 
 ## Search Engines & Tools
 
