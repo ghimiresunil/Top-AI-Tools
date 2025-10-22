@@ -129,6 +129,7 @@ Curated list of top AI Tools.
 | Wallet Finder AI | Defi wallets and tokens analytics information | [🔗](https://www.walletfinder.ai/) |
 | Zola Analytics | Zola is an AI-powered financial data platform that transforms natural language queries into professional charts and reports in seconds. | [🔗](https://www.zolaanalytics.com/) |
 | Salary Calculator | Salary-Calculator.ai helps you compare net salaries worldwide instantly | [🔗](https://salary-calculator.ai/) |
+| PayCalculator | PayCalculator.ai instantly calculates take-home pay with tax breakdowns | [🔗](https://paycalculator.ai/) |
 
 ## Education
 
