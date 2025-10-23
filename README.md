@@ -491,6 +491,7 @@ Curated list of top AI Tools.
 | Amino: Supplement Scanner | AI-powered supplement scanner and tracker for clean, safe choices. |[🔗](https://aminohealth.app/)|
 | Image Describer | Accessible Image Descriptions Generator. |[🔗](https://image-describer.org/)|
 | Freqens | Intelligent Platform for Software Purchasing |[🔗](https://www.freqens.com/)|
+| TaxTip.ai | Global Tax Intelligence Platform |[🔗](https://taxtip.ai/)|
 
 ## Contributors 😍
 
