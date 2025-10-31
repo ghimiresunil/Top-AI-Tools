@@ -163,6 +163,7 @@ Curated list of top AI Tools.
 | ExamGPT | AI Assessment Platform | [🔗](https://excelas.ai/) |
 | PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
 | MuzicGenerator | AI music generator for creating and sharing unique songs online | [🔗](https://muzicgenerator.com) |
+| MyDetector | Free AI Detector and Humanizer | [🔗](https://mydetector.com) |
 
 ## Developer
 
