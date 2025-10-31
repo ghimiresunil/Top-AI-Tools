@@ -492,6 +492,7 @@ Curated list of top AI Tools.
 | Image Describer | Accessible Image Descriptions Generator. |[🔗](https://image-describer.org/)|
 | Freqens | Intelligent Platform for Software Purchasing |[🔗](https://www.freqens.com/)|
 | TaxTip.ai | Global Tax Intelligence Platform |[🔗](https://taxtip.ai/)|
+| Agent Security | Security for AI agents |[🔗](https://agentsecurity.com)|
 
 ## Contributors 😍
 
