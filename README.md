@@ -165,6 +165,7 @@ Curated list of top AI Tools.
 | PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
 | MuzicGenerator | AI music generator for creating and sharing unique songs online | [🔗](https://muzicgenerator.com) |
 
+
 ## Developer
 
 | Tools | Used for | Link |
@@ -382,6 +383,7 @@ Curated list of top AI Tools.
 | Gamma | An AI-powered slide and presentation tool that helps you create beautiful, structured decks with minimal effort. Ideal for storytelling, pitching, and visual communication. | [🔗](https://gamma.app/) |
 | Alai | Create high quality presentations with AI | [🔗](https://getalai.com) |
 | Packgine | Instant packaging analysis and environmental compliance reports | [🔗](https://packgine.ai/) |
+|AI Cover Letter Generator|AI-powered tool to create professional cover letters instantly|[🔗](https://ai-coverletter-generator.com/)|
 
 ## Search Engines & Tools
 
