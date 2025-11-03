@@ -384,6 +384,7 @@ Curated list of top AI Tools.
 | Alai | Create high quality presentations with AI | [🔗](https://getalai.com) |
 | Packgine | Instant packaging analysis and environmental compliance reports | [🔗](https://packgine.ai/) |
 |AI Cover Letter Generator|AI-powered tool to create professional cover letters instantly|[🔗](https://ai-coverletter-generator.com/)|
+| My Passion AI | AI-powered quiz to find your passion career path | [🔗](https://mypassion.ai) |
 
 ## Search Engines & Tools
 
