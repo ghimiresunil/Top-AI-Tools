@@ -306,6 +306,7 @@ Curated list of top AI Tools.
 | Linkedin Bulk Search | Automate your searches in Linkedin and output the results to your sheet | [🔗](https://growthtoolz.com/shop/linked-bulk-search/) |
 | Online Receipt Maker | Generate professional business receipts with AI | [🔗](https://onlinereceiptmaker.com/) |
 | Smartshort | Text to video | [🔗](https://smartshort.co) |
+| Flowcart | Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp | [🔗](https://flowcart.ai/) |
 
 
 ## Productivity
