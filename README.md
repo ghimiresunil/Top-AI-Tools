@@ -62,6 +62,7 @@ Curated list of top AI Tools.
 | Nano Banana AI | Edit, restyle, transform, and recreate images with text prompt. | [🔗](https://banana-ai.org)
 | EchoWave | Online video editor | [🔗](https://echowave.io/)
 | Storyshort AI | Create viral faceless videos on Auto-Pilot. | [🔗](https://storyshort.ai/)
+| PDFtoVideo | Convert PDF & Any Contents to Video Online Free | [🔗](https://pdftovideo.ai/)
 
 ## Conversational AI
 
@@ -164,6 +165,10 @@ Curated list of top AI Tools.
 | ExamGPT | AI Assessment Platform | [🔗](https://excelas.ai/) |
 | PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
 | MuzicGenerator | AI music generator for creating and sharing unique songs online | [🔗](https://muzicgenerator.com) |
+| NoteGPT | Your All-in-One AI Learning Assistant | [🔗](https://notegpt.io/) |
+| DeepPDF | Your AI Research Assistant for Deep Learning | [🔗](https://deeppdf.ai/) |
+| AI Humanizer | Humanize AI Text Online Free – 100% Human Written | [🔗](https://aihumanizer.work/) |
+| AI Detector | Detect AI text Online Free | [🔗](https://aidetector.cc/) |
 
 
 ## Developer
@@ -384,6 +389,8 @@ Curated list of top AI Tools.
 | Alai | Create high quality presentations with AI | [🔗](https://getalai.com) |
 | Packgine | Instant packaging analysis and environmental compliance reports | [🔗](https://packgine.ai/) |
 |AI Cover Letter Generator|AI-powered tool to create professional cover letters instantly|[🔗](https://ai-coverletter-generator.com/)|
+| Video Transcriber | Transcribe Video to Text Online Free | [🔗](https://videotranscriber.ai/) |
+| Audio Converter | Convert Audio to Text Online Free | [🔗](https://audioconverter.ai/) |
 
 ## Search Engines & Tools
 
