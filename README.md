@@ -495,6 +495,7 @@ Curated list of top AI Tools.
 | Image Describer | Accessible Image Descriptions Generator. |[🔗](https://image-describer.org/)|
 | Freqens | Intelligent Platform for Software Purchasing |[🔗](https://www.freqens.com/)|
 | TaxTip.ai | Global Tax Intelligence Platform |[🔗](https://taxtip.ai/)|
+| Property Forecast | Data analytics for real estate investors |[🔗](https://propertyforecast.co/)|
 
 ## Contributors 😍
 
