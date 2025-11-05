@@ -496,6 +496,7 @@ Curated list of top AI Tools.
 | Freqens | Intelligent Platform for Software Purchasing |[🔗](https://www.freqens.com/)|
 | TaxTip.ai | Global Tax Intelligence Platform |[🔗](https://taxtip.ai/)|
 | Property Forecast | Data analytics for real estate investors |[🔗](https://propertyforecast.co/)|
+| How Attractive am I | Attractive Test AI with Your photo online to get a beauty score |[🔗](https://howattractiveami.app/)|
 
 ## Contributors 😍
 
