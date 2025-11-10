@@ -498,6 +498,7 @@ Curated list of top AI Tools.
 | Freqens | Intelligent Platform for Software Purchasing |[🔗](https://www.freqens.com/)|
 | TaxTip.ai | Global Tax Intelligence Platform |[🔗](https://taxtip.ai/)|
 | Property Forecast | Data analytics for real estate investors |[🔗](https://propertyforecast.co/)|
+| Poison Pill | Invisible protection against AI training |[🔗](https://poisonpill.ai)|
 
 ## Contributors 😍
 
