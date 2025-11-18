@@ -21,6 +21,7 @@ Curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Face Swap Video AI | Free Online AI Face Swap for Video & Photo. | [🔗](https://faceswapvideo.io/)|
+| AIImageTranslator | Free Online AI Image Translator Tool. | [🔗](https://aiimagetranslator.io/)|
 | NanoPhoto.AI | Making AI photo editing simple and efficient | [🔗](https://nanophoto.ai)|
 | PortraitLabs.AI | Take photos of yourself using AI and edit images easily | [🔗](https://portraitlabs.ai)|
 | AIvector | Not Just Converter: AI Vector Engine for Perfect SVG. | [🔗](https://aivector.ai/)
@@ -129,6 +130,7 @@ Curated list of top AI Tools.
 | Wallet Finder AI | Defi wallets and tokens analytics information | [🔗](https://www.walletfinder.ai/) |
 | Zola Analytics | Zola is an AI-powered financial data platform that transforms natural language queries into professional charts and reports in seconds. | [🔗](https://www.zolaanalytics.com/) |
 | Salary Calculator | Salary-Calculator.ai helps you compare net salaries worldwide instantly | [🔗](https://salary-calculator.ai/) |
+| PayCalculator | PayCalculator.ai instantly calculates take-home pay with tax breakdowns | [🔗](https://paycalculator.ai/) |
 
 ## Education
 
@@ -167,6 +169,7 @@ Curated list of top AI Tools.
 | AIImagetoText | Free AI Image to Text,ConverterFast & Highly Accurate | [🔗](https://aiimagetotext.com/) |
 | AIPlagiarismChecker | Plagiarism Checker ensures fast, accurate, and original content verification. | [🔗](https://aiplagiarismchecker.io/) |
 | AIGrammarChecker | Free AI Grammar Checker, Instant Grammar & Spelling Check | [🔗](https://aigrammarchecker.io/) |
+
 
 ## Developer
 
@@ -385,6 +388,8 @@ Curated list of top AI Tools.
 | Gamma | An AI-powered slide and presentation tool that helps you create beautiful, structured decks with minimal effort. Ideal for storytelling, pitching, and visual communication. | [🔗](https://gamma.app/) |
 | Alai | Create high quality presentations with AI | [🔗](https://getalai.com) |
 | Packgine | Instant packaging analysis and environmental compliance reports | [🔗](https://packgine.ai/) |
+|AI Cover Letter Generator|AI-powered tool to create professional cover letters instantly|[🔗](https://ai-coverletter-generator.com/)|
+| My Passion AI | AI-powered quiz to find your passion career path | [🔗](https://mypassion.ai) |
 
 ## Search Engines & Tools
 
@@ -496,6 +501,8 @@ Curated list of top AI Tools.
 | Image Describer | Accessible Image Descriptions Generator. |[🔗](https://image-describer.org/)|
 | Freqens | Intelligent Platform for Software Purchasing |[🔗](https://www.freqens.com/)|
 | TaxTip.ai | Global Tax Intelligence Platform |[🔗](https://taxtip.ai/)|
+| Agent Security | Security for AI agents |[🔗](https://agentsecurity.com)|
+| Property Forecast | Data analytics for real estate investors |[🔗](https://propertyforecast.co/)|
 
 ## Contributors 😍
 
