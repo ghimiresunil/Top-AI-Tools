@@ -501,6 +501,7 @@ Curated list of top AI Tools.
 | TaxTip.ai | Global Tax Intelligence Platform |[🔗](https://taxtip.ai/)|
 | Agent Security | Security for AI agents |[🔗](https://agentsecurity.com)|
 | Property Forecast | Data analytics for real estate investors |[🔗](https://propertyforecast.co/)|
+| Poison Pill | Invisible protection against AI training |[🔗](https://poisonpill.ai)|
 
 ## Contributors 😍
 
