@@ -21,6 +21,7 @@ Curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Face Swap Video AI | Free Online AI Face Swap for Video & Photo. | [🔗](https://faceswapvideo.io/)|
+| AIImageTranslator | Free Online AI Image Translator Tool. | [🔗](https://aiimagetranslator.io/)|
 | NanoPhoto.AI | Making AI photo editing simple and efficient | [🔗](https://nanophoto.ai)|
 | PortraitLabs.AI | Take photos of yourself using AI and edit images easily | [🔗](https://portraitlabs.ai)|
 | AIvector | Not Just Converter: AI Vector Engine for Perfect SVG. | [🔗](https://aivector.ai/)
@@ -169,6 +170,7 @@ Curated list of top AI Tools.
 | DeepPDF | Your AI Research Assistant for Deep Learning | [🔗](https://deeppdf.ai/) |
 | AI Humanizer | Humanize AI Text Online Free – 100% Human Written | [🔗](https://aihumanizer.work/) |
 | AI Detector | Detect AI text Online Free | [🔗](https://aidetector.cc/) |
+| MyDetector | Free AI Detector and Humanizer | [🔗](https://mydetector.com) |
 
 
 ## Developer
@@ -311,6 +313,7 @@ Curated list of top AI Tools.
 | Linkedin Bulk Search | Automate your searches in Linkedin and output the results to your sheet | [🔗](https://growthtoolz.com/shop/linked-bulk-search/) |
 | Online Receipt Maker | Generate professional business receipts with AI | [🔗](https://onlinereceiptmaker.com/) |
 | Smartshort | Text to video | [🔗](https://smartshort.co) |
+| Flowcart | Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp | [🔗](https://flowcart.ai/) |
 
 
 ## Productivity
@@ -391,6 +394,7 @@ Curated list of top AI Tools.
 |AI Cover Letter Generator|AI-powered tool to create professional cover letters instantly|[🔗](https://ai-coverletter-generator.com/)|
 | Video Transcriber | Transcribe Video to Text Online Free | [🔗](https://videotranscriber.ai/) |
 | Audio Converter | Convert Audio to Text Online Free | [🔗](https://audioconverter.ai/) |
+| My Passion AI | AI-powered quiz to find your passion career path | [🔗](https://mypassion.ai) |
 
 ## Search Engines & Tools
 
@@ -502,6 +506,8 @@ Curated list of top AI Tools.
 | Image Describer | Accessible Image Descriptions Generator. |[🔗](https://image-describer.org/)|
 | Freqens | Intelligent Platform for Software Purchasing |[🔗](https://www.freqens.com/)|
 | TaxTip.ai | Global Tax Intelligence Platform |[🔗](https://taxtip.ai/)|
+| Agent Security | Security for AI agents |[🔗](https://agentsecurity.com)|
+| Property Forecast | Data analytics for real estate investors |[🔗](https://propertyforecast.co/)|
 
 ## Contributors 😍
 
