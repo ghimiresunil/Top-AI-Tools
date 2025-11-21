@@ -508,6 +508,7 @@ Curated list of top AI Tools.
 | TaxTip.ai | Global Tax Intelligence Platform |[🔗](https://taxtip.ai/)|
 | Agent Security | Security for AI agents |[🔗](https://agentsecurity.com)|
 | Property Forecast | Data analytics for real estate investors |[🔗](https://propertyforecast.co/)|
+| How Attractive am I | Attractive Test AI with Your photo online to get a beauty score |[🔗](https://howattractiveami.app/)|
 
 ## Contributors 😍
 
