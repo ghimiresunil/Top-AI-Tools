@@ -171,6 +171,9 @@ Curated list of top AI Tools.
 | AI Humanizer | Humanize AI Text Online Free – 100% Human Written | [🔗](https://aihumanizer.work/) |
 | AI Detector | Detect AI text Online Free | [🔗](https://aidetector.cc/) |
 | MyDetector | Free AI Detector and Humanizer | [🔗](https://mydetector.com) |
+| AIImagetoText | Free AI Image to Text,ConverterFast & Highly Accurate | [🔗](https://aiimagetotext.com/) |
+| AIPlagiarismChecker | Plagiarism Checker ensures fast, accurate, and original content verification. | [🔗](https://aiplagiarismchecker.io/) |
+| AIGrammarChecker | Free AI Grammar Checker, Instant Grammar & Spelling Check | [🔗](https://aigrammarchecker.io/) |
 
 
 ## Developer
