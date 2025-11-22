@@ -392,6 +392,7 @@ Curated list of top AI Tools.
 | Alai | Create high quality presentations with AI | [🔗](https://getalai.com) |
 | Packgine | Instant packaging analysis and environmental compliance reports | [🔗](https://packgine.ai/) |
 |AI Cover Letter Generator|AI-powered tool to create professional cover letters instantly|[🔗](https://ai-coverletter-generator.com/)|
+| Fantastic Portfolios | An AI-powered portfolio website builder within 30 seconds. | [🔗](https://fantasticportfolios.com/) |
 | Video Transcriber | Transcribe Video to Text Online Free | [🔗](https://videotranscriber.ai/) |
 | Audio Converter | Convert Audio to Text Online Free | [🔗](https://audioconverter.ai/) |
 | My Passion AI | AI-powered quiz to find your passion career path | [🔗](https://mypassion.ai) |
