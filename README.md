@@ -314,7 +314,7 @@ Curated list of top AI Tools.
 | Online Receipt Maker | Generate professional business receipts with AI | [🔗](https://onlinereceiptmaker.com/) |
 | Smartshort | Text to video | [🔗](https://smartshort.co) |
 | Flowcart | Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp | [🔗](https://flowcart.ai/) |
-
+| AI Roadmap Generator | AI Roadmap Generator creates a visual, step-by-step roadmap instantly. | [🔗](https://venngage.com/ai-tools/roadmap-generator) |
 
 ## Productivity
 
