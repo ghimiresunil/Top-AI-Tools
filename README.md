@@ -63,6 +63,7 @@ Curated list of top AI Tools.
 | Nano Banana AI | Edit, restyle, transform, and recreate images with text prompt. | [🔗](https://banana-ai.org)
 | EchoWave | Online video editor | [🔗](https://echowave.io/)
 | Storyshort AI | Create viral faceless videos on Auto-Pilot. | [🔗](https://storyshort.ai/)
+| PDFtoVideo | Convert PDF & Any Contents to Video Online Free | [🔗](https://pdftovideo.ai/)
 
 ## Conversational AI
 
@@ -165,6 +166,11 @@ Curated list of top AI Tools.
 | ExamGPT | AI Assessment Platform | [🔗](https://excelas.ai/) |
 | PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
 | MuzicGenerator | AI music generator for creating and sharing unique songs online | [🔗](https://muzicgenerator.com) |
+| Studyaura.app | Turn PDFs into Viral Study Material |  [🔗](https://www.studyaura.app) |
+| NoteGPT | Your All-in-One AI Learning Assistant | [🔗](https://notegpt.io/) |
+| DeepPDF | Your AI Research Assistant for Deep Learning | [🔗](https://deeppdf.ai/) |
+| AI Humanizer | Humanize AI Text Online Free – 100% Human Written | [🔗](https://aihumanizer.work/) |
+| AI Detector | Detect AI text Online Free | [🔗](https://aidetector.cc/) |
 | MyDetector | Free AI Detector and Humanizer | [🔗](https://mydetector.com) |
 
 
@@ -308,6 +314,7 @@ Curated list of top AI Tools.
 | Linkedin Bulk Search | Automate your searches in Linkedin and output the results to your sheet | [🔗](https://growthtoolz.com/shop/linked-bulk-search/) |
 | Online Receipt Maker | Generate professional business receipts with AI | [🔗](https://onlinereceiptmaker.com/) |
 | Smartshort | Text to video | [🔗](https://smartshort.co) |
+| Flowcart | Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp | [🔗](https://flowcart.ai/) |
 
 
 ## Productivity
@@ -386,6 +393,10 @@ Curated list of top AI Tools.
 | Alai | Create high quality presentations with AI | [🔗](https://getalai.com) |
 | Packgine | Instant packaging analysis and environmental compliance reports | [🔗](https://packgine.ai/) |
 |AI Cover Letter Generator|AI-powered tool to create professional cover letters instantly|[🔗](https://ai-coverletter-generator.com/)|
+| Fantastic Portfolios | An AI-powered portfolio website builder within 30 seconds. | [🔗](https://fantasticportfolios.com/) |
+| Video Transcriber | Transcribe Video to Text Online Free | [🔗](https://videotranscriber.ai/) |
+| Audio Converter | Convert Audio to Text Online Free | [🔗](https://audioconverter.ai/) |
+| My Passion AI | AI-powered quiz to find your passion career path | [🔗](https://mypassion.ai) |
 
 ## Search Engines & Tools
 
@@ -497,8 +508,10 @@ Curated list of top AI Tools.
 | Image Describer | Accessible Image Descriptions Generator. |[🔗](https://image-describer.org/)|
 | Freqens | Intelligent Platform for Software Purchasing |[🔗](https://www.freqens.com/)|
 | TaxTip.ai | Global Tax Intelligence Platform |[🔗](https://taxtip.ai/)|
+| Agent Security | Security for AI agents |[🔗](https://agentsecurity.com)|
 | Property Forecast | Data analytics for real estate investors |[🔗](https://propertyforecast.co/)|
 | Poison Pill | Invisible protection against AI training |[🔗](https://poisonpill.ai)|
+| How Attractive am I | Attractive Test AI with Your photo online to get a beauty score |[🔗](https://howattractiveami.app/)|
 
 ## Contributors 😍
 
