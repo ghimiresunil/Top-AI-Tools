@@ -506,6 +506,7 @@ Curated list of top AI Tools.
 | Botpool | Marketplace for AI-Powered Freelancers |[🔗](https://www.botpool.ai/)|
 | Amino: Supplement Scanner | AI-powered supplement scanner and tracker for clean, safe choices. |[🔗](https://aminohealth.app/)|
 | Image Describer | Accessible Image Descriptions Generator. |[🔗](https://image-describer.org/)|
+| FaceAI | 100% Free AI Face Swap Online, no sign up. |[🔗](https://faceai.art/)|
 | Freqens | Intelligent Platform for Software Purchasing |[🔗](https://www.freqens.com/)|
 | TaxTip.ai | Global Tax Intelligence Platform |[🔗](https://taxtip.ai/)|
 | Agent Security | Security for AI agents |[🔗](https://agentsecurity.com)|
