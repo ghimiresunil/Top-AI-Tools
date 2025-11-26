@@ -398,6 +398,7 @@ Curated list of top AI Tools.
 | Video Transcriber | Transcribe Video to Text Online Free | [🔗](https://videotranscriber.ai/) |
 | Audio Converter | Convert Audio to Text Online Free | [🔗](https://audioconverter.ai/) |
 | My Passion AI | AI-powered quiz to find your passion career path | [🔗](https://mypassion.ai) |
+| Worklytics | Analytics on AI and Productivity | [🔗](https://www.worklytics.co/) |
 
 ## Search Engines & Tools
 
