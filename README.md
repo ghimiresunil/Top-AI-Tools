@@ -65,6 +65,7 @@ Curated list of top AI Tools.
 | EchoWave | Online video editor | [🔗](https://echowave.io/)
 | Storyshort AI | Create viral faceless videos on Auto-Pilot. | [🔗](https://storyshort.ai/)
 | PDFtoVideo | Convert PDF & Any Contents to Video Online Free | [🔗](https://pdftovideo.ai/)
+| Cartoonize AI | Transform your photos, pets, or landscapes into cartoons with AI | [🔗](https://cartoonize.ai)
 
 ## Conversational AI
 
