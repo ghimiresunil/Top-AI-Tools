@@ -22,6 +22,7 @@ Curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | Face Swap Video AI | Free Online AI Face Swap for Video & Photo. | [🔗](https://faceswapvideo.io/)|
 | AIImageTranslator | Free Online AI Image Translator Tool. | [🔗](https://aiimagetranslator.io/)|
+| FaceAI | Free Online AI Face Swap (No Sign Up) | [🔗](https://faceai.art/)|
 | NanoPhoto.AI | Making AI photo editing simple and efficient | [🔗](https://nanophoto.ai)|
 | PortraitLabs.AI | Take photos of yourself using AI and edit images easily | [🔗](https://portraitlabs.ai)|
 | AIvector | Not Just Converter: AI Vector Engine for Perfect SVG. | [🔗](https://aivector.ai/)
