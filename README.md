@@ -176,6 +176,7 @@ Curated list of top AI Tools.
 | AIImagetoText | Free AI Image to Text,ConverterFast & Highly Accurate | [🔗](https://aiimagetotext.com/) |
 | AIPlagiarismChecker | Plagiarism Checker ensures fast, accurate, and original content verification. | [🔗](https://aiplagiarismchecker.io/) |
 | AIGrammarChecker | Free AI Grammar Checker, Instant Grammar & Spelling Check | [🔗](https://aigrammarchecker.io/) |
+| InterSub | Language Learning with Dual Subtitles & AI Translation | [🔗](https://intersub.cc) |
 
 
 ## Developer
