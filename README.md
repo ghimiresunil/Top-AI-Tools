@@ -22,6 +22,7 @@ Curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | Face Swap Video AI | Free Online AI Face Swap for Video & Photo. | [🔗](https://faceswapvideo.io/)|
 | AIImageTranslator | Free Online AI Image Translator Tool. | [🔗](https://aiimagetranslator.io/)|
+| FaceAI | Free Online AI Face Swap (No Sign Up) | [🔗](https://faceai.art/)|
 | NanoPhoto.AI | Making AI photo editing simple and efficient | [🔗](https://nanophoto.ai)|
 | PortraitLabs.AI | Take photos of yourself using AI and edit images easily | [🔗](https://portraitlabs.ai)|
 | AIvector | Not Just Converter: AI Vector Engine for Perfect SVG. | [🔗](https://aivector.ai/)
@@ -166,11 +167,15 @@ Curated list of top AI Tools.
 | ExamGPT | AI Assessment Platform | [🔗](https://excelas.ai/) |
 | PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
 | MuzicGenerator | AI music generator for creating and sharing unique songs online | [🔗](https://muzicgenerator.com) |
+| Studyaura.app | Turn PDFs into Viral Study Material |  [🔗](https://www.studyaura.app) |
 | NoteGPT | Your All-in-One AI Learning Assistant | [🔗](https://notegpt.io/) |
 | DeepPDF | Your AI Research Assistant for Deep Learning | [🔗](https://deeppdf.ai/) |
 | AI Humanizer | Humanize AI Text Online Free – 100% Human Written | [🔗](https://aihumanizer.work/) |
 | AI Detector | Detect AI text Online Free | [🔗](https://aidetector.cc/) |
 | MyDetector | Free AI Detector and Humanizer | [🔗](https://mydetector.com) |
+| AIImagetoText | Free AI Image to Text,ConverterFast & Highly Accurate | [🔗](https://aiimagetotext.com/) |
+| AIPlagiarismChecker | Plagiarism Checker ensures fast, accurate, and original content verification. | [🔗](https://aiplagiarismchecker.io/) |
+| AIGrammarChecker | Free AI Grammar Checker, Instant Grammar & Spelling Check | [🔗](https://aigrammarchecker.io/) |
 
 
 ## Developer
@@ -315,6 +320,9 @@ Curated list of top AI Tools.
 | Smartshort | Text to video | [🔗](https://smartshort.co) |
 | Flowcart | Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp | [🔗](https://flowcart.ai/) |
 | AI Roadmap Generator | AI Roadmap Generator creates a visual, step-by-step roadmap instantly. | [🔗](https://venngage.com/ai-tools/roadmap-generator) |
+| AI One Pager Generator | AI-powered one-pager designs, fast and effortless. | [🔗](https://venngage.com/ai-tools/one-pager-generator) |
+| Hooked AI | HookedAI - AI-Powered LinkedIn Marketing | [🔗](https://hookedai.ai/) |
+
 
 ## Productivity
 
@@ -392,6 +400,7 @@ Curated list of top AI Tools.
 | Alai | Create high quality presentations with AI | [🔗](https://getalai.com) |
 | Packgine | Instant packaging analysis and environmental compliance reports | [🔗](https://packgine.ai/) |
 |AI Cover Letter Generator|AI-powered tool to create professional cover letters instantly|[🔗](https://ai-coverletter-generator.com/)|
+| AI Browser | Automate web tasks using just prompts. | [🔗](https://aibrowser.surf/)|
 | Fantastic Portfolios | An AI-powered portfolio website builder within 30 seconds. | [🔗](https://fantasticportfolios.com/) |
 | Video Transcriber | Transcribe Video to Text Online Free | [🔗](https://videotranscriber.ai/) |
 | Audio Converter | Convert Audio to Text Online Free | [🔗](https://audioconverter.ai/) |
@@ -505,10 +514,12 @@ Curated list of top AI Tools.
 | Botpool | Marketplace for AI-Powered Freelancers |[🔗](https://www.botpool.ai/)|
 | Amino: Supplement Scanner | AI-powered supplement scanner and tracker for clean, safe choices. |[🔗](https://aminohealth.app/)|
 | Image Describer | Accessible Image Descriptions Generator. |[🔗](https://image-describer.org/)|
+| FaceAI | 100% Free AI Face Swap Online, no sign up. |[🔗](https://faceai.art/)|
 | Freqens | Intelligent Platform for Software Purchasing |[🔗](https://www.freqens.com/)|
 | TaxTip.ai | Global Tax Intelligence Platform |[🔗](https://taxtip.ai/)|
 | Agent Security | Security for AI agents |[🔗](https://agentsecurity.com)|
 | Property Forecast | Data analytics for real estate investors |[🔗](https://propertyforecast.co/)|
+| Poison Pill | Invisible protection against AI training |[🔗](https://poisonpill.ai)|
 | How Attractive am I | Attractive Test AI with Your photo online to get a beauty score |[🔗](https://howattractiveami.app/)|
 
 ## Contributors 😍
