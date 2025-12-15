@@ -526,6 +526,7 @@ Curated list of top AI Tools.
 | Poison Pill | Invisible protection against AI training |[🔗](https://poisonpill.ai)|
 | How Attractive am I | Attractive Test AI with Your photo online to get a beauty score |[🔗](https://howattractiveami.app/)|
 | Eye Shape Detector | what's my eye shape?Eye shape detector can help you test your eye type accurately with AI, and provide you with personalized recommendations. |[🔗](https://eyeshapedetector.app/)|
+| Restore Old Photos | Restore Old Photos Online With AI. |[🔗](https://restore-photo.app/)|
 
 ## Contributors 😍
 
