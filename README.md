@@ -117,6 +117,7 @@ Curated list of top AI Tools.
 | MyNextInk | The all-in-one tattoo platform | [🔗](https://www.mynextink.com)|
 | VDraw AI | Free online AI Carousel Post Generator for Social Media | [🔗](https://vdraw.ai/)|
 | Seede AI | Helps you create a poster in 1 min | [🔗](https://seede.ai/)|
+| EnhancePhoto AI | Free image Enhancer | [🔗](https://enhancephoto.ai/)|
 
 ## E-commerce
 
