@@ -67,6 +67,7 @@ Curated list of top AI Tools.
 | PDFtoVideo | Convert PDF & Any Contents to Video Online Free | [🔗](https://pdftovideo.ai/)
 | OpenCreator | All-in-one AI workspace for creating product visuals with workflow automation | [🔗](https://opencreator.ai/)
 | Somny | AI character generator for creating personalized images and videos from your own likeness. | [🔗](https://www.somny.com/)
+| MaxVideoAI | Multi-engine AI video generation hub (Sora, Veo, Pika, Kling, LTX & more) with pay-as-you-go credits. | [🔗](https://maxvideoai.com) |
 
 ## Conversational AI
 
@@ -439,6 +440,7 @@ Curated list of top AI Tools.
 | MuckBrass | Find & Validate Startup Ideas | [🔗](https://www.muckbrass.com) |
 | Phind | An AI search engine, using multi-step reasoning to find the answer & generative UI to present it in a beautiful and interactive way.| [🔗](https://www.phind.com/)|
 | DeepResearch-Agent | An OpenAI-like DeepResearch agent that plans and thinks, equipped with a beautiful frontend (UI). | [🔗](https://github.com/Parveshiiii/Deepresearch-Agent) |
+|AI Conference Deadline | AI/ML conference deadline tracker| [🔗](https://www.aiconferenceddl.com/)|
 
 ## Geospatial
 
