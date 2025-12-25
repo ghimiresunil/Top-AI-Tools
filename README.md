@@ -121,6 +121,7 @@ Curated list of top AI Tools.
 | VDraw AI | Free online AI Carousel Post Generator for Social Media | [🔗](https://vdraw.ai/)|
 | Seede AI | Helps you create a poster in 1 min | [🔗](https://seede.ai/)|
 | melhorar imagem | Improve Image Online for Free | [🔗](https://melhorar-imagem.com/)|
+| AI Anime | AI Anime Generator | [🔗](https://aianime.io/)|
 
 ## E-commerce
 
