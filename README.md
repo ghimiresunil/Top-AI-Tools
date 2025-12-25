@@ -245,6 +245,7 @@ Curated list of top AI Tools.
 | Rysa AI | AI GTM Automation Agent | [🔗](https://www.rysa.ai) |
 | StarOps | AI Platform Engineer | [🔗](https://ingenimax.ai) |
 | Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
+| TestSprite | The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow. | [🔗](https://www.testsprite.com/) |
 
 
 ## Gaming, 3D, Motion
