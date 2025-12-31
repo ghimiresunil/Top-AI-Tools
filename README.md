@@ -68,6 +68,7 @@ Curated list of top AI Tools.
 | OpenCreator | All-in-one AI workspace for creating product visuals with workflow automation | [🔗](https://opencreator.ai/)
 | Somny | AI character generator for creating personalized images and videos from your own likeness. | [🔗](https://www.somny.com/)
 | MaxVideoAI | Multi-engine AI video generation hub (Sora, Veo, Pika, Kling, LTX & more) with pay-as-you-go credits. | [🔗](https://maxvideoai.com) |
+| nearerai | AI Photo Restoration: Revive Your Cherished Memories. | [🔗](https://nearerai.com/) |
 
 ## Conversational AI
 
@@ -119,6 +120,7 @@ Curated list of top AI Tools.
 | MyNextInk | The all-in-one tattoo platform | [🔗](https://www.mynextink.com)|
 | VDraw AI | Free online AI Carousel Post Generator for Social Media | [🔗](https://vdraw.ai/)|
 | Seede AI | Helps you create a poster in 1 min | [🔗](https://seede.ai/)|
+| melhorar imagem | Improve Image Online for Free | [🔗](https://melhorar-imagem.com/)|
 
 ## E-commerce
 
@@ -181,6 +183,7 @@ Curated list of top AI Tools.
 | AIPlagiarismChecker | Plagiarism Checker ensures fast, accurate, and original content verification. | [🔗](https://aiplagiarismchecker.io/) |
 | AIGrammarChecker | Free AI Grammar Checker, Instant Grammar & Spelling Check | [🔗](https://aigrammarchecker.io/) |
 | InterSub | Language Learning with Dual Subtitles & AI Translation | [🔗](https://intersub.cc) |
+| NoteGPT | AI note-taking app that records, transcribes, and summarizes lectures | [🔗](https://notegpt.com/) |
 
 
 ## Developer
@@ -531,6 +534,7 @@ Curated list of top AI Tools.
 | Eye Shape Detector | what's my eye shape?Eye shape detector can help you test your eye type accurately with AI, and provide you with personalized recommendations. |[🔗](https://eyeshapedetector.app/)|
 | Restore Old Photos | Restore Old Photos Online With AI. |[🔗](https://restore-photo.app/)|
 | Bird Identifier | Bird Identifier by Picture With AI. |[🔗](https://birdfinder.app/)|
+| MyDetector | Accurate AI Content Detector for ChatGPT and other tools |[🔗](https://mydetector.ai/)|
 
 ## Contributors 😍
 
