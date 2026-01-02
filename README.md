@@ -414,6 +414,7 @@ Curated list of top AI Tools.
 | Audio Converter | Convert Audio to Text Online Free | [🔗](https://audioconverter.ai/) |
 | My Passion AI | AI-powered quiz to find your passion career path | [🔗](https://mypassion.ai) |
 | Worklytics | Analytics on AI and Productivity | [🔗](https://www.worklytics.co/) |
+| Voibe | Fast, private, on device AI voice dictation app for Mac | [🔗](https://www.getvoibe.com) |
 
 ## Search Engines & Tools
 
