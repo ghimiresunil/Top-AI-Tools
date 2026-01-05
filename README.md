@@ -331,7 +331,7 @@ Curated list of top AI Tools.
 | AI Roadmap Generator | AI Roadmap Generator creates a visual, step-by-step roadmap instantly. | [🔗](https://venngage.com/ai-tools/roadmap-generator) |
 | AI One Pager Generator | AI-powered one-pager designs, fast and effortless. | [🔗](https://venngage.com/ai-tools/one-pager-generator) |
 | Hooked AI | HookedAI - AI-Powered LinkedIn Marketing | [🔗](https://hookedai.ai/) |
-
+| Soro | SEO Autopilot & Content Writer | [🔗](https://trysoro.com/) |
 
 ## Productivity
 
