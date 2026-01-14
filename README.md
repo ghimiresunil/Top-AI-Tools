@@ -121,6 +121,8 @@ Curated list of top AI Tools.
 | VDraw AI | Free online AI Carousel Post Generator for Social Media | [🔗](https://vdraw.ai/)|
 | Seede AI | Helps you create a poster in 1 min | [🔗](https://seede.ai/)|
 | melhorar imagem | Improve Image Online for Free | [🔗](https://melhorar-imagem.com/)|
+| Video Watermark Remover | Remove video watermarks online for free | [🔗](https://videowatermarkremover.ai/)|
+| AI Anime | AI Anime Generator | [🔗](https://aianime.io/)|
 
 ## E-commerce
 
@@ -139,6 +141,7 @@ Curated list of top AI Tools.
 | Zola Analytics | Zola is an AI-powered financial data platform that transforms natural language queries into professional charts and reports in seconds. | [🔗](https://www.zolaanalytics.com/) |
 | Salary Calculator | Salary-Calculator.ai helps you compare net salaries worldwide instantly | [🔗](https://salary-calculator.ai/) |
 | PayCalculator | PayCalculator.ai instantly calculates take-home pay with tax breakdowns | [🔗](https://paycalculator.ai/) |
+| TaxTools AI | AI Tax Tools | [🔗](https://taxtools.ai/cn) |
 
 ## Education
 
@@ -246,6 +249,7 @@ Curated list of top AI Tools.
 | Rysa AI | AI GTM Automation Agent | [🔗](https://www.rysa.ai) |
 | StarOps | AI Platform Engineer | [🔗](https://ingenimax.ai) |
 | Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
+| TestSprite | The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow. | [🔗](https://www.testsprite.com/) |
 
 
 ## Gaming, 3D, Motion
@@ -331,6 +335,7 @@ Curated list of top AI Tools.
 | AI One Pager Generator | AI-powered one-pager designs, fast and effortless. | [🔗](https://venngage.com/ai-tools/one-pager-generator) |
 | Hooked AI | HookedAI - AI-Powered LinkedIn Marketing | [🔗](https://hookedai.ai/) |
 | Bazzly | Get Customers From Reddit on Autopilot | [🔗](https://www.bazzly.ai/) |
+| Appark | Free app market analytics for growth and competition insights | [🔗](https://appark.ai/en) |
 
 
 ## Productivity
@@ -415,6 +420,7 @@ Curated list of top AI Tools.
 | Audio Converter | Convert Audio to Text Online Free | [🔗](https://audioconverter.ai/) |
 | My Passion AI | AI-powered quiz to find your passion career path | [🔗](https://mypassion.ai) |
 | Worklytics | Analytics on AI and Productivity | [🔗](https://www.worklytics.co/) |
+| Voibe | Fast, private, on device AI voice dictation app for Mac | [🔗](https://www.getvoibe.com) |
 
 ## Search Engines & Tools
 
@@ -534,6 +540,7 @@ Curated list of top AI Tools.
 | How Attractive am I | Attractive Test AI with Your photo online to get a beauty score |[🔗](https://howattractiveami.app/)|
 | Eye Shape Detector | what's my eye shape?Eye shape detector can help you test your eye type accurately with AI, and provide you with personalized recommendations. |[🔗](https://eyeshapedetector.app/)|
 | Restore Old Photos | Restore Old Photos Online With AI. |[🔗](https://restore-photo.app/)|
+| Bird Identifier | Bird Identifier by Picture With AI. |[🔗](https://birdfinder.app/)|
 | MyDetector | Accurate AI Content Detector for ChatGPT and other tools |[🔗](https://mydetector.ai/)|
 
 ## Contributors 😍
