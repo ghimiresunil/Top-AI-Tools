@@ -69,6 +69,9 @@ Curated list of top AI Tools.
 | Somny | AI character generator for creating personalized images and videos from your own likeness. | [🔗](https://www.somny.com/)
 | MaxVideoAI | Multi-engine AI video generation hub (Sora, Veo, Pika, Kling, LTX & more) with pay-as-you-go credits. | [🔗](https://maxvideoai.com) |
 | nearerai | AI Photo Restoration: Revive Your Cherished Memories. | [🔗](https://nearerai.com/) |
+| AI Color Analysis | Trusted AI color analysis, finished in minutes | [🔗](https://aicoloranalysis.ai/) |
+| Math AI | Get instant math AI help for any mathematics problem | [🔗](https://mathaisolver.ai/) |
+| Kirkify AI | Upload a image and turn it into viral Kirkify memes in seconds | [🔗](https://kirkifyai.ai/) |
 
 ## Conversational AI
 
