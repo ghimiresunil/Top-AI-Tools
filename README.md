@@ -94,7 +94,6 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
-|AI Baby Dance|Turn photos into dancing videos|[🔗](https://aibabydance.com)|
 | Interior AI | interior design mockups and virtual staging | [🔗](https://interiorai.com/)|
 | stockimg.ai  | AI-powered designs | [🔗](https://stockimg.ai/)|
 | Brand Mark | Generating brand logos | [🔗](https://brandmark.io/)|
