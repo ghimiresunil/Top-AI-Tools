@@ -544,6 +544,7 @@ Curated list of top AI Tools.
 | Restore Old Photos | Restore Old Photos Online With AI. |[🔗](https://restore-photo.app/)|
 | Bird Identifier | Bird Identifier by Picture With AI. |[🔗](https://birdfinder.app/)|
 | MyDetector | Accurate AI Content Detector for ChatGPT and other tools |[🔗](https://mydetector.ai/)|
+| MyPicNow | Turn selfies into studio-quality headshots with AI. |[🔗](https://www.mypicnow.com/)|
 
 ## Contributors 😍
 
