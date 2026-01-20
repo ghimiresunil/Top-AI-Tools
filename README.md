@@ -88,6 +88,9 @@ Curated list of top AI Tools.
 | Pleasuredomes | AI Image and chatbot | [🔗](http://pleasuredomes.ai/) |
 | ChatSweetie | Free AI Girlfriend Chat | [🔗](https://chatsweetie.ai/) |
 | Venice | Private and uncensored conversational AI | [🔗](https://venice.ai/) |
+| JanitorAI | Large community-driven platform for unrestricted character roleplay. | [🔗](https://janitorai.com/)|
+| Gochu | High-speed multimodal AI for unrestricted roleplay and real-time image generation. | [🔗](https://gochu.app/)|
+| SillyTavern | Advanced interface for local and cloud-based uncensored LLM roleplay. | [🔗](https://sillytavernai.com/)|
 
 ## Design
 
