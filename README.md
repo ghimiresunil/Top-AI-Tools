@@ -133,6 +133,7 @@ Curated list of top AI Tools.
 | Lootgod.com | generative ai apparel using print-on-demand | [🔗](https://www.lootgod.com/)|
 | Rupert AI | AI tools for designers and marketers | [🔗](https://www.getrupert.com/)|
 | Zolltarifnummer.com | Find and verify the right 11-digit German customs tariff number | [🔗](https://www.zolltarifnummer.com/)|
+| Shopme Agent | A next-gen shopping assistant that helps you find, compare, and buy products across Chinese and global platforms, including factory-direct sources, all in one place. | [🔗](https://shopmeagent.com/)|
 
 ## Finance
 
