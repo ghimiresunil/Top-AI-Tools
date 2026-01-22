@@ -69,6 +69,7 @@ Curated list of top AI Tools.
 | Somny | AI character generator for creating personalized images and videos from your own likeness. | [🔗](https://www.somny.com/)
 | MaxVideoAI | Multi-engine AI video generation hub (Sora, Veo, Pika, Kling, LTX & more) with pay-as-you-go credits. | [🔗](https://maxvideoai.com) |
 | nearerai | AI Photo Restoration: Revive Your Cherished Memories. | [🔗](https://nearerai.com/) |
+| Monet AI | Monet AI is a All-in-One AI Video, Image, Audio creation platform | [🔗](https://monet.vision/) |
 
 ## Conversational AI
 
@@ -121,6 +122,8 @@ Curated list of top AI Tools.
 | VDraw AI | Free online AI Carousel Post Generator for Social Media | [🔗](https://vdraw.ai/)|
 | Seede AI | Helps you create a poster in 1 min | [🔗](https://seede.ai/)|
 | melhorar imagem | Improve Image Online for Free | [🔗](https://melhorar-imagem.com/)|
+| UniMusic AI | Create professional music in seconds with AI. | [🔗](https://unimusic.ai/)|
+| Video Watermark Remover | Remove video watermarks online for free | [🔗](https://videowatermarkremover.ai/)|
 | AI Anime | AI Anime Generator | [🔗](https://aianime.io/)|
 
 ## E-commerce
@@ -140,6 +143,7 @@ Curated list of top AI Tools.
 | Zola Analytics | Zola is an AI-powered financial data platform that transforms natural language queries into professional charts and reports in seconds. | [🔗](https://www.zolaanalytics.com/) |
 | Salary Calculator | Salary-Calculator.ai helps you compare net salaries worldwide instantly | [🔗](https://salary-calculator.ai/) |
 | PayCalculator | PayCalculator.ai instantly calculates take-home pay with tax breakdowns | [🔗](https://paycalculator.ai/) |
+| TaxTools AI | AI Tax Tools | [🔗](https://taxtools.ai/cn) |
 
 ## Education
 
@@ -185,6 +189,7 @@ Curated list of top AI Tools.
 | AIGrammarChecker | Free AI Grammar Checker, Instant Grammar & Spelling Check | [🔗](https://aigrammarchecker.io/) |
 | InterSub | Language Learning with Dual Subtitles & AI Translation | [🔗](https://intersub.cc) |
 | NoteGPT | AI note-taking app that records, transcribes, and summarizes lectures | [🔗](https://notegpt.com/) |
+| Socratic App | AI homework helper that teaches students like a tutor | [🔗](https://socraticapp.com/) |
 
 
 ## Developer
@@ -247,6 +252,8 @@ Curated list of top AI Tools.
 | Rysa AI | AI GTM Automation Agent | [🔗](https://www.rysa.ai) |
 | StarOps | AI Platform Engineer | [🔗](https://ingenimax.ai) |
 | Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
+| Price Per Token | Compare LLM API pricing across 300+ models with token counters and benchmarks | [🔗](https://pricepertoken.com/) |
+| TestSprite | The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow. | [🔗](https://www.testsprite.com/) |
 
 
 ## Gaming, 3D, Motion
@@ -332,6 +339,9 @@ Curated list of top AI Tools.
 | AI One Pager Generator | AI-powered one-pager designs, fast and effortless. | [🔗](https://venngage.com/ai-tools/one-pager-generator) |
 | Hooked AI | HookedAI - AI-Powered LinkedIn Marketing | [🔗](https://hookedai.ai/) |
 | Soro | SEO Autopilot & Content Writer | [🔗](https://trysoro.com/) |
+| Bazzly | Get Customers From Reddit on Autopilot | [🔗](https://www.bazzly.ai/) |
+| Appark | Free app market analytics for growth and competition insights | [🔗](https://appark.ai/en) |
+
 
 ## Productivity
 
