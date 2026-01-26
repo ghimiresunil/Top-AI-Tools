@@ -550,6 +550,7 @@ Curated list of top AI Tools.
 | Restore Old Photos | Restore Old Photos Online With AI. |[🔗](https://restore-photo.app/)|
 | Bird Identifier | Bird Identifier by Picture With AI. |[🔗](https://birdfinder.app/)|
 | MyDetector | Accurate AI Content Detector for ChatGPT and other tools |[🔗](https://mydetector.ai/)|
+| How Old Do I Look | How Old Do I Look? Free AI Face Age Detector Online |[🔗](https://howolddoyoulook.app/)|
 
 ## Contributors 😍
 
