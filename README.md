@@ -95,6 +95,7 @@ Curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Interior AI | interior design mockups and virtual staging | [🔗](https://interiorai.com/)|
+| AI Virtual Staging | AI powered virtual staging | [🔗](https://www.aivirtualstaging.net/)|
 | stockimg.ai  | AI-powered designs | [🔗](https://stockimg.ai/)|
 | Brand Mark | Generating brand logos | [🔗](https://brandmark.io/)|
 | Magic Eraser | Removing unwanted elements from images | [🔗](https://www.magiceraser.io/)|
