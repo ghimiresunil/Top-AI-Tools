@@ -344,6 +344,7 @@ Curated list of top AI Tools.
 | Soro | SEO Autopilot & Content Writer | [🔗](https://trysoro.com/) |
 | Bazzly | Get Customers From Reddit on Autopilot | [🔗](https://www.bazzly.ai/) |
 | Appark | Free app market analytics for growth and competition insights | [🔗](https://appark.ai/en) |
+| dnAI | Brand-first AI marketing platform | [🔗](https://humandnai.com/) |
 
 
 ## Productivity
