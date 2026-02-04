@@ -87,6 +87,7 @@ Curated list of top AI Tools.
 | Gemini (by Google) | conversational AI chat service from Google that can access and process information from the web | [🔗](https://gemini.google.com/)|
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
 | Replika | an AI companion | [🔗](https://replika.ai/)|
+| Breezy | Real-time AI voice chat with unique characters | [🔗](https://talkbreezy.com/)|
 | AICamp | ChatGPT for Teams | [🔗](https://aicamp.so/)
 | Netwrck | AI Character Chat Social Network, saying "Appears" makes the AI make Art. | [🔗](https://netwrck.com/)|
 | Claude | Talk to Claude, an AI assistant from Anthropic. | [🔗](https://claude.ai/)|
