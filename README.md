@@ -20,6 +20,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+|AI Baby Dance|Turn photos into dancing videos|[🔗](https://aibabydance.com)|
 | Face Swap Video AI | Free Online AI Face Swap for Video & Photo. | [🔗](https://faceswapvideo.io/)|
 | AIImageTranslator | Free Online AI Image Translator Tool. | [🔗](https://aiimagetranslator.io/)|
 | FaceAI | Free Online AI Face Swap (No Sign Up) | [🔗](https://faceai.art/)|
@@ -69,6 +70,10 @@ Curated list of top AI Tools.
 | Somny | AI character generator for creating personalized images and videos from your own likeness. | [🔗](https://www.somny.com/)
 | MaxVideoAI | Multi-engine AI video generation hub (Sora, Veo, Pika, Kling, LTX & more) with pay-as-you-go credits. | [🔗](https://maxvideoai.com) |
 | nearerai | AI Photo Restoration: Revive Your Cherished Memories. | [🔗](https://nearerai.com/) |
+| AI Color Analysis | Trusted AI color analysis, finished in minutes | [🔗](https://aicoloranalysis.ai/) |
+| Math AI | Get instant math AI help for any mathematics problem | [🔗](https://mathaisolver.ai/) |
+| Kirkify AI | Upload a image and turn it into viral Kirkify memes in seconds | [🔗](https://kirkifyai.ai/) |
+| Moire Removal | AI-powered moiré pattern removal for screen photos and scanned prints. | [🔗](https://moireremoval.com/) |
 | Monet AI | Monet AI is a All-in-One AI Video, Image, Audio creation platform | [🔗](https://monet.vision/) |
 
 ## Conversational AI
@@ -94,6 +99,7 @@ Curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Interior AI | interior design mockups and virtual staging | [🔗](https://interiorai.com/)|
+| AI Virtual Staging | AI powered virtual staging | [🔗](https://www.aivirtualstaging.net/)|
 | stockimg.ai  | AI-powered designs | [🔗](https://stockimg.ai/)|
 | Brand Mark | Generating brand logos | [🔗](https://brandmark.io/)|
 | Magic Eraser | Removing unwanted elements from images | [🔗](https://www.magiceraser.io/)|
@@ -133,6 +139,8 @@ Curated list of top AI Tools.
 | Lootgod.com | generative ai apparel using print-on-demand | [🔗](https://www.lootgod.com/)|
 | Rupert AI | AI tools for designers and marketers | [🔗](https://www.getrupert.com/)|
 | Zolltarifnummer.com | Find and verify the right 11-digit German customs tariff number | [🔗](https://www.zolltarifnummer.com/)|
+| Shopme Agent | A next-gen shopping assistant that helps you find, compare, and buy products across Chinese and global platforms, including factory-direct sources, all in one place. | [🔗](https://shopmeagent.com/)|
+| Picoko | AI Product Photo Generator - Create professional product images with models | [Link](https://www.picoko.com/) |
 
 ## Finance
 
@@ -189,6 +197,7 @@ Curated list of top AI Tools.
 | AIGrammarChecker | Free AI Grammar Checker, Instant Grammar & Spelling Check | [🔗](https://aigrammarchecker.io/) |
 | InterSub | Language Learning with Dual Subtitles & AI Translation | [🔗](https://intersub.cc) |
 | NoteGPT | AI note-taking app that records, transcribes, and summarizes lectures | [🔗](https://notegpt.com/) |
+| Socratic App | AI homework helper that teaches students like a tutor | [🔗](https://socraticapp.com/) |
 
 
 ## Developer
@@ -251,6 +260,7 @@ Curated list of top AI Tools.
 | Rysa AI | AI GTM Automation Agent | [🔗](https://www.rysa.ai) |
 | StarOps | AI Platform Engineer | [🔗](https://ingenimax.ai) |
 | Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
+| Price Per Token | Compare LLM API pricing across 300+ models with token counters and benchmarks | [🔗](https://pricepertoken.com/) |
 | TestSprite | The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow. | [🔗](https://www.testsprite.com/) |
 
 
@@ -336,6 +346,7 @@ Curated list of top AI Tools.
 | AI Roadmap Generator | AI Roadmap Generator creates a visual, step-by-step roadmap instantly. | [🔗](https://venngage.com/ai-tools/roadmap-generator) |
 | AI One Pager Generator | AI-powered one-pager designs, fast and effortless. | [🔗](https://venngage.com/ai-tools/one-pager-generator) |
 | Hooked AI | HookedAI - AI-Powered LinkedIn Marketing | [🔗](https://hookedai.ai/) |
+| Soro | SEO Autopilot & Content Writer | [🔗](https://trysoro.com/) |
 | Bazzly | Get Customers From Reddit on Autopilot | [🔗](https://www.bazzly.ai/) |
 | Appark | Free app market analytics for growth and competition insights | [🔗](https://appark.ai/en) |
 
@@ -423,6 +434,8 @@ Curated list of top AI Tools.
 | My Passion AI | AI-powered quiz to find your passion career path | [🔗](https://mypassion.ai) |
 | Worklytics | Analytics on AI and Productivity | [🔗](https://www.worklytics.co/) |
 | Voibe | Fast, private, on device AI voice dictation app for Mac | [🔗](https://www.getvoibe.com) |
+| Tubetranscript | YouTube Transcript Generator | [🔗](https://www.tubetranscript.com/) |
+| SENTENCIFY | AI Free Paraphrasing Tool | [🔗](https://www.sentencify.ai/en/) |
 
 ## Search Engines & Tools
 
@@ -545,6 +558,7 @@ Curated list of top AI Tools.
 | Bird Identifier | Bird Identifier by Picture With AI. |[🔗](https://birdfinder.app/)|
 | MyDetector | Accurate AI Content Detector for ChatGPT and other tools |[🔗](https://mydetector.ai/)|
 | MyPicNow | Turn selfies into studio-quality headshots with AI. |[🔗](https://www.mypicnow.com/)|
+| How Old Do I Look | How Old Do I Look? Free AI Face Age Detector Online |[🔗](https://howolddoyoulook.app/)|
 
 ## Contributors 😍
 
