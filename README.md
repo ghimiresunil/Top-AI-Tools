@@ -131,6 +131,7 @@ Curated list of top AI Tools.
 | UniMusic AI | Create professional music in seconds with AI. | [🔗](https://unimusic.ai/)|
 | Video Watermark Remover | Remove video watermarks online for free | [🔗](https://videowatermarkremover.ai/)|
 | AI Anime | AI Anime Generator | [🔗](https://aianime.io/)|
+| GenDesigns | AI Mobile App Design Generator | [🔗](https://gendesigns.ai/)|
 
 ## E-commerce
 
