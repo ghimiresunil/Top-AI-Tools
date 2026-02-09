@@ -488,6 +488,7 @@ Curated list of top AI Tools.
 | Galichat.com | Custom ChatGPT trained on your Website data. | [🔗](https://www.galichat.com/ref=Top-AI-Tools) |
 | Beheard Labs | AI-Powered Customer Insight Platform | [🔗](https://www.gobeheard.com/) |
 | Rosie | AI Phone Answering Service | [🔗](https://heyrosie.com/) |
+| Vidocu | Turn screen recordings into professional videos and documentation | [🔗](https://vidocu.ai/) |
 
 ## Phone Calls
 
