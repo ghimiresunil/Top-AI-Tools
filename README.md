@@ -262,6 +262,7 @@ Curated list of top AI Tools.
 | Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
 | Price Per Token | Compare LLM API pricing across 300+ models with token counters and benchmarks | [🔗](https://pricepertoken.com/) |
 | TestSprite | The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow. | [🔗](https://www.testsprite.com/) |
+| Omnara | Command Center for AI Coding Agents. | [🔗](https://www.omnara.com/) |
 
 
 ## Gaming, 3D, Motion
