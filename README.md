@@ -439,6 +439,7 @@ Curated list of top AI Tools.
 | Voibe | Fast, private, on device AI voice dictation app for Mac | [🔗](https://www.getvoibe.com) |
 | Tubetranscript | YouTube Transcript Generator | [🔗](https://www.tubetranscript.com/) |
 | SENTENCIFY | AI Free Paraphrasing Tool | [🔗](https://www.sentencify.ai/en/) |
+| Taskade | AI-powered workspace with custom AI agents, real-time collaboration, workflow automation, and 700+ prompt templates. Multi-model support (GPT-4o, Claude, Gemini). | [🔗](https://taskade.com) |
 
 ## Search Engines & Tools
 
