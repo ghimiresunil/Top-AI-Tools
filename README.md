@@ -20,6 +20,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+|AI Baby Dance|Turn photos into dancing videos|[🔗](https://aibabydance.com)|
 | Face Swap Video AI | Free Online AI Face Swap for Video & Photo. | [🔗](https://faceswapvideo.io/)|
 | AIImageTranslator | Free Online AI Image Translator Tool. | [🔗](https://aiimagetranslator.io/)|
 | FaceAI | Free Online AI Face Swap (No Sign Up) | [🔗](https://faceai.art/)|
@@ -69,6 +70,9 @@ Curated list of top AI Tools.
 | Somny | AI character generator for creating personalized images and videos from your own likeness. | [🔗](https://www.somny.com/)
 | MaxVideoAI | Multi-engine AI video generation hub (Sora, Veo, Pika, Kling, LTX & more) with pay-as-you-go credits. | [🔗](https://maxvideoai.com) |
 | nearerai | AI Photo Restoration: Revive Your Cherished Memories. | [🔗](https://nearerai.com/) |
+| AI Color Analysis | Trusted AI color analysis, finished in minutes | [🔗](https://aicoloranalysis.ai/) |
+| Math AI | Get instant math AI help for any mathematics problem | [🔗](https://mathaisolver.ai/) |
+| Kirkify AI | Upload a image and turn it into viral Kirkify memes in seconds | [🔗](https://kirkifyai.ai/) |
 | Moire Removal | AI-powered moiré pattern removal for screen photos and scanned prints. | [🔗](https://moireremoval.com/) |
 | Monet AI | Monet AI is a All-in-One AI Video, Image, Audio creation platform | [🔗](https://monet.vision/) |
 
@@ -128,6 +132,7 @@ Curated list of top AI Tools.
 | Video Watermark Remover | Remove video watermarks online for free | [🔗](https://videowatermarkremover.ai/)|
 | AI Anime | AI Anime Generator | [🔗](https://aianime.io/)|
 | AI Graph Generator | Turn raw data into clear, AI-generated graphs in seconds. | [🔗](https://venngage.com/ai-tools/graph-generator)|
+| AI Image Generator | Go from concept to custom AI-generated images in just a few clicks. | [🔗](https://venngage.com/ai-tools/image-generator)|
 
 ## E-commerce
 
@@ -259,6 +264,7 @@ Curated list of top AI Tools.
 | Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
 | Price Per Token | Compare LLM API pricing across 300+ models with token counters and benchmarks | [🔗](https://pricepertoken.com/) |
 | TestSprite | The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow. | [🔗](https://www.testsprite.com/) |
+| Omnara | Command Center for AI Coding Agents. | [🔗](https://www.omnara.com/) |
 
 
 ## Gaming, 3D, Motion
@@ -346,6 +352,7 @@ Curated list of top AI Tools.
 | Soro | SEO Autopilot & Content Writer | [🔗](https://trysoro.com/) |
 | Bazzly | Get Customers From Reddit on Autopilot | [🔗](https://www.bazzly.ai/) |
 | Appark | Free app market analytics for growth and competition insights | [🔗](https://appark.ai/en) |
+| dnAI | Brand-first AI marketing platform | [🔗](https://humandnai.com/) |
 
 
 ## Productivity
@@ -485,6 +492,7 @@ Curated list of top AI Tools.
 | Galichat.com | Custom ChatGPT trained on your Website data. | [🔗](https://www.galichat.com/ref=Top-AI-Tools) |
 | Beheard Labs | AI-Powered Customer Insight Platform | [🔗](https://www.gobeheard.com/) |
 | Rosie | AI Phone Answering Service | [🔗](https://heyrosie.com/) |
+| Vidocu | Turn screen recordings into professional videos and documentation | [🔗](https://vidocu.ai/) |
 
 ## Phone Calls
 
@@ -554,6 +562,7 @@ Curated list of top AI Tools.
 | Restore Old Photos | Restore Old Photos Online With AI. |[🔗](https://restore-photo.app/)|
 | Bird Identifier | Bird Identifier by Picture With AI. |[🔗](https://birdfinder.app/)|
 | MyDetector | Accurate AI Content Detector for ChatGPT and other tools |[🔗](https://mydetector.ai/)|
+| MyPicNow | Turn selfies into studio-quality headshots with AI. |[🔗](https://www.mypicnow.com/)|
 | How Old Do I Look | How Old Do I Look? Free AI Face Age Detector Online |[🔗](https://howolddoyoulook.app/)|
 
 ## Contributors 😍
