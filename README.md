@@ -354,7 +354,7 @@ Curated list of top AI Tools.
 | Bazzly | Get Customers From Reddit on Autopilot | [🔗](https://www.bazzly.ai/) |
 | Appark | Free app market analytics for growth and competition insights | [🔗](https://appark.ai/en) |
 | dnAI | Brand-first AI marketing platform | [🔗](https://humandnai.com/) |
-| Reelify AI | Free & Unlimited AI video clipper to turn long videos into viral Shorts/Reels. | [🔗](https://reelifyai.co/) |
+| Reelify AI | Free & Unlimited AI video clipper to turn long videos into viral Shorts/Reels. | [🔗](https://reelifyclips.com/) |
 
 
 ## Productivity
