@@ -134,6 +134,7 @@ Curated list of top AI Tools.
 | AI Anime | AI Anime Generator | [🔗](https://aianime.io/)|
 | AI Graph Generator | Turn raw data into clear, AI-generated graphs in seconds. | [🔗](https://venngage.com/ai-tools/graph-generator)|
 | AI Image Generator | Go from concept to custom AI-generated images in just a few clicks. | [🔗](https://venngage.com/ai-tools/image-generator)|
+| AI Book Cover Generator | Design eye-catching book covers with AI. | [🔗](https://venngage.com/ai-tools/book-cover-generator)|
 
 ## E-commerce
 
