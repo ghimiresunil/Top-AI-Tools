@@ -87,6 +87,7 @@ Curated list of top AI Tools.
 | Gemini (by Google) | conversational AI chat service from Google that can access and process information from the web | [🔗](https://gemini.google.com/)|
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
 | Replika | an AI companion | [🔗](https://replika.ai/)|
+| Breezy | Real-time AI voice chat with unique characters | [🔗](https://talkbreezy.com/)|
 | AICamp | ChatGPT for Teams | [🔗](https://aicamp.so/)
 | Netwrck | AI Character Chat Social Network, saying "Appears" makes the AI make Art. | [🔗](https://netwrck.com/)|
 | Claude | Talk to Claude, an AI assistant from Anthropic. | [🔗](https://claude.ai/)|
@@ -132,6 +133,10 @@ Curated list of top AI Tools.
 | Video Watermark Remover | Remove video watermarks online for free | [🔗](https://videowatermarkremover.ai/)|
 | AI Anime | AI Anime Generator | [🔗](https://aianime.io/)|
 | AI Instagram Post Generator | Create consistent, high-quality Instagram posts with AI | [🔗](https://venngage.com/ai-tools/instagram-post-generator)|
+| AI Grant Proposal Generator | Create clear, well-structured grant proposals with AI | [🔗](https://venngage.com/ai-tools/grant-proposal-generator)|
+| AI Flowchart Generator | Turn ideas into clear, structured AI flowcharts | [🔗](https://venngage.com/ai-tools/flowchart-generator)|
+| AI Graph Generator | Turn raw data into clear, AI-generated graphs in seconds. | [🔗](https://venngage.com/ai-tools/graph-generator)|
+| AI Image Generator | Go from concept to custom AI-generated images in just a few clicks. | [🔗](https://venngage.com/ai-tools/image-generator)|
 
 ## E-commerce
 
@@ -263,6 +268,7 @@ Curated list of top AI Tools.
 | Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
 | Price Per Token | Compare LLM API pricing across 300+ models with token counters and benchmarks | [🔗](https://pricepertoken.com/) |
 | TestSprite | The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow. | [🔗](https://www.testsprite.com/) |
+| Omnara | Command Center for AI Coding Agents. | [🔗](https://www.omnara.com/) |
 
 
 ## Gaming, 3D, Motion
@@ -350,6 +356,7 @@ Curated list of top AI Tools.
 | Soro | SEO Autopilot & Content Writer | [🔗](https://trysoro.com/) |
 | Bazzly | Get Customers From Reddit on Autopilot | [🔗](https://www.bazzly.ai/) |
 | Appark | Free app market analytics for growth and competition insights | [🔗](https://appark.ai/en) |
+| dnAI | Brand-first AI marketing platform | [🔗](https://humandnai.com/) |
 
 
 ## Productivity
@@ -561,6 +568,7 @@ Curated list of top AI Tools.
 | MyDetector | Accurate AI Content Detector for ChatGPT and other tools |[🔗](https://mydetector.ai/)|
 | MyPicNow | Turn selfies into studio-quality headshots with AI. |[🔗](https://www.mypicnow.com/)|
 | How Old Do I Look | How Old Do I Look? Free AI Face Age Detector Online |[🔗](https://howolddoyoulook.app/)|
+| AI Caricature Generator | Free Online Caricature Generator|[🔗](https://banana-ai.art/caricature-trend/)|
 
 ## Contributors 😍
 
