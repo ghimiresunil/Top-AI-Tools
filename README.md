@@ -132,6 +132,7 @@ Curated list of top AI Tools.
 | UniMusic AI | Create professional music in seconds with AI. | [🔗](https://unimusic.ai/)|
 | Video Watermark Remover | Remove video watermarks online for free | [🔗](https://videowatermarkremover.ai/)|
 | AI Anime | AI Anime Generator | [🔗](https://aianime.io/)|
+| AI Presentation Generator | Build clear, professional presentations faster with the help of AI | [🔗](https://venngage.com/ai-tools/presentation-generator)|
 | GenDesigns | AI Mobile App Design Generator | [🔗](https://gendesigns.ai/)|
 | AI Instagram Post Generator | Create consistent, high-quality Instagram posts with AI | [🔗](https://venngage.com/ai-tools/instagram-post-generator)|
 | AI Grant Proposal Generator | Create clear, well-structured grant proposals with AI | [🔗](https://venngage.com/ai-tools/grant-proposal-generator)|
