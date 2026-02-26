@@ -359,6 +359,7 @@ Curated list of top AI Tools.
 | Bazzly | Get Customers From Reddit on Autopilot | [🔗](https://www.bazzly.ai/) |
 | Appark | Free app market analytics for growth and competition insights | [🔗](https://appark.ai/en) |
 | dnAI | Brand-first AI marketing platform | [🔗](https://humandnai.com/) |
+| Gro | AI Sales Agent for B2B Lead Generation | [🔗](https://thegro.ai/) |
 
 
 ## Productivity
