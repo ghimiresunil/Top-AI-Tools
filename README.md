@@ -422,6 +422,7 @@ Curated list of top AI Tools.
 | Promptly | Discover, create and share powerful prompts | [🔗](https://searchpromptly.com/) |
 | Spell | Spell is the AI alternative to Google Docs | [🔗](https://spellapp.com) |
 | Kosmik | AI moodboarding platform | [🔗](https://www.kosmik.app) |
+| PM Skills | 24 AI agent skills for product managers across the full product lifecycle | [🔗](https://github.com/product-on-purpose/pm-skills) |
 | Magic Potion | Visual AI Prompt Editor | [🔗](https://www.magicpotion.app) |
 | EKHOS AI | EKHOS AI is a powerful speech-to-text software that accurately transcribes audio and video files, supports real-time recording and transcription, and a built-in proofreading editor. | [🔗](https://ekhos.ai/) |
 | 3D House Planner | AI-Powered 3D Floor Plan Generation from Images | [🔗](https://3dhouseplanner.com/) |
