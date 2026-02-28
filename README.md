@@ -208,6 +208,7 @@ Curated list of top AI Tools.
 | InterSub | Language Learning with Dual Subtitles & AI Translation | [🔗](https://intersub.cc) |
 | NoteGPT | AI note-taking app that records, transcribes, and summarizes lectures | [🔗](https://notegpt.com/) |
 | Socratic App | AI homework helper that teaches students like a tutor | [🔗](https://socraticapp.com/) |
+| Lorea | The AI Study Game Generator | [🔗](https://www.lorea.app/) |
 
 
 ## Developer
