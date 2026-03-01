@@ -76,6 +76,7 @@ Curated list of top AI Tools.
 | Moire Removal | AI-powered moiré pattern removal for screen photos and scanned prints. | [🔗](https://moireremoval.com/) |
 | Monet AI | Monet AI is a All-in-One AI Video, Image, Audio creation platform | [🔗](https://monet.vision/) |
 | TubePrompter | Convert any video into AI-ready prompts for Sora, Midjourney, Runway, and more | [🔗](https://tubeprompter.com/) |
+| Blipix PRO | Generate Viral faceless videos on Auto-Pilot. | [🔗](https://blipix.pro/)
 
 ## Conversational AI
 
@@ -88,6 +89,7 @@ Curated list of top AI Tools.
 | Gemini (by Google) | conversational AI chat service from Google that can access and process information from the web | [🔗](https://gemini.google.com/)|
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
 | Replika | an AI companion | [🔗](https://replika.ai/)|
+| Breezy | Real-time AI voice chat with unique characters | [🔗](https://talkbreezy.com/)|
 | AICamp | ChatGPT for Teams | [🔗](https://aicamp.so/)
 | Netwrck | AI Character Chat Social Network, saying "Appears" makes the AI make Art. | [🔗](https://netwrck.com/)|
 | Claude | Talk to Claude, an AI assistant from Anthropic. | [🔗](https://claude.ai/)|
@@ -132,6 +134,13 @@ Curated list of top AI Tools.
 | UniMusic AI | Create professional music in seconds with AI. | [🔗](https://unimusic.ai/)|
 | Video Watermark Remover | Remove video watermarks online for free | [🔗](https://videowatermarkremover.ai/)|
 | AI Anime | AI Anime Generator | [🔗](https://aianime.io/)|
+| AI Contract Generator | Create clear, reliable contracts with AI | [🔗](https://venngage.com/ai-tools/ai-contract-generator)|
+| AI Presentation Generator | Build clear, professional presentations faster with the help of AI | [🔗](https://venngage.com/ai-tools/presentation-generator)|
+| GenDesigns | AI Mobile App Design Generator | [🔗](https://gendesigns.ai/)|
+| AI Instagram Post Generator | Create consistent, high-quality Instagram posts with AI | [🔗](https://venngage.com/ai-tools/instagram-post-generator)|
+| AI Grant Proposal Generator | Create clear, well-structured grant proposals with AI | [🔗](https://venngage.com/ai-tools/grant-proposal-generator)|
+| AI Flowchart Generator | Turn ideas into clear, structured AI flowcharts | [🔗](https://venngage.com/ai-tools/flowchart-generator)|
+| AI Graph Generator | Turn raw data into clear, AI-generated graphs in seconds. | [🔗](https://venngage.com/ai-tools/graph-generator)|
 | AI Image Generator | Go from concept to custom AI-generated images in just a few clicks. | [🔗](https://venngage.com/ai-tools/image-generator)|
 
 ## E-commerce
@@ -440,6 +449,7 @@ Curated list of top AI Tools.
 | Voibe | Fast, private, on device AI voice dictation app for Mac | [🔗](https://www.getvoibe.com) |
 | Tubetranscript | YouTube Transcript Generator | [🔗](https://www.tubetranscript.com/) |
 | SENTENCIFY | AI Free Paraphrasing Tool | [🔗](https://www.sentencify.ai/en/) |
+| HumanTone | Transform AI Text into Human, High-Performing Content | [🔗](https://humantone.io/) |
 
 ## Search Engines & Tools
 
@@ -564,6 +574,7 @@ Curated list of top AI Tools.
 | MyDetector | Accurate AI Content Detector for ChatGPT and other tools |[🔗](https://mydetector.ai/)|
 | MyPicNow | Turn selfies into studio-quality headshots with AI. |[🔗](https://www.mypicnow.com/)|
 | How Old Do I Look | How Old Do I Look? Free AI Face Age Detector Online |[🔗](https://howolddoyoulook.app/)|
+| AI Caricature Generator | Free Online Caricature Generator|[🔗](https://banana-ai.art/caricature-trend/)|
 
 ## Contributors 😍
 
