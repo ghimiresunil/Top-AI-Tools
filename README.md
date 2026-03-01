@@ -164,6 +164,7 @@ Curated list of top AI Tools.
 | TaxTools AI | AI Tax Tools | [🔗](https://taxtools.ai/cn) |
 
 ## Education
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
