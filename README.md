@@ -142,6 +142,7 @@ Curated list of top AI Tools.
 | AI Flowchart Generator | Turn ideas into clear, structured AI flowcharts | [🔗](https://venngage.com/ai-tools/flowchart-generator)|
 | AI Graph Generator | Turn raw data into clear, AI-generated graphs in seconds. | [🔗](https://venngage.com/ai-tools/graph-generator)|
 | AI Image Generator | Go from concept to custom AI-generated images in just a few clicks. | [🔗](https://venngage.com/ai-tools/image-generator)|
+| AI Book Cover Generator | Design eye-catching book covers with AI. | [🔗](https://venngage.com/ai-tools/book-cover-generator)|
 
 ## E-commerce
 
