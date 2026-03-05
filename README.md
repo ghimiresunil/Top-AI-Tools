@@ -453,6 +453,7 @@ Curated list of top AI Tools.
 | Tubetranscript | YouTube Transcript Generator | [🔗](https://www.tubetranscript.com/) |
 | SENTENCIFY | AI Free Paraphrasing Tool | [🔗](https://www.sentencify.ai/en/) |
 | HumanTone | Transform AI Text into Human, High-Performing Content | [🔗](https://humantone.io/) |
+| Product Manager Skills | AI agent skill that turns Claude Code into an opinionated PM brain — 6 knowledge domains, 12 templates, 30+ frameworks, 32 SaaS metrics | [🔗](https://github.com/Digidai/product-manager-skills) |
 
 ## Search Engines & Tools
 
