@@ -75,6 +75,8 @@ Curated list of top AI Tools.
 | Kirkify AI | Upload a image and turn it into viral Kirkify memes in seconds | [🔗](https://kirkifyai.ai/) |
 | Moire Removal | AI-powered moiré pattern removal for screen photos and scanned prints. | [🔗](https://moireremoval.com/) |
 | Monet AI | Monet AI is a All-in-One AI Video, Image, Audio creation platform | [🔗](https://monet.vision/) |
+| TubePrompter | Convert any video into AI-ready prompts for Sora, Midjourney, Runway, and more | [🔗](https://tubeprompter.com/) |
+| Blipix PRO | Generate Viral faceless videos on Auto-Pilot. | [🔗](https://blipix.pro/)
 
 ## Conversational AI
 
@@ -132,11 +134,17 @@ Curated list of top AI Tools.
 | UniMusic AI | Create professional music in seconds with AI. | [🔗](https://unimusic.ai/)|
 | Video Watermark Remover | Remove video watermarks online for free | [🔗](https://videowatermarkremover.ai/)|
 | AI Anime | AI Anime Generator | [🔗](https://aianime.io/)|
+| AI Contract Generator | Create clear, reliable contracts with AI | [🔗](https://venngage.com/ai-tools/ai-contract-generator)|
+| AI Presentation Generator | Build clear, professional presentations faster with the help of AI | [🔗](https://venngage.com/ai-tools/presentation-generator)|
+| GenDesigns | AI Mobile App Design Generator | [🔗](https://gendesigns.ai/)|
+| AI Instagram Post Generator | Create consistent, high-quality Instagram posts with AI | [🔗](https://venngage.com/ai-tools/instagram-post-generator)|
 | AI Grant Proposal Generator | Create clear, well-structured grant proposals with AI | [🔗](https://venngage.com/ai-tools/grant-proposal-generator)|
 | AI Flowchart Generator | Turn ideas into clear, structured AI flowcharts | [🔗](https://venngage.com/ai-tools/flowchart-generator)|
 | AI Graph Generator | Turn raw data into clear, AI-generated graphs in seconds. | [🔗](https://venngage.com/ai-tools/graph-generator)|
 | AI Image Generator | Go from concept to custom AI-generated images in just a few clicks. | [🔗](https://venngage.com/ai-tools/image-generator)|
 | AI Facebook Ad Generator | Create tailored Facebook ads with AI in seconds | [🔗](https://venngage.com/ai-tools/facebook-ad-generator)|
+| AI Proposal Generator | Build clear, professional proposals with AI. | [🔗](https://venngage.com/ai-tools/proposal-generator)|
+| AI Book Cover Generator | Design eye-catching book covers with AI. | [🔗](https://venngage.com/ai-tools/book-cover-generator)|
 
 ## E-commerce
 
@@ -357,6 +365,7 @@ Curated list of top AI Tools.
 | Bazzly | Get Customers From Reddit on Autopilot | [🔗](https://www.bazzly.ai/) |
 | Appark | Free app market analytics for growth and competition insights | [🔗](https://appark.ai/en) |
 | dnAI | Brand-first AI marketing platform | [🔗](https://humandnai.com/) |
+| Reelify AI | Free & Unlimited AI video clipper to turn long videos into viral Shorts/Reels. | [🔗](https://reelifyclips.com/) |
 
 
 ## Productivity
@@ -420,6 +429,7 @@ Curated list of top AI Tools.
 | Promptly | Discover, create and share powerful prompts | [🔗](https://searchpromptly.com/) |
 | Spell | Spell is the AI alternative to Google Docs | [🔗](https://spellapp.com) |
 | Kosmik | AI moodboarding platform | [🔗](https://www.kosmik.app) |
+| PM Skills | 24 AI agent skills for product managers across the full product lifecycle | [🔗](https://github.com/product-on-purpose/pm-skills) |
 | Magic Potion | Visual AI Prompt Editor | [🔗](https://www.magicpotion.app) |
 | EKHOS AI | EKHOS AI is a powerful speech-to-text software that accurately transcribes audio and video files, supports real-time recording and transcription, and a built-in proofreading editor. | [🔗](https://ekhos.ai/) |
 | 3D House Planner | AI-Powered 3D Floor Plan Generation from Images | [🔗](https://3dhouseplanner.com/) |
@@ -444,6 +454,7 @@ Curated list of top AI Tools.
 | Voibe | Fast, private, on device AI voice dictation app for Mac | [🔗](https://www.getvoibe.com) |
 | Tubetranscript | YouTube Transcript Generator | [🔗](https://www.tubetranscript.com/) |
 | SENTENCIFY | AI Free Paraphrasing Tool | [🔗](https://www.sentencify.ai/en/) |
+| HumanTone | Transform AI Text into Human, High-Performing Content | [🔗](https://humantone.io/) |
 
 ## Search Engines & Tools
 
