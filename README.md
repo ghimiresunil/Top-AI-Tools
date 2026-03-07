@@ -455,6 +455,7 @@ Curated list of top AI Tools.
 | Tubetranscript | YouTube Transcript Generator | [🔗](https://www.tubetranscript.com/) |
 | SENTENCIFY | AI Free Paraphrasing Tool | [🔗](https://www.sentencify.ai/en/) |
 | HumanTone | Transform AI Text into Human, High-Performing Content | [🔗](https://humantone.io/) |
+| LocalChat.app | Local-first MacOS AI application - 100% Private, Works Fully Offline | [🔗](https://www.localchat.app/) |
 
 ## Search Engines & Tools
 
