@@ -277,6 +277,7 @@ Curated list of top AI Tools.
 | Price Per Token | Compare LLM API pricing across 300+ models with token counters and benchmarks | [🔗](https://pricepertoken.com/) |
 | TestSprite | The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow. | [🔗](https://www.testsprite.com/) |
 | Omnara | Command Center for AI Coding Agents. | [🔗](https://www.omnara.com/) |
+| Xquik | X/Twitter data platform with AI agent integration — MCP server, REST API, 20 extraction tools. | [🔗](https://github.com/Xquik-dev/x-twitter-scraper) |
 
 
 ## Gaming, 3D, Motion
