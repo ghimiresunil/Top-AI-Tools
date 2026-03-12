@@ -457,6 +457,7 @@ Curated list of top AI Tools.
 | SENTENCIFY | AI Free Paraphrasing Tool | [🔗](https://www.sentencify.ai/en/) |
 | HumanTone | Transform AI Text into Human, High-Performing Content | [🔗](https://humantone.io/) |
 | LocalChat.app | Local-first MacOS AI application - 100% Private, Works Fully Offline | [🔗](https://www.localchat.app/) |
+| Consul | Executive Assistant That Runs Your Calendar, Inbox & Scheduling | [🔗](https://consul.so/) |
 
 ## Search Engines & Tools
 
