@@ -91,6 +91,7 @@ Curated list of top AI Tools.
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
 | Replika | an AI companion | [🔗](https://replika.ai/)|
 | Breezy | Real-time AI voice chat with unique characters | [🔗](https://talkbreezy.com/)|
+| DoaCam | AI video companion with a 3D avatar that sees you through your camera, talks in real time, and remembers you | [🔗](https://doacam.com)|
 | AICamp | ChatGPT for Teams | [🔗](https://aicamp.so/)
 | Netwrck | AI Character Chat Social Network, saying "Appears" makes the AI make Art. | [🔗](https://netwrck.com/)|
 | Claude | Talk to Claude, an AI assistant from Anthropic. | [🔗](https://claude.ai/)|
