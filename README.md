@@ -47,6 +47,7 @@ Curated list of top AI Tools.
 | eBank | eBank is a AI Art Generator and AI Art Search Engine where you can search millions of community AI Artworks. |   [🔗](https://eBank.nz)    |
 | Architecture Helper | Analyze any building architecture, and generate your own custom styles, in seconds. | [🔗](https://architecturehelper.com) |
 | VocalReplica | AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks | [🔗](https://vocalreplica.com/) |
+| Woopicx | AI-powered image search engine with 100,000+ free icons, illustrations, and 3D assets | [🔗](https://woopicx.com/) |
 | Jamorphosia | AI-Powered Instrument remover and isolation | [🔗](https://www.jamorphosia.com/) |
 | Podcast Clip Maker | Automatically generate podcast clips from long-form video and audio | [🔗](https://recast.studio/tools/podcast-clip-maker) |
 | Black Headshots | AI headshots generator for black professionals | [🔗](https://www.blackheadshots.com) |
@@ -77,6 +78,8 @@ Curated list of top AI Tools.
 | Monet AI | Monet AI is a All-in-One AI Video, Image, Audio creation platform | [🔗](https://monet.vision/) |
 | TubePrompter | Convert any video into AI-ready prompts for Sora, Midjourney, Runway, and more | [🔗](https://tubeprompter.com/) |
 | Blipix PRO | Generate Viral faceless videos on Auto-Pilot. | [🔗](https://blipix.pro/)
+| Woopicx | AI-powered image search engine with 100,000+ free icons, illustrations, and 3D assets | [🔗](https://woopicx.com/) |
+| PixPark AI | Generate and edit images with AI—no login, free and unlimited. | [🔗](https://pixpark.ai)
 
 ## Conversational AI
 
@@ -90,6 +93,7 @@ Curated list of top AI Tools.
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
 | Replika | an AI companion | [🔗](https://replika.ai/)|
 | Breezy | Real-time AI voice chat with unique characters | [🔗](https://talkbreezy.com/)|
+| DoaCam | AI video companion with a 3D avatar that sees you through your camera, talks in real time, and remembers you | [🔗](https://doacam.com)|
 | AICamp | ChatGPT for Teams | [🔗](https://aicamp.so/)
 | Netwrck | AI Character Chat Social Network, saying "Appears" makes the AI make Art. | [🔗](https://netwrck.com/)|
 | Claude | Talk to Claude, an AI assistant from Anthropic. | [🔗](https://claude.ai/)|
@@ -168,6 +172,7 @@ Curated list of top AI Tools.
 | TaxTools AI | AI Tax Tools | [🔗](https://taxtools.ai/cn) |
 
 ## Education
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
@@ -212,6 +217,7 @@ Curated list of top AI Tools.
 | InterSub | Language Learning with Dual Subtitles & AI Translation | [🔗](https://intersub.cc) |
 | NoteGPT | AI note-taking app that records, transcribes, and summarizes lectures | [🔗](https://notegpt.com/) |
 | Socratic App | AI homework helper that teaches students like a tutor | [🔗](https://socraticapp.com/) |
+| Lorea | The AI Study Game Generator | [🔗](https://www.lorea.app/) |
 
 
 ## Developer
@@ -278,6 +284,7 @@ Curated list of top AI Tools.
 | TestSprite | The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow. | [🔗](https://www.testsprite.com/) |
 | Omnara | Command Center for AI Coding Agents. | [🔗](https://www.omnara.com/) |
 | Xquik | X/Twitter data platform with AI agent integration — MCP server, REST API, 20 extraction tools. | [🔗](https://github.com/Xquik-dev/x-twitter-scraper) |
+| AI API Cost Calculator | Free tool to estimate and compare API token costs across 23 tools and 7 models .. | [🔗](https://aiagentsbuzz.com/tools/ai-cost-calculator/) |
 
 
 ## Gaming, 3D, Motion
@@ -366,6 +373,8 @@ Curated list of top AI Tools.
 | Bazzly | Get Customers From Reddit on Autopilot | [🔗](https://www.bazzly.ai/) |
 | Appark | Free app market analytics for growth and competition insights | [🔗](https://appark.ai/en) |
 | dnAI | Brand-first AI marketing platform | [🔗](https://humandnai.com/) |
+| Gro | AI Sales Agent for B2B Lead Generation | [🔗](https://thegro.ai/) |
+| RepuAI | AI visibility scoring and brand monitoring for AI search engines | [🔗](https://repuai.live/en) |
 | Reelify AI | Free & Unlimited AI video clipper to turn long videos into viral Shorts/Reels. | [🔗](https://reelifyclips.com/) |
 
 
@@ -456,6 +465,7 @@ Curated list of top AI Tools.
 | Tubetranscript | YouTube Transcript Generator | [🔗](https://www.tubetranscript.com/) |
 | SENTENCIFY | AI Free Paraphrasing Tool | [🔗](https://www.sentencify.ai/en/) |
 | HumanTone | Transform AI Text into Human, High-Performing Content | [🔗](https://humantone.io/) |
+| Product Manager Skills | AI agent skill that turns Claude Code into an opinionated PM brain — 6 knowledge domains, 12 templates, 30+ frameworks, 32 SaaS metrics | [🔗](https://github.com/Digidai/product-manager-skills) |
 | LocalChat.app | Local-first MacOS AI application - 100% Private, Works Fully Offline | [🔗](https://www.localchat.app/) |
 
 ## Search Engines & Tools
@@ -487,6 +497,7 @@ Curated list of top AI Tools.
 | Phind | An AI search engine, using multi-step reasoning to find the answer & generative UI to present it in a beautiful and interactive way.| [🔗](https://www.phind.com/)|
 | DeepResearch-Agent | An OpenAI-like DeepResearch agent that plans and thinks, equipped with a beautiful frontend (UI). | [🔗](https://github.com/Parveshiiii/Deepresearch-Agent) |
 |AI Conference Deadline | AI/ML conference deadline tracker| [🔗](https://www.aiconferenceddl.com/)|
+| CiteMe | AI-powered academic citation generator. Searches 11+ databases and formats references in 40+ citation styles. | [🔗](https://citeme.app)|
 
 ## Geospatial
 
@@ -582,6 +593,7 @@ Curated list of top AI Tools.
 | MyPicNow | Turn selfies into studio-quality headshots with AI. |[🔗](https://www.mypicnow.com/)|
 | How Old Do I Look | How Old Do I Look? Free AI Face Age Detector Online |[🔗](https://howolddoyoulook.app/)|
 | AI Caricature Generator | Free Online Caricature Generator|[🔗](https://banana-ai.art/caricature-trend/)|
+| mealideas | AI-powered meal decisions that learn your taste. |[🔗](https://mealideas.ai/)|
 | Seedance 2.0 AI Video Generator | AI Video Generator|[🔗](https://seedance2.video/)|
 
 ## Contributors 😍
