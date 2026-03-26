@@ -595,6 +595,7 @@ Curated list of top AI Tools.
 | AI Caricature Generator | Free Online Caricature Generator|[🔗](https://banana-ai.art/caricature-trend/)|
 | mealideas | AI-powered meal decisions that learn your taste. |[🔗](https://mealideas.ai/)|
 | Seedance 2.0 AI Video Generator | AI Video Generator|[🔗](https://seedance2.video/)|
+| ERP Pilot | Independent ERP Comparison Tool. |[🔗](https://www.erp-pilot.com/)|
 
 ## Contributors 😍
 
