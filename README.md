@@ -521,6 +521,7 @@ Curated list of top AI Tools.
 | Beheard Labs | AI-Powered Customer Insight Platform | [🔗](https://www.gobeheard.com/) |
 | Rosie | AI Phone Answering Service | [🔗](https://heyrosie.com/) |
 | Vidocu | Turn screen recordings into professional videos and documentation | [🔗](https://vidocu.ai/) |
+| AnveVoice | AI voice agent for websites — trains on your content, navigates pages, fills forms, books appointments in 50+ languages with <700ms latency | [🔗](https://anvevoice.app) |
 
 ## Phone Calls
 
