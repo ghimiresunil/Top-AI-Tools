@@ -467,6 +467,7 @@ Curated list of top AI Tools.
 | HumanTone | Transform AI Text into Human, High-Performing Content | [🔗](https://humantone.io/) |
 | Product Manager Skills | AI agent skill that turns Claude Code into an opinionated PM brain — 6 knowledge domains, 12 templates, 30+ frameworks, 32 SaaS metrics | [🔗](https://github.com/Digidai/product-manager-skills) |
 | LocalChat.app | Local-first MacOS AI application - 100% Private, Works Fully Offline | [🔗](https://www.localchat.app/) |
+| Ration | AI-Powered Pantry & Meal Planning Platforms | [🔗](https://ration.mayutic.com/) |
 
 ## Search Engines & Tools
 
