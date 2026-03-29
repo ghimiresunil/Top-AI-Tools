@@ -66,6 +66,7 @@ Curated list of top AI Tools.
 | Nano Banana AI | Edit, restyle, transform, and recreate images with text prompt. | [🔗](https://banana-ai.org)
 | EchoWave | Online video editor | [🔗](https://echowave.io/)
 | Storyshort AI | Create viral faceless videos on Auto-Pilot. | [🔗](https://storyshort.ai/)
+| FacelessVideos.app | Turn text prompts into viral faceless videos for YouTube Shorts, TikTok, and Reels. | [🔗](https://facelessvideos.app/) |
 | PDFtoVideo | Convert PDF & Any Contents to Video Online Free | [🔗](https://pdftovideo.ai/)
 | OpenCreator | All-in-one AI workspace for creating product visuals with workflow automation | [🔗](https://opencreator.ai/)
 | Somny | AI character generator for creating personalized images and videos from your own likeness. | [🔗](https://www.somny.com/)
@@ -119,6 +120,8 @@ Curated list of top AI Tools.
 | Unblurimage AI | A free online tool to unblur images swiftly | [🔗](https://unblurimage.ai)|
 | ImgUpscaler AI | Free image & video upscaler | [🔗](https://imgupscaler.ai/)|
 | FLUX AI ART | AI Image Generator | [🔗](https://fluxaiart.ai/)|
+| ImagesArt.ai | Generate, edit, and enhance images with AI-powered creative tools. | [🔗](https://imagesart.ai/)|
+| Flux2Klein | Generate images in real time with the FLUX.2 Klein model. | [🔗](https://flux2klein.io/)|
 | Velocity | On-demand feedback for Figma prototypes | [🔗](https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min)|
 | Venngage AI Infographic Generator | AI-powered visuals that turn your ideas into infographics, instantly. | [🔗](https://venngage.com/ai-tools/infographic-generator)|
 | DreamLADU | AI image generator for accessory dwelling units (ADUs) | [🔗](https://www.dreamladu.com)|
@@ -255,6 +258,7 @@ Curated list of top AI Tools.
 | OppyDev | Agentic AI coding assistant built with a focus on ease of use, transparency, customization and data control | [🔗](https://oppydev.ai/) |
 | Fine | End-to-end AI coding assistant with full context awareness and no need for API keys. Plan, design, code, test, deploy, maintain. | [🔗](https://fine.dev/?ref=ognaa_github)
 | Hexabot | Open-source conversational AI builder that supports multiple channels and languages | [🔗](https://hexabot.ai/)|
+| 1ClickClaw | One-click managed hosting for OpenClaw AI agents on Telegram, Discord, and WhatsApp. | [🔗](https://1clickclaw.app/)|
 | Lisapet.ai | AI Prompt Testing Platform | [🔗](https://www.lisapet.ai/)|
 | Kiln | Intuitive app to build your own AI models. Includes synthetic data generation, fine-tuning, dataset collaboration, and more. | [🔗](https://getkiln.ai/)|
 | Srcbook | The best AI website builder | [🔗](https://srcbook.com/)|
@@ -459,6 +463,7 @@ Curated list of top AI Tools.
 | Fantastic Portfolios | An AI-powered portfolio website builder within 30 seconds. | [🔗](https://fantasticportfolios.com/) |
 | Video Transcriber | Transcribe Video to Text Online Free | [🔗](https://videotranscriber.ai/) |
 | Audio Converter | Convert Audio to Text Online Free | [🔗](https://audioconverter.ai/) |
+| TikTok Transcript | Extract TikTok subtitles and download transcripts in SRT or TXT. | [🔗](https://tiktoktranscript.org/) |
 | My Passion AI | AI-powered quiz to find your passion career path | [🔗](https://mypassion.ai) |
 | Worklytics | Analytics on AI and Productivity | [🔗](https://www.worklytics.co/) |
 | Voibe | Fast, private, on device AI voice dictation app for Mac | [🔗](https://www.getvoibe.com) |
