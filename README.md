@@ -237,6 +237,7 @@ Curated list of top AI Tools.
 | GoCodeo | GoCodeo is an AI agent for building full-stack apps in minutes | [🔗](https://www.gocodeo.com/)|
 | Keywords AI | The enterprise-grade software to build, monitor, and improve your AI application. We are a full-stack LLM engineering platform for developers and PMs. | [🔗](https://keywordsai.co)|
 | Helicone AI | Open-source LLM observability platform for logging, monitoring, and debugging AI applications.| [🔗](https://github.com/Helicone/helicone)|
+| Hive | Open-source AI agent framework for building goal-driven, self-improving autonomous agents | [🔗](https://github.com/aden-hive/hive)|
 | Keploy | Open source Tool for converting user-traffic to Test Cases and Data Stubs | [🔗](https://keploy.io)|
 | Liner.ai | Creates classification models from your data | [🔗](https://liner.ai/)|
 | Phind | LLM-powered search engine for developers and technical questions | [🔗](https://phind.com/)|
