@@ -190,6 +190,7 @@ Curated list of top AI Tools.
 | SopCreator | Create your Statement of Purpose with AI | [🔗](https://www.sopcreator.com) |
 | MathSolver | Use AI to solve math problems and study | [🔗](https://www.mathsolver.top/) |
 | ResumeDive | A resume boosting service using AI | [🔗](https://resumedive.com) |
+| TailorMyJob | AI-powered resume analysis platform using Claude 4.6 for ATS scoring, keyword optimization, and personalized suggestions | [🔗](https://tailormyjob.com) |
 | Exam Samurai | AI Exam Generator | [🔗](https://www.examsamur.ai/) |
 | iColoring | Free AI Coloring Pages Generator | [🔗](https://icoloring.ai) |
 | Remusic | AI Music Generator and Music Learning Platform Online Free | [🔗](https://remusic.ai/en) |
