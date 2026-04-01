@@ -604,6 +604,7 @@ Curated list of top AI Tools.
 | AI Caricature Generator | Free Online Caricature Generator|[🔗](https://banana-ai.art/caricature-trend/)|
 | mealideas | AI-powered meal decisions that learn your taste. |[🔗](https://mealideas.ai/)|
 | Seedance 2.0 AI Video Generator | AI Video Generator|[🔗](https://seedance2.video/)|
+| Forte AI | The fastest way to automate audio workflows |[🔗](https://www.forte-ai.com/)|
 
 ## Contributors 😍
 
