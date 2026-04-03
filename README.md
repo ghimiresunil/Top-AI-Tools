@@ -247,6 +247,7 @@ Curated list of top AI Tools.
 | Dystr | AI powered analysis / cloud runtime | [🔗](https://dystr.com)|
 | GitPoet | Git commit message generator (based on your changes) with a VSCode extension | [🔗](https://www.gitpoet.dev/)|
 |AskCommand|Generate Unix commands from text automatically|[🔗](https://www.askcommand.cppexpert.online/)|
+| Shire | Open-source persistent workspaces for AI agent teams with inter-agent mailboxes, shared drive, and context preservation. Supports Claude Code, OpenCode, Pi Agent and more. | [🔗](https://github.com/victor36max/shire)|
 | Shotstack Workflows | No-code, automation workflow tool for building Generative AI media applications |[🔗](https://shotstack.io/product/workflows/)|
 | text-generator.io AI Text Generator | Open Source Vision language models and web crawlers to understand any links in prompts given. API for developers and special support for AI autocomplete. | [🔗](https://text-generator.io) |
 | Code to Flow | Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly. | [🔗](https://codetoflow.com) |
