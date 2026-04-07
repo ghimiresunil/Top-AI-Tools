@@ -18,6 +18,7 @@ Curated list of top AI Tools.
 
 ## Art & Creativity
 
+| [NanoBanana2](https://nanobanana2.com) | Free AI image generator with trend-aware templates, multiple AI models, and advanced editing tools | Free + Premium |
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 |AI Baby Dance|Turn photos into dancing videos|[🔗](https://aibabydance.com)|
