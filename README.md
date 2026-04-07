@@ -82,6 +82,8 @@ Curated list of top AI Tools.
 | Blipix PRO | Generate Viral faceless videos on Auto-Pilot. | [🔗](https://blipix.pro/)
 | Woopicx | AI-powered image search engine with 100,000+ free icons, illustrations, and 3D assets | [🔗](https://woopicx.com/) |
 | PixPark AI | Generate and edit images with AI—no login, free and unlimited. | [🔗](https://pixpark.ai)
+| CDance AI | AI-powered dance video generation tool with multiple styles and motion capture  Free + Premium | | [🔗](https://cdance.net)
+
 
 ## Conversational AI
 
