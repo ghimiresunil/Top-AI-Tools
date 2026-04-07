@@ -177,6 +177,7 @@ Curated list of top AI Tools.
 
 ## Education
 - [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
+- [OpenClaw (即答侠)](https://interviewasssistant.com) - Real-time AI interview copilot with 700ms response time. Provides STAR-format answer frameworks during live video interviews. Features an invisible floating window undetectable by screen sharing. Supports Zoom, Teams, Google Meet, and Chinese platforms.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
