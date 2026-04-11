@@ -225,7 +225,7 @@ Curated list of top AI Tools.
 | Lorea | The AI Study Game Generator | [🔗](https://www.lorea.app/) |
 | Fluenly | AI Language Learning App with Goal Driven Speaking Scenarios | [🔗](https://fluenly.ai/) |
 | MMIPractice.org | Free practice questions and AI coaching for MMI prep | [🔗](https://www.mmipractice.org/) |
-
+| Read PDF Aloud | Let AI Read Your PDF Aloud with Natural Voice | [🔗](https://readpdfaloud.com/) |
 
 ## Developer
 
@@ -480,6 +480,7 @@ Curated list of top AI Tools.
 | Product Manager Skills | AI agent skill that turns Claude Code into an opinionated PM brain — 6 knowledge domains, 12 templates, 30+ frameworks, 32 SaaS metrics | [🔗](https://github.com/Digidai/product-manager-skills) |
 | LocalChat.app | Local-first MacOS AI application - 100% Private, Works Fully Offline | [🔗](https://www.localchat.app/) |
 | Consul | Executive Assistant That Runs Your Calendar, Inbox & Scheduling | [🔗](https://consul.so/) |
+| Video to Text | Turn any video or audio into clean text in minutes | [🔗](https://video2text.net/) |
 
 ## Search Engines & Tools
 
