@@ -103,6 +103,7 @@ Curated list of top AI Tools.
 | Pleasuredomes | AI Image and chatbot | [🔗](http://pleasuredomes.ai/) |
 | ChatSweetie | Free AI Girlfriend Chat | [🔗](https://chatsweetie.ai/) |
 | Venice | Private and uncensored conversational AI | [🔗](https://venice.ai/) |
+| Typer | Free local AI chat for Mac — runs on-device, no account, no cloud, no ads | [🔗](https://typer.space)|
 
 ## Design
 
