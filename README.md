@@ -431,6 +431,7 @@ Curated list of top AI Tools.
 | Klarity | Turn your voice notes into blog posts, podcast scripts, and tweets instantly with AI | [🔗](https://klarity.pro/) |
 | VideoFaceSwap | Free Online Face Swapping Tool | [🔗](https://videofaceswap.io/) |
 | Scribbl | AI Meeting Notes | [🔗](https://www.scribbl.co) |
+| Convo | AI meeting copilot that gives you real-time suggestions, talking points, and answers during live calls | [🔗](https://www.itsconvo.com) |
 | Voice Command | VOICE COMMANDS and VOICE TYPING anywhere on the web | [🔗](https://myextension.store/voice-command/) |
 | YobiYoba | Yobiyoba offers advanced speech-to-text services and an API for automatic transcription, real-time audio processing, audio-text alignment, and lexicon enhancement, complemented by a powerful and intuitive editor for seamless transcription refinement. | [🔗](https://www.yobiyoba.com/en/)
 | Bricks | The AI Spreadsheet We've All Been Waiting For | [🔗](https://www.thebricks.com/) |
