@@ -53,6 +53,7 @@ Curated list of top AI Tools.
 | Podcast Clip Maker | Automatically generate podcast clips from long-form video and audio | [🔗](https://recast.studio/tools/podcast-clip-maker) |
 | Black Headshots | AI headshots generator for black professionals | [🔗](https://www.blackheadshots.com) |
 | AISaver | Collection of AI Powered Video and Photo Tools | [🔗](https://aisaver.io) |
+| ArtImageHub | AI photo restorer, colorizer, and enhancer — upload free, pay only to download | [🔗](https://www.artimagehub.com/) |
 | AI Watermark Remover | Remove watermarks from images and videos | [🔗](https://aiwatermarkremover.io/) |
 | Pixvify AI | Free realistic AI photo generator platform | [🔗](https://pixvify.com/) |
 | Pawtrait | AI Pet Portraits | [🔗](https://www.pawtrait.art/)
