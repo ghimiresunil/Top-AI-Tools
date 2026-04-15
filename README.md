@@ -22,6 +22,7 @@ Curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 |AI Baby Dance|Turn photos into dancing videos|[🔗](https://aibabydance.com)|
+|Saveto AI|100% Free all-in-one AI Transcription & Summarization online |[🔗](https://saveto.ai/)|
 | Face Swap Video AI | Free Online AI Face Swap for Video & Photo. | [🔗](https://faceswapvideo.io/)|
 | AIImageTranslator | Free Online AI Image Translator Tool. | [🔗](https://aiimagetranslator.io/)|
 | FaceAI | Free Online AI Face Swap (No Sign Up) | [🔗](https://faceai.art/)|
