@@ -498,6 +498,7 @@ Curated list of top AI Tools.
 | muse.ai | video content search and conversational assistant | [🔗](https://muse.ai/) |
 | Refinder AI | AI-powered universal search and assistant for work| [🔗](https://refinder.ai/)|
 | Hika AI| AI search for deeper thinking, not just find answers | [🔗](https://www.hika.fyi)|
+| Not Human Search | Search engine for AI agents, indexing 1,100+ tools by agentic readiness | [🔗](https://nothumansearch.ai)|
 
 ## Research Tools
 
@@ -515,6 +516,7 @@ Curated list of top AI Tools.
 | DeepResearch-Agent | An OpenAI-like DeepResearch agent that plans and thinks, equipped with a beautiful frontend (UI). | [🔗](https://github.com/Parveshiiii/Deepresearch-Agent) |
 |AI Conference Deadline | AI/ML conference deadline tracker| [🔗](https://www.aiconferenceddl.com/)|
 | CiteMe | AI-powered academic citation generator. Searches 11+ databases and formats references in 40+ citation styles. | [🔗](https://citeme.app)|
+| 8bit Concepts | Free AI research papers on enterprise AI adoption and governance | [🔗](https://8bitconcepts.com)|
 
 ## Geospatial
 
@@ -553,6 +555,7 @@ Curated list of top AI Tools.
 | Resume Screener AI| a cutting-edge resume screening tool tailored for small business owners, startup HR teams, and independent headhunters. Powered by advanced AI technology, it offers an efficient and accurate solution for batch resume screening, significantly reducing the workload for recruiters and founders. | [🔗](https://resume-screening.com/) |
 | Candor | AI-Powered 360-Degree Feedback | [🔗](https://www.candor.so/) |
 | SimplePerf | A simple, guided 360° performance review tool made for small teams | [🔗](https://buddieshr.com/simpleperf) |
+| AI Dev Jobs | AI/ML job board with public REST API for programmatic job search | [🔗](https://aidevboard.com)|
 
 ## Others
 
