@@ -155,6 +155,7 @@ Curated list of top AI Tools.
 | AI Facebook Ad Generator | Create tailored Facebook ads with AI in seconds | [🔗](https://venngage.com/ai-tools/facebook-ad-generator)|
 | AI Proposal Generator | Build clear, professional proposals with AI. | [🔗](https://venngage.com/ai-tools/proposal-generator)|
 | AI Book Cover Generator | Design eye-catching book covers with AI. | [🔗](https://venngage.com/ai-tools/book-cover-generator)|
+| PartyInvitation.ai | Free AI party invitation card generator with online RSVP tracking for 38+ event types | [🔗](https://partyinvitation.ai/)|
 
 ## E-commerce
 
