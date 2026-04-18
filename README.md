@@ -66,6 +66,7 @@ Curated list of top AI Tools.
 | X Headshot | Professional AI Headshot Generator | [🔗](https://xheadshot.com) |
 | Rytr | Automating the design process | [🔗](https://rytr.me/)|
 | Nano Banana AI | Edit, restyle, transform, and recreate images with text prompt. | [🔗](https://banana-ai.org)
+| Nano Banana Free | AI image and video editing workspace with multiple AI tools for retouching, generation, and background cleanup. | [🔗](https://nanobananafree.org) |
 | EchoWave | Online video editor | [🔗](https://echowave.io/)
 | Storyshort AI | Create viral faceless videos on Auto-Pilot. | [🔗](https://storyshort.ai/)
 | FacelessVideos.app | Turn text prompts into viral faceless videos for YouTube Shorts, TikTok, and Reels. | [🔗](https://facelessvideos.app/) |
