@@ -485,6 +485,7 @@ Curated list of top AI Tools.
 | LocalChat.app | Local-first MacOS AI application - 100% Private, Works Fully Offline | [🔗](https://www.localchat.app/) |
 | Ration | AI-Powered Pantry & Meal Planning Platforms | [🔗](https://ration.mayutic.com/) |
 | Consul | Executive Assistant That Runs Your Calendar, Inbox & Scheduling | [🔗](https://consul.so/) |
+| MindMap AI |  AI tool to turn text, PDFs, videos, audio, images, and research into structured mind maps with summarization and idea expansion | [🔗](https://mindmapai.app/text-summarizer) |
 
 ## Search Engines & Tools
 
