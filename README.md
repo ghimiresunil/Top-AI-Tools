@@ -418,6 +418,7 @@ Curated list of top AI Tools.
 | aiPDF | The most advanced AI document assistant | [🔗](https://aipdf.ai) |
 | Myriad | Build and fine-tune AI content prompts for writing anything, from long-form posts to ads and emails, by mixing and matching rules. | [🔗](https://www.namepepper.com/free-tools/ai-content-prompt-tool) |
 | Emilio | Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time | [🔗](https://getemil.io?ref=ghimiresunil-top-ai-tools) |
+| MealIdeas.ai | AI meal decision assistant that solves "what to eat" fatigue with emotion-first recommendations. [App Store](https://apps.apple.com/us/app/mealideas-ai/id6760163980) | [🔗](https://mealideas.ai) |
 | Chatpdf.so | Chatpdf.so is an AI based chat tool designed to chat with PDF. | [🔗](https://chatpdf.so) |
 | ReportGPT | Elevate your document writing by harnessing the power of AI and experience the seamless creation of documents. | [🔗](https://report-gpt.io) |
 | Recurrr | Send recurring emails | [🔗](https://recurrr.com) |
