@@ -84,6 +84,7 @@ Curated list of top AI Tools.
 | Blipix PRO | Generate Viral faceless videos on Auto-Pilot. | [🔗](https://blipix.pro/)
 | Woopicx | AI-powered image search engine with 100,000+ free icons, illustrations, and 3D assets | [🔗](https://woopicx.com/) |
 | PixPark AI | Generate and edit images with AI—no login, free and unlimited. | [🔗](https://pixpark.ai)
+| Melies | AI filmmaking CLI and API for generating videos, posters, and storyboards from your terminal | [🔗](https://melies.co/agent)
 | PolyGlyph | AI-powered SVG generation and editing tool. Generate vector graphics from text prompts and edit in a browser-based vector editor. | [🔗](https://polyglyph.io/)
 
 ## Conversational AI
@@ -299,6 +300,7 @@ Curated list of top AI Tools.
 | SpeedUp AI | End-to-End AI Circuit Schematic Design | [🔗](https://speed-up.ai/) |
 | Xquik | X/Twitter data platform with AI agent integration — MCP server, REST API, 20 extraction tools. | [🔗](https://github.com/Xquik-dev/x-twitter-scraper) |
 | AI API Cost Calculator | Free tool to estimate and compare API token costs across 23 tools and 7 models .. | [🔗](https://aiagentsbuzz.com/tools/ai-cost-calculator/) |
+| agentskill.sh | Searchable directory of 100,000+ skills for AI coding agents (Claude Code, Cursor, Copilot) | [🔗](https://agentskill.sh)|
 
 
 ## Gaming, 3D, Motion
@@ -483,6 +485,7 @@ Curated list of top AI Tools.
 | HumanTone | Transform AI Text into Human, High-Performing Content | [🔗](https://humantone.io/) |
 | Product Manager Skills | AI agent skill that turns Claude Code into an opinionated PM brain — 6 knowledge domains, 12 templates, 30+ frameworks, 32 SaaS metrics | [🔗](https://github.com/Digidai/product-manager-skills) |
 | LocalChat.app | Local-first MacOS AI application - 100% Private, Works Fully Offline | [🔗](https://www.localchat.app/) |
+| Humanizer AI | Make AI-generated text undetectable and human-sounding | [🔗](https://humanizerai.com)|
 | Ration | AI-Powered Pantry & Meal Planning Platforms | [🔗](https://ration.mayutic.com/) |
 | Consul | Executive Assistant That Runs Your Calendar, Inbox & Scheduling | [🔗](https://consul.so/) |
 
