@@ -75,6 +75,7 @@ Curated list of top AI Tools.
 | MaxVideoAI | Multi-engine AI video generation hub (Sora, Veo, Pika, Kling, LTX & more) with pay-as-you-go credits. | [🔗](https://maxvideoai.com) |
 | PVID | Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 with 100 free credits | [🔗](http://pvid.app/) |
 | nearerai | AI Photo Restoration: Revive Your Cherished Memories. | [🔗](https://nearerai.com/) |
+| ArtImageHub | AI-powered old photo restoration using CodeFormer + GFPGAN + Real-ESRGAN; repairs scratches, fading, and blurry faces on old family photos. | [🔗](https://artimagehub.com/old-photo-restoration) |
 | AI Color Analysis | Trusted AI color analysis, finished in minutes | [🔗](https://aicoloranalysis.ai/) |
 | Math AI | Get instant math AI help for any mathematics problem | [🔗](https://mathaisolver.ai/) |
 | Kirkify AI | Upload a image and turn it into viral Kirkify memes in seconds | [🔗](https://kirkifyai.ai/) |
