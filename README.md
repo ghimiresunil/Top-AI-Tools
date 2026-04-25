@@ -86,6 +86,7 @@ Curated list of top AI Tools.
 | PixPark AI | Generate and edit images with AI—no login, free and unlimited. | [🔗](https://pixpark.ai)
 | Melies | AI filmmaking CLI and API for generating videos, posters, and storyboards from your terminal | [🔗](https://melies.co/agent)
 | PolyGlyph | AI-powered SVG generation and editing tool. Generate vector graphics from text prompts and edit in a browser-based vector editor. | [🔗](https://polyglyph.io/)
+| JustDance | AI Dance Video Generator - Make Anything Dance. | [🔗](https://justdance.cc/)
 
 ## Conversational AI
 
