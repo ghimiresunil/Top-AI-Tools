@@ -394,6 +394,7 @@ Curated list of top AI Tools.
 | Gro | AI Sales Agent for B2B Lead Generation | [🔗](https://thegro.ai/) |
 | RepuAI | AI visibility scoring and brand monitoring for AI search engines | [🔗](https://repuai.live/en) |
 | Reelify AI | Free & Unlimited AI video clipper to turn long videos into viral Shorts/Reels. | [🔗](https://reelifyclips.com/) |
+| GEOScore AI | Free AI search visibility scanner. Checks 9 GEO signals across 11 AI platforms and provides actionable fixes. | [🔗](https://geoscoreai.com) |
 
 
 ## Productivity
