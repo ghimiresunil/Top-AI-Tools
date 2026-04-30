@@ -263,6 +263,7 @@ Curated list of top AI Tools.
 | Code to Flow | Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly. | [🔗](https://codetoflow.com) |
 | SinglebaseCloud | AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development. | [🔗](https://singlebase.cloud) |
 | Interview Solver | Ace your live coding interviews with our AI Copilot | [🔗](https://interviewsolver.com) |
+| grugbot420 | Neuromorphic cognitive engine in Julia for multi-model AI orchestration. Deploys domain-expert AI specimens through architectural configuration. | [🔗](https://github.com/grug-group420/grugbot420) |
 | Floom | AI gateway and marketplace for developers, enables streamlined integration of AI features into products | [🔗](https://floom.ai) |
 | StartKit.AI | Boilerplate for quickly building AI products | [🔗](https://startkit.ai) |
 | Context Data | Data Processing & ETL infrastructure for Generative AI applications | [🔗](https://contextdata.ai/) |
