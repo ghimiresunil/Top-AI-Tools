@@ -217,6 +217,7 @@ Curated list of top AI Tools.
 | Mathos AI | The best AI math solver, calculator and tutor | [🔗](https://www.mathgptpro.com/) |
 | ExamGPT | AI Assessment Platform | [🔗](https://excelas.ai/) |
 | PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
+| BeatMusic | AI music generator with voice cloning, create original songs with custom vocals from text prompts | [🔗](https://airmusic.ai) |
 | MuzicGenerator | AI music generator for creating and sharing unique songs online | [🔗](https://muzicgenerator.com) |
 | Studyaura.app | Turn PDFs into Viral Study Material |  [🔗](https://www.studyaura.app) |
 | NoteGPT | Your All-in-One AI Learning Assistant | [🔗](https://notegpt.io/) |
@@ -225,7 +226,7 @@ Curated list of top AI Tools.
 | AI Detector | Detect AI text Online Free | [🔗](https://aidetector.cc/) |
 | MyDetector | Free AI Detector and Humanizer | [🔗](https://mydetector.com) |
 | AIImagetoText | Free AI Image to Text,ConverterFast & Highly Accurate | [🔗](https://aiimagetotext.com/) |
-| AIPlagiarismChecker | Plagiarism Checker ensures fast, accurate, and original content verification. | [🔗](https://aiplagiarismchecker.io/) |
+| AIPlagiarismChecker | Plagiarism Checker ensures fast, accurate, and original content verification. | [🔗](https://aiplagiarismchecker.io/) | BeatMV | AI music video generator that turns any song into a stunning visual video in one click | [🔗](https://beatmv.ai) |
 | AIGrammarChecker | Free AI Grammar Checker, Instant Grammar & Spelling Check | [🔗](https://aigrammarchecker.io/) |
 | InterSub | Language Learning with Dual Subtitles & AI Translation | [🔗](https://intersub.cc) |
 | NoteGPT | AI note-taking app that records, transcribes, and summarizes lectures | [🔗](https://notegpt.com/) |
