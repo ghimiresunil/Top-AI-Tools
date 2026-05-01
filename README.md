@@ -171,6 +171,7 @@ Curated list of top AI Tools.
 | Zolltarifnummer.com | Find and verify the right 11-digit German customs tariff number | [🔗](https://www.zolltarifnummer.com/)|
 | Shopme Agent | A next-gen shopping assistant that helps you find, compare, and buy products across Chinese and global platforms, including factory-direct sources, all in one place. | [🔗](https://shopmeagent.com/)|
 | Picoko | Create studio-quality product images in seconds,Instantly generate model shots, lifestyle scenes & more  | [🔗](https://www.picoko.com/) |
+| ECFotos | AI photo editor for e-commerce product images, listing visuals, background removal, upscaling, collage making, and image editing workflows | [🔗](https://ecfotos.com/) |
 
 ## Finance
 
