@@ -111,6 +111,7 @@ Curated list of top AI Tools.
 | ChatSweetie | Free AI Girlfriend Chat | [🔗](https://chatsweetie.ai/) |
 | Venice | Private and uncensored conversational AI | [🔗](https://venice.ai/) |
 | Typer | Free local AI chat for Mac — runs on-device, no account, no cloud, no ads | [🔗](https://typer.space)|
+| Kissable | AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages | [🔗](https://kissable.app)|
 
 ## Design
 
