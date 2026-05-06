@@ -235,7 +235,7 @@ Curated list of top AI Tools.
 | Lorea | The AI Study Game Generator | [🔗](https://www.lorea.app/) |
 | Fluenly | AI Language Learning App with Goal Driven Speaking Scenarios | [🔗](https://fluenly.ai/) |
 | MMIPractice.org | Free practice questions and AI coaching for MMI prep | [🔗](https://www.mmipractice.org/) |
-
+| Read PDF Aloud | Let AI Read Your PDF Aloud with Natural Voice | [🔗](https://readpdfaloud.com/) |
 
 ## Developer
 
@@ -497,6 +497,7 @@ Curated list of top AI Tools.
 | Humanizer AI | Make AI-generated text undetectable and human-sounding | [🔗](https://humanizerai.com)|
 | Ration | AI-Powered Pantry & Meal Planning Platforms | [🔗](https://ration.mayutic.com/) |
 | Consul | Executive Assistant That Runs Your Calendar, Inbox & Scheduling | [🔗](https://consul.so/) |
+| Video to Text | Turn any video or audio into clean text in minutes | [🔗](https://video2text.net/) |
 
 ## Search Engines & Tools
 
