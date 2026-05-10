@@ -403,6 +403,7 @@ Curated list of top AI Tools.
 | RepuAI | AI visibility scoring and brand monitoring for AI search engines | [🔗](https://repuai.live/en) |
 | Reelify AI | Free & Unlimited AI video clipper to turn long videos into viral Shorts/Reels. | [🔗](https://reelifyclips.com/) |
 | GEOScore AI | Free AI search visibility scanner. Checks 9 GEO signals across 11 AI platforms and provides actionable fixes. | [🔗](https://geoscoreai.com) |
+| NotFair | Google Ads MCP server connecting Claude and AI agents to your Google Ads account. Diagnose performance, recommend optimizations, and execute approved campaign changes. | [🔗](https://notfair.co) |
 
 
 ## Productivity
