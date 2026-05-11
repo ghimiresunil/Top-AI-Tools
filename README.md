@@ -93,6 +93,7 @@ Curated list of top AI Tools.
 
 | Melies | AI filmmaking CLI and API for generating videos, posters, and storyboards from your terminal | [🔗](https://melies.co/agent)
 | PolyGlyph | AI-powered SVG generation and editing tool. Generate vector graphics from text prompts and edit in a browser-based vector editor. | [🔗](https://polyglyph.io/)
+| Musiv | AI music video generation from audio tracks | [🔗](https://musiv.ai/) |
 
 ## Conversational AI
 
