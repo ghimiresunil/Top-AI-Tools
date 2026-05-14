@@ -505,6 +505,7 @@ Curated list of top AI Tools.
 | Humanizer AI | Make AI-generated text undetectable and human-sounding | [🔗](https://humanizerai.com)|
 | Ration | AI-Powered Pantry & Meal Planning Platforms | [🔗](https://ration.mayutic.com/) |
 | Consul | Executive Assistant That Runs Your Calendar, Inbox & Scheduling | [🔗](https://consul.so/) |
+| Podtastic | Podtastic is a podcast player powered by Pod-telligence | [🔗](https://podtastic.app/) |
 | Video to Text | Turn any video or audio into clean text in minutes | [🔗](https://video2text.net/) |
 
 ## Search Engines & Tools
