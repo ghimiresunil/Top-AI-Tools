@@ -643,6 +643,7 @@ Curated list of top AI Tools.
 | Forte AI | The fastest way to automate audio workflows |[🔗](https://www.forte-ai.com/)|
 | ERP Pilot | Independent ERP Comparison Tool. |[🔗](https://www.erp-pilot.com/)|
 | AI Meme Generator | aimemegenerator |[🔗](https://aimemegenerator.io/)|
+| CitizenCY | Cypriot Citizenship & Residency, made simple. |[🔗](https://societates-civis.com/citizency)|
 
 ## Contributors 😍
 
