@@ -332,6 +332,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| Autorank | AI SEO Tool | [🔗](https://www.getautorank.ai)|
 | ChampSignal.com | Competitor Monitoring That Doesn't Suck | [🔗](https://champsignal.com)|
 | Choppity.com | Instantly turn long podcast videos into short TikToks | [🔗](https://www.choppity.com/)|
 | copy.ai | AI content generator | [🔗](https://www.copy.ai/)|
