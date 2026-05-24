@@ -643,6 +643,7 @@ Curated list of top AI Tools.
 | AI Caricature Generator | Free Online Caricature Generator|[🔗](https://banana-ai.art/caricature-trend/)|
 | mealideas | AI-powered meal decisions that learn your taste. |[🔗](https://mealideas.ai/)|
 | Seedance 2.0 AI Video Generator | AI Video Generator|[🔗](https://seedance2.video/)|
+| DishRoll | AI-powered weekly meal planner that generates personalised 7-day menus based on cuisine preferences, dietary needs, and budget, with smart shopping list export to Alexa. | [🔗](https://dishroll.netlify.app/) |
 | AI Manga Generator | Free AI Manga Generator Online|[🔗](https://aimangatranslator.io/)|
 | Forte AI | The fastest way to automate audio workflows |[🔗](https://www.forte-ai.com/)|
 | ERP Pilot | Independent ERP Comparison Tool. |[🔗](https://www.erp-pilot.com/)|
