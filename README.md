@@ -45,6 +45,7 @@ Curated list of top AI Tools.
 | IRIS Clarity Studio | AI powered online tool for voice isolation/noise cancellation | [🔗](https://studio.iris.audio/)
 | Human Generator | AI powered generator of people | [🔗](https://generated.photos/human-generator)
 | Let's Enhance | Image enhancer & upscaler without losing quality| [🔗](https://letsenhance.io/) |
+| PhotoRestore.ai | AI-powered old photo restoration — repairs scratches, fading, tears, and colorizes B&W photos | [🔗](https://photorestore.ai) |
 | The Multiverse AI | Turn your selfies into professional headshots| [🔗]((https://themultiverse.ai/)) |
 | StockPhotoAI.net | Great stock photos, made for you. | [🔗](https://www.stockphotoai.net/?ref=Top-AI-Tools) |
 | FairyTailAI | Personalized bedtime story generator | [🔗](https://fairytailai.com/) |
