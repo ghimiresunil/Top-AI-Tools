@@ -513,6 +513,7 @@ Curated list of top AI Tools.
 | Consul | Executive Assistant That Runs Your Calendar, Inbox & Scheduling | [🔗](https://consul.so/) |
 | Podtastic | Podtastic is a podcast player powered by Pod-telligence | [🔗](https://podtastic.app/) |
 | Video to Text | Turn any video or audio into clean text in minutes | [🔗](https://video2text.net/) |
+| FixRAgent | AI visual triage for property managers. Stop blind service calls | [🔗](https://fixragent.com/) |
 
 ## Search Engines & Tools
 
