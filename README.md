@@ -532,6 +532,7 @@ Curated list of top AI Tools.
 | muse.ai | video content search and conversational assistant | [🔗](https://muse.ai/) |
 | Refinder AI | AI-powered universal search and assistant for work| [🔗](https://refinder.ai/)|
 | Hika AI| AI search for deeper thinking, not just find answers | [🔗](https://www.hika.fyi)|
+| AI Hotlist | Chinese AI tools, models, agents, and AI news hotlist updated every 6 hours | [🔗](https://aihot.bt199.com/)|
 | Not Human Search | Search engine for AI agents, indexing 1,100+ tools by agentic readiness | [🔗](https://nothumansearch.ai)|
 
 ## Research Tools
