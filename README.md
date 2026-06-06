@@ -154,6 +154,7 @@ Curated list of top AI Tools.
 | AI Timeline Generator | Turn ideas into stunning timelines in seconds—powered by smart AI | [🔗](https://venngage.com/ai-tools/timeline-generator)|
 | AI Flyer Generator | Create professional flyers instantly with AI using simple text prompts. | [🔗](https://venngage.com/ai-tools/flyer-generator)|
 | RoomHaven | AI-powered room design and interior styling platform | [🔗](https://roomhaven.app)|
+| LandscapioAI | AI landscape design generator for garden photos, outdoor layouts, planting ideas, and cost estimates. | [🔗](https://www.landscapioai.com/) |
 | MyNextInk | The all-in-one tattoo platform | [🔗](https://www.mynextink.com)|
 | VDraw AI | Free online AI Carousel Post Generator for Social Media | [🔗](https://vdraw.ai/)|
 | Seede AI | Helps you create a poster in 1 min | [🔗](https://seede.ai/)|
