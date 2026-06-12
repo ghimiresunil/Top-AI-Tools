@@ -99,6 +99,7 @@ Curated list of top AI Tools.
 | JustDance | AI Dance Video Generator - Make Anything Dance. | [🔗](https://justdance.cc/)
 | AI Photo Editor | Free AI Photo Editor & Image Generator Online. Edit, Enhance & Create Stunning Photos with AI-Powered Tools.  | [🔗](https://aiphotoeditor.io/)
 | Musiv | AI music video generation from audio tracks | [🔗](https://musiv.ai/) |
+| Ez Img Editor | Free Online Image Editor & Batch Processor | [🔗](https://ezimgeditor.io/) |
 
 ## Conversational AI
 
@@ -121,6 +122,7 @@ Curated list of top AI Tools.
 | ChatSweetie | Free AI Girlfriend Chat | [🔗](https://chatsweetie.ai/) |
 | Venice | Private and uncensored conversational AI | [🔗](https://venice.ai/) |
 | Typer | Free local AI chat for Mac — runs on-device, no account, no cloud, no ads | [🔗](https://typer.space)|
+
 
 ## Design
 
