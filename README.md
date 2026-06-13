@@ -6,6 +6,7 @@ A comprehensive, community-curated directory that aims to catalog and showcase t
 
 ## Contributing
 
+- [WebCoreLab AI Audit](https://webcorelab.com) — 272-check AI-powered SEO audit + GEO/AEO (AI search visibility). Tracks brand citations in ChatGPT, Claude, Perplexity, Gemini.
 * Please **Open** a [**PR**](https://github.com/ghimiresunil/Top-AI-Tools/pulls) for list of top AI tools to be added.
 * Use the format below.
 
