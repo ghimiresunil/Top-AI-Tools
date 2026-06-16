@@ -35,6 +35,7 @@ Curated list of top AI Tools.
 | AI Magic Tools (by runway) | creativity tools to edit and generate content | [🔗](https://runwayml.com/ai-magic-tools/)|
 | AvatarAI | create photorealistic AI avatars | [🔗](https://avatarai.me/)|
 | ClipDrop| apps, plugins, and resources for creators, powered by AI | [🔗](https://clipdrop.co/)|
+| [Seedream AI Studio](https://seedream4.video/) | Multi-model AI image generation using ByteDance Seedream 5.0/4.5/4.0, with one-click image-to-video animation via Kling 2.1. Free tier available. | [🔗](https://seedream4.video/)|
 | DreamStudio | open-sourced image generation model to product realistic images | [🔗](https://stability.ai/)|
 | Lensa | AI-powered image editing app for avatars | [🔗](https://prisma-ai.com/lensa)|
 | Midjourney | AI-powered art generator | [🔗](https://www.midjourney.com/app/)|
