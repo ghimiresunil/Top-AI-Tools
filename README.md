@@ -663,6 +663,7 @@ Curated list of top AI Tools.
 | ERP Pilot | Independent ERP Comparison Tool. |[🔗](https://www.erp-pilot.com/)|
 | AI Meme Generator | aimemegenerator |[🔗](https://aimemegenerator.io/)|
 | CitizenCY | Cypriot Citizenship & Residency, made simple. |[🔗](https://societates-civis.com/citizency)|
+| Locus | AI-powered logistics platform for last-mile delivery & dispatch. |[🔗](https://locus.sh/)|
 
 ## Contributors 😍
 
