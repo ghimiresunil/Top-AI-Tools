@@ -88,6 +88,7 @@ Curated list of top AI Tools.
 | Moire Removal | AI-powered moiré pattern removal for screen photos and scanned prints. | [🔗](https://moireremoval.com/) |
 | Monet AI | Monet AI is a All-in-One AI Video, Image, Audio creation platform | [🔗](https://monet.vision/) |
 | ClipSpeedAI | AI-powered video clipping that automatically finds highlight moments from long-form videos for streamers and creators | [🔗](https://clipspeed.ai) |
+| CreatorSkills | Marketplace for AI skills (prompt instruction packages) targeting content creators — installs into Claude, ChatGPT, and 20+ AI agents | [🔗](https://creatorskills.co) |
 | Prefactor | AI agent runtime control plane for visibility and governance | [🔗](https://prefactor.tech/) |
 | TubePrompter | Convert any video into AI-ready prompts for Sora, Midjourney, Runway, and more | [🔗](https://tubeprompter.com/) |
 | Blipix PRO | Generate Viral faceless videos on Auto-Pilot. | [🔗](https://blipix.pro/)
