@@ -333,6 +333,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| Pixel Snapper | Cleanup AI-generated pixel art (free & open source). | [🔗](https://www.spritefusion.com/pixel-snapper)|
 | Imagine 3D (by Luma AI) | tool for prototyping 3D objects with text | [🔗](https://captures.lumalabs.ai/imagine)|
 | move.ai | AI-powered real-time motion capture | [🔗](https://www.move.ai/)|
 | Inworld AI | create any character you can imagine | [🔗](https://inworld.ai/)|
