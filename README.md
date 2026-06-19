@@ -617,6 +617,7 @@ Curated list of top AI Tools.
 | MyLooks.AI | Find out how hot you are & become hotter! | [🔗](https://mylooks.ai) |
 | goDeskless | Optimize field service and boosts customer satisfaction. | [🔗](https://godeskless.com/) |
 | ezJobs | Automated job search and applications | [🔗](https://getezjobs.com/) |
+| AICareerPivot | AI-powered career transition strategist that builds personalized pivot roadmaps based on skills, finances, and life constraints | [🔗](https://ai-career-pivot.com) |
 | DecorAI | Generate Interior and Exterior Ideas in Seconds | [🔗](https://decorai.io) |
 | Foundy.com | Sell your business at a higher valuation or find quality acquisitions with Foundy's AI and expert support. | [🔗](https://foundy.com) |
 | Build Club | Community + education for AI builders | [🔗](https://www.buildclub.ai) |
