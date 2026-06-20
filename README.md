@@ -429,6 +429,7 @@ Curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | GPT for Sheets and Docs | integrate GPT in your everyday tools | [🔗](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) |
+| GPT for Sheets | AI for Google Sheets to generate formulas, classify rows, translate content, and automate spreadsheet workflows at scale. | [🔗](https://docgpt.ai/gpt-for-sheets) |
 | SummaryTube | Youtube Video Summarizer with AI, extract transcripts & key moments | [🔗](https://summarytube.com/) |
 | Lex | Web based AI writing tool | [🔗](https://lex.page/) |
 | Codeflash | Ship Blazing-Fast Python Code — Every Time. | [🔗](https://www.codeflash.ai/) 
