@@ -130,6 +130,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| Floor Plan Maker | Ideas to floor plans & interior renderings for homes, classrooms & restaurants | [🔗](https://floorplanmaker.ai/)|
 | Interior AI | interior design mockups and virtual staging | [🔗](https://interiorai.com/)|
 | AI Virtual Staging | AI powered virtual staging | [🔗](https://www.aivirtualstaging.net/)|
 | stockimg.ai  | AI-powered designs | [🔗](https://stockimg.ai/)|
