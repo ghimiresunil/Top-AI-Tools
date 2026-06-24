@@ -426,6 +426,7 @@ Curated list of top AI Tools.
 | GEOScore AI | Free AI search visibility scanner. Checks 9 GEO signals across 11 AI platforms and provides actionable fixes. | [🔗](https://geoscoreai.com) |
 | NotFair | Google Ads MCP server connecting Claude and AI agents to your Google Ads account. Diagnose performance, recommend optimizations, and execute approved campaign changes. | [🔗](https://notfair.co) |
 | MyndField | World's First Decision Engine | [🔗](https://myndfield.ai/) |
+| Tuku | TikTok comment-to-DM automation for SEA creators & merchants. | [🔗](https://tuku.co/) |
 
 
 ## Productivity
