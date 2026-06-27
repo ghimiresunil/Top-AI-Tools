@@ -343,6 +343,7 @@ Curated list of top AI Tools.
 | Inworld AI | create any character you can imagine | [🔗](https://inworld.ai/)|
 | Seele AI | No-code AI game maker for creating playable 2D/3D games from text prompts | [🔗](https://www.seeles.ai/)|
 | Scenario | creating AI-generated game assets | [🔗](https://www.scenario.gg/)|
+| MeshGPT | AI-Powered 3D Model Generation & Optimization | [🔗](https://meshgpt.io/)|
 
 ## Sales/Marketing
 
