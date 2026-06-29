@@ -44,6 +44,12 @@ Curated list of top AI Tools.
 | Human Generator | AI 生成人物照片 | [🔗](https://generated.photos/human-generator) |
 | Let's Enhance | 图像增强与放大，不损失质量 | [🔗](https://letsenhance.io/) |
 
+## 生产力 / Productivity
+
+| 工具 | 用途 | 链接 |
+|------|------:|:----:|
+| Whisper Web | 免费的浏览器端 AI 语音转文字工具，基于 OpenAI Whisper，支持本地处理、100+ 语言以及 TXT/SRT/VTT/JSON 导出 | [🔗](https://whisperweb.dev/) |
+
 > 注：上面为 README 中“艺术与创造”分类的部分条目示例。原 README 文件包含大量类别与条目（如：聊天、客服、生产力、开发者工具、数据工具等）。我将分批把剩余部分翻译并人工润色，直至完成整个 README 及仓库内所有文档。
 
 ---
