@@ -438,6 +438,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| Tudo | AI task manager for iPhone that turns voice notes, screenshots, and text into organized tasks and plans. | [🔗](https://blynkai.app/tudo/) |
 | GPT for Sheets and Docs | integrate GPT in your everyday tools | [🔗](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) |
 | GPT for Sheets | AI for Google Sheets to generate formulas, classify rows, translate content, and automate spreadsheet workflows at scale. | [🔗](https://docgpt.ai/gpt-for-sheets) |
 | SummaryTube | Youtube Video Summarizer with AI, extract transcripts & key moments | [🔗](https://summarytube.com/) |
