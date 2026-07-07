@@ -332,6 +332,7 @@ Curated list of top AI Tools.
 | Xquik | X/Twitter data platform with AI agent integration — MCP server, REST API, 20 extraction tools. | [🔗](https://github.com/Xquik-dev/x-twitter-scraper) |
 | AI API Cost Calculator | Free tool to estimate and compare API token costs across 23 tools and 7 models .. | [🔗](https://aiagentsbuzz.com/tools/ai-cost-calculator/) |
 | agentskill.sh | Searchable directory of 100,000+ skills for AI coding agents (Claude Code, Cursor, Copilot) | [🔗](https://agentskill.sh)|
+| Tree Ring Memory | Local-first memory lifecycle framework for AI agents with Rust CLI, SQLite/FTS recall, audit, consolidation, and forgetting | [🔗](https://terminallylazy.github.io/Tree-Ring-Memory/) |
 | BoltShot | Website Screenshot API with OpenAI Integration to Support AI Analysis of Screenshot Taken |[🔗](https://www.boltshot.dev/)|
 | StackPicks | Curated directory of open-source dev tools and AI products with editorial takes — what each does, the honest tradeoff, who should skip. ~200 picks. | [🔗](https://stackpicks.dev) |
 
