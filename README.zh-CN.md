@@ -29,6 +29,7 @@ Curated list of top AI Tools.
 | NanoPhoto.AI | 简化与高效的 AI 照片编辑 | [🔗](https://nanophoto.ai) |
 | PortraitLabs.AI | 使用 AI 拍照并轻松编辑图片 | [🔗](https://portraitlabs.ai) |
 | AIvector | 不仅仅是转换器：用于生成完美 SVG 的 AI 向量引擎 | [🔗](https://aivector.ai/) |
+| FigPad | 从提示词、草图和参考图创建科研插图，并支持可编辑 SVG/PPTX 导出 | [🔗](https://figpad.ai/) |
 | AI Magic Tools (by runway) | 用于编辑与生成内容的创意工具 | [🔗](https://runwayml.com/ai-magic-tools/) |
 | AvatarAI | 创建照片级真实感的 AI 头像 | [🔗](https://avatarai.me/) |
 | ClipDrop | 为创作者提供的应用、插件与资源（由 AI 驱动） | [🔗](https://clipdrop.co/) |
