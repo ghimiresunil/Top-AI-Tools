@@ -434,6 +434,7 @@ Curated list of top AI Tools.
 | CrawlRaven | Professional SEO audits with 200+ checks and prioritized fixes | [🔗](https://www.crawlraven.com/) |
 | NotFair | Google Ads MCP server connecting Claude and AI agents to your Google Ads account. Diagnose performance, recommend optimizations, and execute approved campaign changes. | [🔗](https://notfair.co) |
 | MyndField | World's First Decision Engine | [🔗](https://myndfield.ai/) |
+| Tuku | TikTok comment-to-DM automation for SEA creators & merchants. | [🔗](https://tuku.co/) |
 
 
 ## Productivity
