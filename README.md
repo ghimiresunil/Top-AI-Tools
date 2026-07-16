@@ -277,6 +277,7 @@ Curated list of top AI Tools.
 | Keywords AI | The enterprise-grade software to build, monitor, and improve your AI application. We are a full-stack LLM engineering platform for developers and PMs. | [🔗](https://keywordsai.co)|
 | Helicone AI | Open-source LLM observability platform for logging, monitoring, and debugging AI applications.| [🔗](https://github.com/Helicone/helicone)|
 | Hive | Open-source AI agent framework for building goal-driven, self-improving autonomous agents | [🔗](https://github.com/aden-hive/hive)|
+| Heym | Source-available visual AI workflow automation with agents, RAG, MCP, approvals, evals, and traces | [🔗](https://github.com/heymrun/heym) |
 | Keploy | Open source Tool for converting user-traffic to Test Cases and Data Stubs | [🔗](https://keploy.io)|
 | Liner.ai | Creates classification models from your data | [🔗](https://liner.ai/)|
 | Phind | LLM-powered search engine for developers and technical questions | [🔗](https://phind.com/)|
