@@ -104,6 +104,7 @@ Curated list of top AI Tools.
 | JustDance | AI Dance Video Generator - Make Anything Dance. | [🔗](https://justdance.cc/)
 | AI Photo Editor | Free AI Photo Editor & Image Generator Online. Edit, Enhance & Create Stunning Photos with AI-Powered Tools.  | [🔗](https://aiphotoeditor.io/)
 | Musiv | AI music video generation from audio tracks | [🔗](https://musiv.ai/) |
+| cv.cm/v | Queue-free Seedance 2.0 AI video and image generation with an open API | [🔗](https://cv.cm/v)|
 | RemoveGlassesGlare | Remove glare and reflections from glasses in photos | [🔗](https:/removeglassesglare.com) |
 | Punch Needle Generator | AI-powered punch needle embroidery pattern generator with color-coded yarn maps. Generates patterns from text prompts or image uploads, exports PDF/PNG/SVG. | [🔗](https://www.punchneedle.co.il/en) |
 
