@@ -686,6 +686,8 @@ Curated list of top AI Tools.
 | AI Meme Generator | aimemegenerator |[🔗](https://aimemegenerator.io/)|
 | CitizenCY | Cypriot Citizenship & Residency, made simple. |[🔗](https://societates-civis.com/citizency)|
 | Locus | AI-powered logistics platform for last-mile delivery & dispatch. |[🔗](https://locus.sh/)|
+| Image Translate AI  | Image Translate AI - Instant Image Translate for 200+ Languages |[🔗](https://imagetranslateai.org/)|
+| Tree Identifier  | Upload a photo of a leaf, bark, flower, fruit, or the full tree and get an AI-powered identification with clear field-guide notes. |[🔗](https://treeidentifier.org/)|
 
 ## Contributors 😍
 
