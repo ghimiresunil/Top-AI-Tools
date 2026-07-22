@@ -139,6 +139,7 @@ Curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | Floor Plan Maker | Ideas to floor plans & interior renderings for homes, classrooms & restaurants | [🔗](https://floorplanmaker.ai/)|
 | Interior AI | interior design mockups and virtual staging | [🔗](https://interiorai.com/)|
+| Interior Design Clinic | Redesign any room from a single photo — photorealistic AI redesigns anchored to your real space, with before/after, day/night lighting, and shop-the-look | [🔗](https://interiordesignclinic.com/) |
 | AI Virtual Staging | AI powered virtual staging | [🔗](https://www.aivirtualstaging.net/)|
 | stockimg.ai  | AI-powered designs | [🔗](https://stockimg.ai/)|
 | Brand Mark | Generating brand logos | [🔗](https://brandmark.io/)|
