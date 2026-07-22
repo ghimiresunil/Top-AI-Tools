@@ -605,6 +605,7 @@ Curated list of top AI Tools.
 | Rosie | AI Phone Answering Service | [🔗](https://heyrosie.com/) |
 | Vidocu | Turn screen recordings into professional videos and documentation | [🔗](https://vidocu.ai/) |
 | AnveVoice | AI voice agent for websites — trains on your content, navigates pages, fills forms, books appointments in 50+ languages with <700ms latency | [🔗](https://anvevoice.app) |
+| Swiftsell AI | Voice and WhatsApp AI Agents for Services Businesses | [🔗](https://swiftsellai.com/) |
 
 ## Phone Calls
 
