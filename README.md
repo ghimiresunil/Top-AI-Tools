@@ -251,7 +251,9 @@ Curated list of top AI Tools.
 | NoteGPT | Your All-in-One AI Learning Assistant | [🔗](https://notegpt.io/) |
 | DeepPDF | Your AI Research Assistant for Deep Learning | [🔗](https://deeppdf.ai/) |
 | AI Humanizer | Humanize AI Text Online Free – 100% Human Written | [🔗](https://aihumanizer.work/) |
+| Humanize-Text | Open-source AI text humanizer with a multilingual rewriting pipeline and reproducible examples | [🔗](https://github.com/lynote-ai/humanize-text) |
 | AI Detector | Detect AI text Online Free | [🔗](https://aidetector.cc/) |
+| AI Text Detector | Explainable local AI-text risk analyzer with cautious scoring and short-text guardrails | [🔗](https://github.com/lynote-ai/ai-text-detector) |
 | MyDetector | Free AI Detector and Humanizer | [🔗](https://mydetector.com) |
 | AIImagetoText | Free AI Image to Text,ConverterFast & Highly Accurate | [🔗](https://aiimagetotext.com/) |
 | AIPlagiarismChecker | Plagiarism Checker ensures fast, accurate, and original content verification. | [🔗](https://aiplagiarismchecker.io/) | BeatMV | AI music video generator that turns any song into a stunning visual video in one click | [🔗](https://beatmv.ai) |
