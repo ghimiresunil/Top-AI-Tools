@@ -690,6 +690,7 @@ Curated list of top AI Tools.
 | AI Meme Generator | aimemegenerator |[🔗](https://aimemegenerator.io/)|
 | CitizenCY | Cypriot Citizenship & Residency, made simple. |[🔗](https://societates-civis.com/citizency)|
 | Locus | AI-powered logistics platform for last-mile delivery & dispatch. |[🔗](https://locus.sh/)|
+| TaroMind AI | Free AI-guided tarot tools for structured self-reflection, including one-card and three-card yes-or-no readings. | [🔗](https://taromindai.com) |
 
 ## Contributors 😍
 
