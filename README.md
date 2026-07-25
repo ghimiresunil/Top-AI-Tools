@@ -109,6 +109,7 @@ Curated list of top AI Tools.
 | RemoveGlassesGlare | Remove glare and reflections from glasses in photos | [🔗](https:/removeglassesglare.com) |
 | Punch Needle Generator | AI-powered punch needle embroidery pattern generator with color-coded yarn maps. Generates patterns from text prompts or image uploads, exports PDF/PNG/SVG. | [🔗](https://www.punchneedle.co.il/en) |
 | Picovix | Free AI consistent character & virtual model generator — keep the same face across unlimited scenes from one selfie, no signup | [🔗](https://www.picovix.app/) |
+| LumiMusic | Create complete songs from text prompts or lyrics and refine them with AI-powered music tools. | [🔗](https://lumimusic.ai) |
 
 ## Conversational AI
 
