@@ -163,6 +163,7 @@ Curated list of top AI Tools.
 | DreamLADU | AI image generator for accessory dwelling units (ADUs) | [🔗](https://www.dreamladu.com)|
 | PlantTattoosAI | Plant and flower tattoo designs generator based on models trained on real plants | [🔗](https://planttattoosai.com/)|
 | AI Brochure Generator | Turn prompts into brochures - fast, polished, and on-brand. | [🔗](https://venngage.com/ai-tools/brochure-generator)
+| AIImageChanger.app | Editing backgrounds, objects, clothing, colors, text & styles in uploaded images with text prompts | [🔗](https://aiimagechanger.app/)|
 | Blurbackground AI | Blurbackground.AI is a free online tool to edit background swiftly. | [🔗](https://blurbackground.ai/)
 | AI Chart Generator | Turn messy data into smart, stunning AI-generated charts in seconds | [🔗](https://venngage.com/ai-tools/chart)
 | AI Poster Generator | Create custom posters fast with Venngage’s AI-powered design tool. | [🔗](https://venngage.com/ai-tools/poster-generator)
