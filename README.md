@@ -214,8 +214,11 @@ Curated list of top AI Tools.
 | Salary Calculator | Salary-Calculator.ai helps you compare net salaries worldwide instantly | [🔗](https://salary-calculator.ai/) |
 | PayCalculator | PayCalculator.ai instantly calculates take-home pay with tax breakdowns | [🔗](https://paycalculator.ai/) |
 | TaxTools AI | AI Tax Tools | [🔗](https://taxtools.ai/cn) |
-| PolyMind | Real-time Polymarket prediction market alerts with multi-AI analysis. 12 signal types: whale bets, volume spikes, coordinated wallets and more. | [🔗](https://polyminds.netlify.app/) |
+| PolyMind | Real-time Polymarket prediction market alerts with multi-AI analysis. 12 signal types: whale bets, volume spikes, coordinated wallets and more. | [🔗](https://polymi
 
+... [OUTPUT TRUNCATED - 17308 chars omitted out of 67308 total] ...
+
+| [🔗](https://www.salesably.ai/) |
 ## Education
 - [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 - [Aural](https://github.com/1146345502/aural-oss) - Open-source, self-hostable AI interview platform for voice, chat, and video interviews with adaptive follow-ups and automated reports.
@@ -572,6 +575,7 @@ Curated list of top AI Tools.
 | Metaphor | a system to search the internet with large language models | [🔗](https://metaphor.systems/)|
 | Rewind | search engine for your life | [🔗](https://www.rewind.ai/)|
 | You | AI powered search engine | [🔗](https://you.com/apps/discover)|
+| [SerpBase](https://serpbase.dev) | Google Search Results API for developers and AI agents | [🔗](https://serpbase.dev) |
 | muse.ai | video content search and conversational assistant | [🔗](https://muse.ai/) |
 | Refinder AI | AI-powered universal search and assistant for work| [🔗](https://refinder.ai/)|
 | Hika AI| AI search for deeper thinking, not just find answers | [🔗](https://www.hika.fyi)|
