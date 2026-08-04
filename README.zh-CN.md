@@ -29,6 +29,7 @@ Curated list of top AI Tools.
 | NanoPhoto.AI | 简化与高效的 AI 照片编辑 | [🔗](https://nanophoto.ai) |
 | PortraitLabs.AI | 使用 AI 拍照并轻松编辑图片 | [🔗](https://portraitlabs.ai) |
 | AIvector | 不仅仅是转换器：用于生成完美 SVG 的 AI 向量引擎 | [🔗](https://aivector.ai/) |
+| FigPad | 从提示词、草图和参考图创建科研插图，并支持可编辑 SVG/PPTX 导出 | [🔗](https://figpad.ai/) |
 | AI Magic Tools (by runway) | 用于编辑与生成内容的创意工具 | [🔗](https://runwayml.com/ai-magic-tools/) |
 | AvatarAI | 创建照片级真实感的 AI 头像 | [🔗](https://avatarai.me/) |
 | ClipDrop | 为创作者提供的应用、插件与资源（由 AI 驱动） | [🔗](https://clipdrop.co/) |
@@ -43,6 +44,12 @@ Curated list of top AI Tools.
 | IRIS Clarity Studio | AI 驱动的在线语音隔离 / 降噪工具 | [🔗](https://studio.iris.audio/) |
 | Human Generator | AI 生成人物照片 | [🔗](https://generated.photos/human-generator) |
 | Let's Enhance | 图像增强与放大，不损失质量 | [🔗](https://letsenhance.io/) |
+
+## 生产力 / Productivity
+
+| 工具 | 用途 | 链接 |
+|------|------:|:----:|
+| Whisper Web | 免费的浏览器端 AI 语音转文字工具，基于 OpenAI Whisper，支持本地处理、100+ 语言以及 TXT/SRT/VTT/JSON 导出 | [🔗](https://whisperweb.dev/) |
 
 > 注：上面为 README 中“艺术与创造”分类的部分条目示例。原 README 文件包含大量类别与条目（如：聊天、客服、生产力、开发者工具、数据工具等）。我将分批把剩余部分翻译并人工润色，直至完成整个 README 及仓库内所有文档。
 
