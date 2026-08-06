@@ -370,6 +370,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| OutreachAgent | Outbound email API for AI agents with multi-step sequences, automated follow-ups, and structured reply webhooks. | [🔗](https://outreachagent.dev/for-agents) |
 | AnswerLens | Audits public B2B SaaS page evidence for AI search and SEO, then maps gaps in pricing, comparison, docs, proof, and trust pages into a fix plan | [🔗](https://app.sfdj.net/) |
 | Autorank | AI SEO Tool | [🔗](https://www.getautorank.ai)|
 | ChampSignal.com | Competitor Monitoring That Doesn't Suck | [🔗](https://champsignal.com)|
