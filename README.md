@@ -351,6 +351,7 @@ Curated list of top AI Tools.
 | BoltShot | Website Screenshot API with OpenAI Integration to Support AI Analysis of Screenshot Taken |[🔗](https://www.boltshot.dev/)|
 | Lucebox | The computer for local AI |[🔗](https://www.lucebox.com/)|
 | StackPicks | Curated directory of open-source dev tools and AI products with editorial takes — what each does, the honest tradeoff, who should skip. ~200 picks. | [🔗](https://stackpicks.dev) |
+| Tura | Local-first open-source coding agent with CLI, TUI, and GUI interfaces, built-in verification, and reproducible public benchmarks. | [🔗](https://github.com/Tura-AI/tura) |
 
 
 ## Gaming, 3D, Motion
