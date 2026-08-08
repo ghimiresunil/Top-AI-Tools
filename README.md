@@ -177,6 +177,7 @@ Curated list of top AI Tools.
 | Seede AI | Helps you create a poster in 1 min | [🔗](https://seede.ai/)|
 | melhorar imagem | Improve Image Online for Free | [🔗](https://melhorar-imagem.com/)|
 | UniMusic AI | Create professional music in seconds with AI. | [🔗](https://unimusic.ai/)|
+| LumiMusic | All-in-one AI music creation platform for generating, editing, analyzing, and finishing songs. | [🔗](https://lumimusic.ai/) |
 | Video Watermark Remover | Remove video watermarks online for free | [🔗](https://videowatermarkremover.ai/)|
 | AI Anime | AI Anime Generator | [🔗](https://aianime.io/)|
 | AI Contract Generator | Create clear, reliable contracts with AI | [🔗](https://venngage.com/ai-tools/ai-contract-generator)|
