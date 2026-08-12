@@ -112,6 +112,7 @@ Curated list of top AI Tools.
 | Punch Needle Generator | AI-powered punch needle embroidery pattern generator with color-coded yarn maps. Generates patterns from text prompts or image uploads, exports PDF/PNG/SVG. | [🔗](https://www.punchneedle.co.il/en) |
 | PixMira AI | AI photo editor and image generator for editing, generating, and transforming images with prompts. | [🔗](https://pixmira.ai) |
 | Picovix | Free AI consistent character & virtual model generator — keep the same face across unlimited scenes from one selfie, no signup | [🔗](https://www.picovix.app/) |
+| Rao Edits | AI-powered image generation and photo editing for creative projects, social content, and CapCut templates. | [🔗](https://raoedits.top/) |
 
 ## Conversational AI
 
