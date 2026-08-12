@@ -23,6 +23,8 @@ Curated list of top AI Tools.
 
 | 工具 | 用途 | 链接 |
 |------|------:|:----:|
+| DoreArt AI | 根据文本提示和歌词生成原创歌曲、人声及纯音乐的 AI 音乐生成器 | [🔗](https://doreartai.com) |
+| AI Dog Generator | 生成 AI 狗狗照片，或将自己的狗狗转换成多种艺术风格 | [🔗](https://aidoggenerator.com) |
 | Face Swap Video AI | 在线视频与照片人脸替换（免费） | [🔗](https://faceswapvideo.io/) |
 | AIImageTranslator | 在线图片翻译（免费） | [🔗](https://aiimagetranslator.io/) |
 | FaceAI | 免费在线人脸替换（无需注册） | [🔗](https://faceai.art/) |
