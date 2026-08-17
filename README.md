@@ -204,6 +204,7 @@ Curated list of top AI Tools.
 | Shopme Agent | A next-gen shopping assistant that helps you find, compare, and buy products across Chinese and global platforms, including factory-direct sources, all in one place. | [🔗](https://shopmeagent.com/)|
 | Picoko | Create studio-quality product images in seconds,Instantly generate model shots, lifestyle scenes & more  | [🔗](https://www.picoko.com/) |
 | ECFotos | AI photo editor for e-commerce product images, listing visuals, background removal, upscaling, collage making, and image editing workflows | [🔗](https://ecfotos.com/) |
+| ListingAI | Free AI listing generator for Amazon & TikTok Shop sellers — creates optimized title, bullets, and description in 30 seconds | [🔗](https://lijustin655.github.io/f1-listingai/) |
 
 ## Finance
 
