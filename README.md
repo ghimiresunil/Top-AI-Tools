@@ -344,6 +344,7 @@ Curated list of top AI Tools.
 | Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
 | Price Per Token | Compare LLM API pricing across 300+ models with token counters and benchmarks | [🔗](https://pricepertoken.com/) |
 | TestSprite | The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow. | [🔗](https://www.testsprite.com/) |
+| Agent QA | Source-available CLI and MCP server for orchestrating agent-led QA workflows across web, Android, and iOS targets. | [🔗](https://github.com/vostride/agent-qa) |
 | Omnara | Command Center for AI Coding Agents. | [🔗](https://www.omnara.com/) |
 | SpeedUp AI | End-to-End AI Circuit Schematic Design | [🔗](https://speed-up.ai/) |
 | Xquik | X/Twitter data platform with AI agent integration — MCP server, REST API, 20 extraction tools. | [🔗](https://github.com/Xquik-dev/x-twitter-scraper) |
