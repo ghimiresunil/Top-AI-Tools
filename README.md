@@ -216,6 +216,7 @@ Curated list of top AI Tools.
 | PayCalculator | PayCalculator.ai instantly calculates take-home pay with tax breakdowns | [🔗](https://paycalculator.ai/) |
 | TaxTools AI | AI Tax Tools | [🔗](https://taxtools.ai/cn) |
 | PolyMind | Real-time Polymarket prediction market alerts with multi-AI analysis. 12 signal types: whale bets, volume spikes, coordinated wallets and more. | [🔗](https://polymi
+| Bank Statement Converter AI | Bank Statement Converter AI: Convert PDF to Excel | [🔗](https://bankstatement-wizard.net/bank-statement-converter-ai) |
 
 ... [OUTPUT TRUNCATED - 17308 chars omitted out of 67308 total] ...
 
