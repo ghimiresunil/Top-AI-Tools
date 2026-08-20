@@ -271,6 +271,7 @@ Curated list of top AI Tools.
 | Socratic App | AI homework helper that teaches students like a tutor | [🔗](https://socraticapp.com/) |
 | Lorea | The AI Study Game Generator | [🔗](https://www.lorea.app/) |
 | Fluenly | AI Language Learning App with Goal Driven Speaking Scenarios | [🔗](https://fluenly.ai/) |
+| English Speaking App | Live AI English speaking practice for interviews, meetings, and everyday conversations, with a free 30-second speaking test | [🔗](https://englishspeakingapp.com/english-speaking-practice) |
 | MMIPractice.org | Free practice questions and AI coaching for MMI prep | [🔗](https://www.mmipractice.org/) |
 | Read PDF Aloud | Let AI Read Your PDF Aloud with Natural Voice | [🔗](https://readpdfaloud.com/) |
 
