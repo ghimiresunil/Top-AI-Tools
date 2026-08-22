@@ -21,9 +21,9 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
-| [NanoBanana2](https://nanobanana2.com) | Free AI image generator with trend-aware templates, multiple AI models, and advanced editing tools | Free + Premium |
-| [ThumblifyAI](https://thumblifyai.com) | AI thumbnail generator that lets creators generate, recreate, and edit YouTube thumbnails in their own style or face | Free + Premium |
-| [igly.ai](https://igly.ai) | Free AI image editor with 12+ tools for e-commerce — background removal, generation, inpainting, upscaling | Free |
+| NanoBanana2 | Free AI image generator with trend-aware templates, multiple AI models, and advanced editing tools | [🔗](https://nanobanana2.com) |
+| ThumblifyAI | AI thumbnail generator that lets creators generate, recreate, and edit YouTube thumbnails in their own style or face | [🔗](https://thumblifyai.com) |
+| igly.ai | Free AI image editor with 12+ tools for e-commerce — background removal, generation, inpainting, upscaling | [🔗](https://igly.ai)) |
 |AI Baby Dance|Turn photos into dancing videos|[🔗](https://aibabydance.com)|
 |Saveto AI|100% Free all-in-one AI Transcription & Summarization online |[🔗](https://saveto.ai/)|
 |Transcribe Video AI|Free Video to Text Converter online (No Sign up)|[🔗](https://transcribe-video.ai/)|
@@ -91,6 +91,7 @@ Curated list of top AI Tools.
 | Moire Removal | AI-powered moiré pattern removal for screen photos and scanned prints. | [🔗](https://moireremoval.com/) |
 | Monet AI | Monet AI is a All-in-One AI Video, Image, Audio creation platform | [🔗](https://monet.vision/) |
 | ClipSpeedAI | AI-powered video clipping that automatically finds highlight moments from long-form videos for streamers and creators | [🔗](https://clipspeed.ai) |
+| CreatorSkills | Marketplace for AI skills (prompt instruction packages) targeting content creators — installs into Claude, ChatGPT, and 20+ AI agents | [🔗](https://creatorskills.co) |
 | Prefactor | AI agent runtime control plane for visibility and governance | [🔗](https://prefactor.tech/) |
 | TubePrompter | Convert any video into AI-ready prompts for Sora, Midjourney, Runway, and more | [🔗](https://tubeprompter.com/) |
 | Blipix PRO | Generate Viral faceless videos on Auto-Pilot. | [🔗](https://blipix.pro/)
@@ -104,10 +105,13 @@ Curated list of top AI Tools.
 | JustDance | AI Dance Video Generator - Make Anything Dance. | [🔗](https://justdance.cc/)
 | AI Photo Editor | Free AI Photo Editor & Image Generator Online. Edit, Enhance & Create Stunning Photos with AI-Powered Tools.  | [🔗](https://aiphotoeditor.io/)
 | Musiv | AI music video generation from audio tracks | [🔗](https://musiv.ai/) |
+| RemoveGlassesGlare | Remove glare and reflections from glasses in photos | [🔗](https://removeglassesglare.com) |
 | Ez Img Editor | Free Online Image Editor & Batch Processor | [🔗](https://ezimgeditor.io/) |
 | cv.cm/v | Queue-free Seedance 2.0 AI video and image generation with an open API | [🔗](https://cv.cm/v)|
 | RemoveGlassesGlare | Remove glare and reflections from glasses in photos | [🔗](https:/removeglassesglare.com) |
 | Punch Needle Generator | AI-powered punch needle embroidery pattern generator with color-coded yarn maps. Generates patterns from text prompts or image uploads, exports PDF/PNG/SVG. | [🔗](https://www.punchneedle.co.il/en) |
+| PixMira AI | AI photo editor and image generator for editing, generating, and transforming images with prompts. | [🔗](https://pixmira.ai) |
+| Picovix | Free AI consistent character & virtual model generator — keep the same face across unlimited scenes from one selfie, no signup | [🔗](https://www.picovix.app/) |
 
 ## Conversational AI
 
@@ -128,6 +132,7 @@ Curated list of top AI Tools.
 | Claude | Talk to Claude, an AI assistant from Anthropic. | [🔗](https://claude.ai/)|
 | Pleasuredomes | AI Image and chatbot | [🔗](http://pleasuredomes.ai/) |
 | ChatSweetie | Free AI Girlfriend Chat | [🔗](https://chatsweetie.ai/) |
+| Mistress.to | Femdom Mistress AI, Image/video/text + call. Uncensored, emotional voice, Real domination. | [🔗](https://mistress.to) |
 | Venice | Private and uncensored conversational AI | [🔗](https://venice.ai/) |
 | Typer | Free local AI chat for Mac — runs on-device, no account, no cloud, no ads | [🔗](https://typer.space)|
 | [Banana AI](https://bananaai.dev) | All-in-one AI generator for images, videos, music, and chat — multi-provider (Gemini, Replicate, Fal) | Free + Premium |
@@ -139,6 +144,7 @@ Curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | Floor Plan Maker | Ideas to floor plans & interior renderings for homes, classrooms & restaurants | [🔗](https://floorplanmaker.ai/)|
 | Interior AI | interior design mockups and virtual staging | [🔗](https://interiorai.com/)|
+| Interior Design Clinic | Redesign any room from a single photo — photorealistic AI redesigns anchored to your real space, with before/after, day/night lighting, and shop-the-look | [🔗](https://interiordesignclinic.com/) |
 | AI Virtual Staging | AI powered virtual staging | [🔗](https://www.aivirtualstaging.net/)|
 | stockimg.ai  | AI-powered designs | [🔗](https://stockimg.ai/)|
 | Brand Mark | Generating brand logos | [🔗](https://brandmark.io/)|
@@ -209,10 +215,14 @@ Curated list of top AI Tools.
 | Salary Calculator | Salary-Calculator.ai helps you compare net salaries worldwide instantly | [🔗](https://salary-calculator.ai/) |
 | PayCalculator | PayCalculator.ai instantly calculates take-home pay with tax breakdowns | [🔗](https://paycalculator.ai/) |
 | TaxTools AI | AI Tax Tools | [🔗](https://taxtools.ai/cn) |
-| PolyMind | Real-time Polymarket prediction market alerts with multi-AI analysis. 12 signal types: whale bets, volume spikes, coordinated wallets and more. | [🔗](https://polyminds.netlify.app/) |
+| PolyMind | Real-time Polymarket prediction market alerts with multi-AI analysis. 12 signal types: whale bets, volume spikes, coordinated wallets and more. | [🔗](https://polymi
 
+... [OUTPUT TRUNCATED - 17308 chars omitted out of 67308 total] ...
+
+| [🔗](https://www.salesably.ai/) |
 ## Education
 - [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
+- [Aural](https://github.com/1146345502/aural-oss) - Open-source, self-hostable AI interview platform for voice, chat, and video interviews with adaptive follow-ups and automated reports.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
@@ -251,7 +261,9 @@ Curated list of top AI Tools.
 | NoteGPT | Your All-in-One AI Learning Assistant | [🔗](https://notegpt.io/) |
 | DeepPDF | Your AI Research Assistant for Deep Learning | [🔗](https://deeppdf.ai/) |
 | AI Humanizer | Humanize AI Text Online Free – 100% Human Written | [🔗](https://aihumanizer.work/) |
+| Humanize-Text | Open-source AI text humanizer with a multilingual rewriting pipeline and reproducible examples | [🔗](https://github.com/lynote-ai/humanize-text) |
 | AI Detector | Detect AI text Online Free | [🔗](https://aidetector.cc/) |
+| AI Text Detector | Explainable local AI-text risk analyzer with cautious scoring and short-text guardrails | [🔗](https://github.com/lynote-ai/ai-text-detector) |
 | MyDetector | Free AI Detector and Humanizer | [🔗](https://mydetector.com) |
 | AIImagetoText | Free AI Image to Text,ConverterFast & Highly Accurate | [🔗](https://aiimagetotext.com/) |
 | AIPlagiarismChecker | Plagiarism Checker ensures fast, accurate, and original content verification. | [🔗](https://aiplagiarismchecker.io/) | BeatMV | AI music video generator that turns any song into a stunning visual video in one click | [🔗](https://beatmv.ai) |
@@ -270,6 +282,7 @@ Curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | AI/ML API | 200+ AI models thorugh on API. ChatGPT, Sonnet, Gemini, Llama, and even many video and image-gen models, all in one place. | [🔗](https://aimlapi.com/?utm_source=top-ai-tools&utm_medium=github&utm_campaign=integration)|
+| AI Router | Hosted OpenAI-compatible API relay for developer and coding-agent workflows; supports personal API keys, per-key usage visibility, and model discovery through authenticated `/v1/models`. | [🔗](https://ai-router.dev) |
 | Chat Data Prep | data transformation using plain english | [🔗](https://www.akkio.com/chat-data-prep)|
 | Codeium | free AI powered code completion | [🔗](https://www.codeium.com/)|
 | Capacity | Create fullstack web applications using AI | [🔗](https://capacity.so/)|
@@ -280,6 +293,7 @@ Curated list of top AI Tools.
 | Respan | Full-stack AI engineering platform (formerly Keywords AI) to build, monitor, and improve LLM and agent applications — tracing, evals, prompt management, and a gateway across 250+ models. | [🔗](https://www.respan.ai/ai-gateway)|
 | Helicone AI | Open-source LLM observability platform for logging, monitoring, and debugging AI applications.| [🔗](https://github.com/Helicone/helicone)|
 | Hive | Open-source AI agent framework for building goal-driven, self-improving autonomous agents | [🔗](https://github.com/aden-hive/hive)|
+| Heym | Source-available visual AI workflow automation with agents, RAG, MCP, approvals, evals, and traces | [🔗](https://github.com/heymrun/heym) |
 | Keploy | Open source Tool for converting user-traffic to Test Cases and Data Stubs | [🔗](https://keploy.io)|
 | Liner.ai | Creates classification models from your data | [🔗](https://liner.ai/)|
 | Phind | LLM-powered search engine for developers and technical questions | [🔗](https://phind.com/)|
@@ -289,6 +303,7 @@ Curated list of top AI Tools.
 | GitPoet | Git commit message generator (based on your changes) with a VSCode extension | [🔗](https://www.gitpoet.dev/)|
 |AskCommand|Generate Unix commands from text automatically|[🔗](https://www.askcommand.cppexpert.online/)|
 | Shire | Open-source persistent workspaces for AI agent teams with inter-agent mailboxes, shared drive, and context preservation. Supports Claude Code, OpenCode, Pi Agent and more. | [🔗](https://github.com/victor36max/shire)|
+| Better Agent | Persistent workspace for Claude, Codex, and Gemini coding-agent sessions with delegation, parallel forks, approvals, and restart recovery. | [🔗](https://github.com/ofekron/better-agent)|
 | Shotstack Workflows | No-code, automation workflow tool for building Generative AI media applications |[🔗](https://shotstack.io/product/workflows/)|
 | text-generator.io AI Text Generator | Open Source Vision language models and web crawlers to understand any links in prompts given. API for developers and special support for AI autocomplete. | [🔗](https://text-generator.io) |
 | Code to Flow | Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly. | [🔗](https://codetoflow.com) |
@@ -332,13 +347,17 @@ Curated list of top AI Tools.
 | Narrow AI | Automated Prompt Engineering and Optimization | [🔗](https://www.getnarrow.ai/) |
 | Price Per Token | Compare LLM API pricing across 300+ models with token counters and benchmarks | [🔗](https://pricepertoken.com/) |
 | TestSprite | The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow. | [🔗](https://www.testsprite.com/) |
+| Agent QA | Source-available CLI and MCP server for orchestrating agent-led QA workflows across web, Android, and iOS targets. | [🔗](https://github.com/vostride/agent-qa) |
 | Omnara | Command Center for AI Coding Agents. | [🔗](https://www.omnara.com/) |
 | SpeedUp AI | End-to-End AI Circuit Schematic Design | [🔗](https://speed-up.ai/) |
 | Xquik | X/Twitter data platform with AI agent integration — MCP server, REST API, 20 extraction tools. | [🔗](https://github.com/Xquik-dev/x-twitter-scraper) |
 | AI API Cost Calculator | Free tool to estimate and compare API token costs across 23 tools and 7 models .. | [🔗](https://aiagentsbuzz.com/tools/ai-cost-calculator/) |
 | agentskill.sh | Searchable directory of 100,000+ skills for AI coding agents (Claude Code, Cursor, Copilot) | [🔗](https://agentskill.sh)|
+| Tree Ring Memory | Local-first memory lifecycle framework for AI agents with Rust CLI, SQLite/FTS recall, audit, consolidation, and forgetting | [🔗](https://terminallylazy.github.io/Tree-Ring-Memory/) |
 | BoltShot | Website Screenshot API with OpenAI Integration to Support AI Analysis of Screenshot Taken |[🔗](https://www.boltshot.dev/)|
+| Lucebox | The computer for local AI |[🔗](https://www.lucebox.com/)|
 | StackPicks | Curated directory of open-source dev tools and AI products with editorial takes — what each does, the honest tradeoff, who should skip. ~200 picks. | [🔗](https://stackpicks.dev) |
+| Tura | Local-first open-source coding agent with CLI, TUI, and GUI interfaces, built-in verification, and reproducible public benchmarks. | [🔗](https://github.com/Tura-AI/tura) |
 
 
 ## Gaming, 3D, Motion
@@ -349,6 +368,7 @@ Curated list of top AI Tools.
 | Imagine 3D (by Luma AI) | tool for prototyping 3D objects with text | [🔗](https://captures.lumalabs.ai/imagine)|
 | move.ai | AI-powered real-time motion capture | [🔗](https://www.move.ai/)|
 | Inworld AI | create any character you can imagine | [🔗](https://inworld.ai/)|
+| Auferet | AI game master for solo text adventures and tabletop RPGs, with long-term story memory and your own uploaded lore | [🔗](https://auferet.com/)|
 | Seele AI | No-code AI game maker for creating playable 2D/3D games from text prompts | [🔗](https://www.seeles.ai/)|
 | Scenario | creating AI-generated game assets | [🔗](https://www.scenario.gg/)|
 | MeshGPT | AI-Powered 3D Model Generation & Optimization | [🔗](https://meshgpt.io/)|
@@ -357,6 +377,8 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| AnswerLens | Audits public B2B SaaS page evidence for AI search and SEO, then maps gaps in pricing, comparison, docs, proof, and trust pages into a fix plan | [🔗](https://app.sfdj.net/) |
+| Mydentify AI Product Read | Reads a public product homepage with AI to report inferred category, audience, value, and unclear facts | [🔗](https://mydentify.com/tools/what-does-ai-think-my-product-is) |
 | Autorank | AI SEO Tool | [🔗](https://www.getautorank.ai)|
 | ChampSignal.com | Competitor Monitoring That Doesn't Suck | [🔗](https://champsignal.com)|
 | Choppity.com | Instantly turn long podcast videos into short TikToks | [🔗](https://www.choppity.com/)|
@@ -439,12 +461,14 @@ Curated list of top AI Tools.
 | CrawlRaven | Professional SEO audits with 200+ checks and prioritized fixes | [🔗](https://www.crawlraven.com/) |
 | NotFair | Google Ads MCP server connecting Claude and AI agents to your Google Ads account. Diagnose performance, recommend optimizations, and execute approved campaign changes. | [🔗](https://notfair.co) |
 | MyndField | World's First Decision Engine | [🔗](https://myndfield.ai/) |
+| Tuku | TikTok comment-to-DM automation for SEA creators & merchants. | [🔗](https://tuku.co/) |
 
 
 ## Productivity
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| Tudo | AI task manager for iPhone that turns voice notes, screenshots, and text into organized tasks and plans. | [🔗](https://blynkai.app/tudo/) |
 | Remio | Local-first AI memory and knowledge base that parses files, webpages, recordings, emails, and notes into local indexes for faster personal-context retrieval | [🔗](https://remio.ai/) |
 | GPT for Sheets and Docs | integrate GPT in your everyday tools | [🔗](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) |
 | GPT for Sheets | AI for Google Sheets to generate formulas, classify rows, translate content, and automate spreadsheet workflows at scale. | [🔗](https://docgpt.ai/gpt-for-sheets) |
@@ -473,6 +497,7 @@ Curated list of top AI Tools.
 | Chatpdf.so | Chatpdf.so is an AI based chat tool designed to chat with PDF. | [🔗](https://chatpdf.so) |
 | ReportGPT | Elevate your document writing by harnessing the power of AI and experience the seamless creation of documents. | [🔗](https://report-gpt.io) |
 | Recurrr | Send recurring emails | [🔗](https://recurrr.com) |
+| Tudo | AI task capture and personal planning app for turning quick thoughts into organized next actions. | [🔗](https://blynkai.app/tudo/) |
 | AI PowerPoint Maker | AI presentation generator for PowerPoint | [🔗](https://aipowerpointmaker.com/) |
 | Lede | Generate In-Depth Blog Content | [🔗](https://thelede.ai) |
 | Panem | AI Powered SaaS Spend Management | [🔗](https://panem.co) |
@@ -482,11 +507,13 @@ Curated list of top AI Tools.
 | PPT.AI | The World's Best AI PPT Maker | [🔗](https://ppt.ai) |
 | AI PPT Maker | Make your unique PPT with AI online for free | [🔗](https://aipptmaker.ai) |
 | Transgate | AI Speech to Text | [🔗](https://transgate.ai/) |
+| Whisper Web | Free browser-based AI speech-to-text transcription powered by OpenAI Whisper, with local processing, 100+ languages, and TXT/SRT/VTT/JSON exports | [🔗](https://whisperweb.dev/) |
 | TextCraft | Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface. | [🔗](https://github.com/suncloudsmoon/TextCraft) |
 | Klarity | Turn your voice notes into blog posts, podcast scripts, and tweets instantly with AI | [🔗](https://klarity.pro/) |
 | VideoFaceSwap | Free Online Face Swapping Tool | [🔗](https://videofaceswap.io/) |
 | Scribbl | AI Meeting Notes | [🔗](https://www.scribbl.co) |
 | Convo | AI meeting copilot that gives you real-time suggestions, talking points, and answers during live calls | [🔗](https://www.itsconvo.com) |
+| Chat Organizer | Free Chrome extension that auto-sorts Claude.ai and ChatGPT chats into projects in one click, using keyword matching and AI | [🔗](https://chromewebstore.google.com/detail/bipbaacophbcpboieghjoigjlbemchcm) |
 | Voice Command | VOICE COMMANDS and VOICE TYPING anywhere on the web | [🔗](https://myextension.store/voice-command/) |
 | YobiYoba | Yobiyoba offers advanced speech-to-text services and an API for automatic transcription, real-time audio processing, audio-text alignment, and lexicon enhancement, complemented by a powerful and intuitive editor for seamless transcription refinement. | [🔗](https://www.yobiyoba.com/en/)
 | Bricks | The AI Spreadsheet We've All Been Waiting For | [🔗](https://www.thebricks.com/) |
@@ -528,6 +555,7 @@ Curated list of top AI Tools.
 | Video Transcriber | Transcribe Video to Text Online Free | [🔗](https://videotranscriber.ai/) |
 | Audio Converter | Convert Audio to Text Online Free | [🔗](https://audioconverter.ai/) |
 | TikTok Transcript | Extract TikTok subtitles and download transcripts in SRT or TXT. | [🔗](https://tiktoktranscript.org/) |
+| Videosays | Turn public social video links into transcripts and timestamped subtitles | [🔗](https://videosays.com/) |
 | My Passion AI | AI-powered quiz to find your passion career path | [🔗](https://mypassion.ai) |
 | Worklytics | Analytics on AI and Productivity | [🔗](https://www.worklytics.co/) |
 | Voibe | Fast, private, on device AI voice dictation app for Mac | [🔗](https://www.getvoibe.com) |
@@ -558,6 +586,7 @@ Curated list of top AI Tools.
 | Metaphor | a system to search the internet with large language models | [🔗](https://metaphor.systems/)|
 | Rewind | search engine for your life | [🔗](https://www.rewind.ai/)|
 | You | AI powered search engine | [🔗](https://you.com/apps/discover)|
+| [SerpBase](https://serpbase.dev) | Google Search Results API for developers and AI agents | [🔗](https://serpbase.dev) |
 | muse.ai | video content search and conversational assistant | [🔗](https://muse.ai/) |
 | Refinder AI | AI-powered universal search and assistant for work| [🔗](https://refinder.ai/)|
 | Hika AI| AI search for deeper thinking, not just find answers | [🔗](https://www.hika.fyi)|
@@ -606,6 +635,7 @@ Curated list of top AI Tools.
 | Rosie | AI Phone Answering Service | [🔗](https://heyrosie.com/) |
 | Vidocu | Turn screen recordings into professional videos and documentation | [🔗](https://vidocu.ai/) |
 | AnveVoice | AI voice agent for websites — trains on your content, navigates pages, fills forms, books appointments in 50+ languages with <700ms latency | [🔗](https://anvevoice.app) |
+| Hellomatik | AI agent platform that turns company knowledge into agents that answer, sell and book across WhatsApp, email and web. | [🔗](https://hellomatik.com) |
 
 ## Phone Calls
 
@@ -621,6 +651,7 @@ Curated list of top AI Tools.
 | Candor | AI-Powered 360-Degree Feedback | [🔗](https://www.candor.so/) |
 | SimplePerf | A simple, guided 360° performance review tool made for small teams | [🔗](https://buddieshr.com/simpleperf) |
 | AI Dev Jobs | AI/ML job board with public REST API for programmatic job search | [🔗](https://aidevboard.com)|
+| Resume Roaster | AI-powered resume critique with ATS scoring - upload your resume, get brutally honest feedback and keyword gap analysis against any job description. | [🔗](https://resume.roastlabai.com) |
 
 ## Others
 
@@ -691,6 +722,8 @@ Curated list of top AI Tools.
 | CitizenCY | Cypriot Citizenship & Residency, made simple. |[🔗](https://societates-civis.com/citizency)|
 | Locus | AI-powered logistics platform for last-mile delivery & dispatch. |[🔗](https://locus.sh/)|
 | TaroMind AI | Free AI-guided tarot tools for structured self-reflection, including one-card and three-card yes-or-no readings. | [🔗](https://taromindai.com) |
+| Image Translate AI  | Image Translate AI - Instant Image Translate for 200+ Languages |[🔗](https://imagetranslateai.org/)|
+| Tree Identifier  | Upload a photo of a leaf, bark, flower, fruit, or the full tree and get an AI-powered identification with clear field-guide notes. |[🔗](https://treeidentifier.org/)|
 
 ## Contributors 😍
 
