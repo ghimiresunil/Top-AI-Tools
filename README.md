@@ -475,6 +475,7 @@ Curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | Tudo | AI task manager for iPhone that turns voice notes, screenshots, and text into organized tasks and plans. | [🔗](https://blynkai.app/tudo/) |
 | Remio | Local-first AI memory and knowledge base that parses files, webpages, recordings, emails, and notes into local indexes for faster personal-context retrieval | [🔗](https://remio.ai/) |
+| Orkas | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat | [🔗](https://orkas.ai/?source=gh_topaitools) |
 | GPT for Sheets and Docs | integrate GPT in your everyday tools | [🔗](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) |
 | GPT for Sheets | AI for Google Sheets to generate formulas, classify rows, translate content, and automate spreadsheet workflows at scale. | [🔗](https://docgpt.ai/gpt-for-sheets) |
 | SummaryTube | Youtube Video Summarizer with AI, extract transcripts & key moments | [🔗](https://summarytube.com/) |
