@@ -583,6 +583,7 @@ Curated list of top AI Tools.
 | Clipy | Free AI screen recorder — record and share an instant link, with an AI summary, searchable transcript, and auto-chapters on every recording; no signup required to watch | [🔗](https://clipy.online/?ref=Top-AI-Tools) |
 | FixRAgent | AI visual triage for property managers. Stop blind service calls | [🔗](https://fixragent.com/) |
 | Sistava | Hire AI employees to run your entire business, from sales and marketing, to customer support | [🔗](https://sistava.com) |
+| AI Dictation | Open-source voice typing with offline recognition on supported devices and optional cleanup | [🔗](https://aidictation.com/) |
 
 ## Search Engines & Tools
 
