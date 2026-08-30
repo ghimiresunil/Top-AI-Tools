@@ -475,6 +475,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| BrandQuill | Turn ChatGPT and other AI responses into branded, editable Word documents using your own DOCX or DOTX template | [🔗](https://brandquill.app/?utm_source=github&utm_medium=directory&utm_campaign=top_ai_tools) |
 | Tudo | AI task manager for iPhone that turns voice notes, screenshots, and text into organized tasks and plans. | [🔗](https://blynkai.app/tudo/) |
 | Remio | Local-first AI memory and knowledge base that parses files, webpages, recordings, emails, and notes into local indexes for faster personal-context retrieval | [🔗](https://remio.ai/) |
 | Orkas | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat | [🔗](https://orkas.ai/?source=gh_topaitools) |
