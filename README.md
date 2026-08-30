@@ -284,6 +284,7 @@ Curated list of top AI Tools.
 | Read PDF Aloud | Let AI Read Your PDF Aloud with Natural Voice | [🔗](https://readpdfaloud.com/) |
 
 | AIHumanLove | Free AI tools directory with 1,500+ tools, free AI courses for beginners, a 175+ prompt library, and 37 interactive experiments | [🔗](https://aihumanlove.com) |
+| LearnClash | AI-powered 1v1 quiz duels on any topic, with an explanation after every answer and Elo-based matching | [🔗](https://learnclash.com) |
 ## Developer
 
 | Tools | Used for | Link |
