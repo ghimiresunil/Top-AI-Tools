@@ -38,6 +38,7 @@ Curated list of top AI Tools.
 | FaceAI | Free Online AI Face Swap (No Sign Up) | [🔗](https://faceai.art/)|
 | NanoPhoto.AI | Making AI photo editing simple and efficient | [🔗](https://nanophoto.ai)|
 | PortraitLabs.AI | Take photos of yourself using AI and edit images easily | [🔗](https://portraitlabs.ai)|
+| Remix Camera | Generate consistent AI portraits from reference photos with reusable characters and multiple image models | [🔗](https://remix.camera) |
 | AIvector | Not Just Converter: AI Vector Engine for Perfect SVG. | [🔗](https://aivector.ai/)
 | FigPad | Create scientific figures from prompts, sketches, and reference images with editable SVG/PPTX export | [🔗](https://figpad.ai/) |
 | AI Magic Tools (by runway) | creativity tools to edit and generate content | [🔗](https://runwayml.com/ai-magic-tools/)|
