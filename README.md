@@ -379,6 +379,7 @@ Curated list of top AI Tools.
 | Seele AI | No-code AI game maker for creating playable 2D/3D games from text prompts | [🔗](https://www.seeles.ai/)|
 | Scenario | creating AI-generated game assets | [🔗](https://www.scenario.gg/)|
 | MeshGPT | AI-Powered 3D Model Generation & Optimization | [🔗](https://meshgpt.io/)|
+| [minimax h3](https://minimax3.org) | AI video generator using text, images, video, and audio references with 768p/2K output | [🔗](https://minimax3.org) |
 
 ## Sales/Marketing
 
