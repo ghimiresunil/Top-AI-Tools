@@ -366,6 +366,7 @@ Curated list of top AI Tools.
 | Lucebox | The computer for local AI |[🔗](https://www.lucebox.com/)|
 | StackPicks | Curated directory of open-source dev tools and AI products with editorial takes — what each does, the honest tradeoff, who should skip. ~200 picks. | [🔗](https://stackpicks.dev) |
 | Tura | Local-first open-source coding agent with CLI, TUI, and GUI interfaces, built-in verification, and reproducible public benchmarks. | [🔗](https://github.com/Tura-AI/tura) |
+| XiuRouter | Hosted multi-model API with native OpenAI Responses and Chat Completions, Anthropic Messages, Gemini GenerateContent, scoped keys, and request-level usage and cost records. | [🔗](https://router.xiu.ai/) |
 
 
 ## Gaming, 3D, Motion
