@@ -88,6 +88,7 @@ Curated list of top AI Tools.
 | videos.social | Turns blogs, PDFs, and prompts into editable faceless videos. | [🔗](https://videos.social/?utm_source=ghimiresunil-top-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) |
 | OpenCreator | All-in-one AI workspace for creating product visuals with workflow automation | [🔗](https://opencreator.ai/)
 | Somny | AI character generator for creating personalized images and videos from your own likeness. | [🔗](https://www.somny.com/)
+| SEELE TV | Cinematic AI video studio with scene consistency and shot-level camera control. | [🔗](https://seele.tv/) |
 | MaxVideoAI | Multi-engine AI video generation hub (Sora, Veo, Pika, Kling, LTX & more) with pay-as-you-go credits. | [🔗](https://maxvideoai.com) |
 | PVID | Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 with 100 free credits | [🔗](http://pvid.app/) |
 | nearerai | AI Photo Restoration: Revive Your Cherished Memories. | [🔗](https://nearerai.com/) |
