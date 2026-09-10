@@ -423,6 +423,7 @@ Curated list of top AI Tools.
 | Shosay | AI Powered Free Social Proof Management - Testimonials, References, Recommendations | [🔗](https://www.shosay.com/) |
 | OnRanko | 400+ AI Tools and AI Agents for digital marketing | [🔗](https://www.onranko.com/) |
 | PostPuma | Social media management platform | [🔗](https://postpuma.com/) |
+| SocialEcho | AI-assisted social media publishing, engagement, listening, and analytics workspace | [🔗](https://www.socialecho.net/) |
 | Make It Quick | Create instant AI videos from just a few sentences | [🔗](https://makeitquick.ai/) |
 | SEO Katana | SEO Content Generator That Knows What Works For Your Competitors | [🔗](https://seokatana.com/) |
 | KarmaLinks | AI backlink exchange platform for B2B companies | [🔗](https://karmalinks.io/) |
