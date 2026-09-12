@@ -46,6 +46,7 @@ Curated list of top AI Tools.
 | IRIS Clarity Studio | AI 驱动的在线语音隔离 / 降噪工具 | [🔗](https://studio.iris.audio/) |
 | Human Generator | AI 生成人物照片 | [🔗](https://generated.photos/human-generator) |
 | Let's Enhance | 图像增强与放大，不损失质量 | [🔗](https://letsenhance.io/) |
+| AI Image | 在浏览器中根据文本生成图像、编辑现有图片和探索不同视觉风格。 | [AI Image](https://aiimage.com) |
 
 ## 生产力 / Productivity
 
