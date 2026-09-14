@@ -478,6 +478,7 @@ Curated list of top AI Tools.
 | MyndField | World's First Decision Engine | [🔗](https://myndfield.ai/) |
 | Tuku | TikTok comment-to-DM automation for SEA creators & merchants. | [🔗](https://tuku.co/) |
 | Flypost | AI LinkedIn content studio — turns blogs, videos & docs into on-brand LinkedIn posts, carousels & articles | [🔗](https://www.flypost.io/) |
+| LinkedGrow | Open source AI agents that find your leads and clients on LinkedIn, on a server you own | [🔗](https://linkedgrow.ai) |
 
 
 ## Productivity
