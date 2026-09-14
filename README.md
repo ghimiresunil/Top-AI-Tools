@@ -288,6 +288,7 @@ Curated list of top AI Tools.
 | English Speaking App | Live AI English speaking practice for interviews, meetings, and everyday conversations, with a free 30-second speaking test | [🔗](https://englishspeakingapp.com/english-speaking-practice) |
 | MMIPractice.org | Free practice questions and AI coaching for MMI prep | [🔗](https://www.mmipractice.org/) |
 | Read PDF Aloud | Let AI Read Your PDF Aloud with Natural Voice | [🔗](https://readpdfaloud.com/) |
+| LearnClash | AI-powered 1v1 quiz duels on any topic, with an explanation after every answer and Elo-based matching | [🔗](https://learnclash.com) |
 
 | AIHumanLove | Free AI tools directory with 1,500+ tools, free AI courses for beginners, a 175+ prompt library, and 37 interactive experiments | [🔗](https://aihumanlove.com) |
 ## Developer
