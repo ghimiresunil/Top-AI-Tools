@@ -595,6 +595,7 @@ Curated list of top AI Tools.
 | MindMap AI |  AI tool to turn text, PDFs, videos, audio, images, and research into structured mind maps with summarization and idea expansion | [🔗](https://mindmapai.app/text-summarizer) |
 | Burn 451 | AI-native read-later with 24h burn timer; saved articles become a permanent knowledge vault your AI agents can query via MCP | [🔗](https://burn451.cloud/?ref=top-ai-tools) |
 | Podtastic | Podtastic is a podcast player powered by Pod-telligence | [🔗](https://podtastic.app/) |
+| AI Tools Radar | AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news and newsletter issues | [🔗](https://aitoolsradar.com) |
 | Video to Text | Turn any video or audio into clean text in minutes | [🔗](https://video2text.net/) |
 | Clipy | Free AI screen recorder — record and share an instant link, with an AI summary, searchable transcript, and auto-chapters on every recording; no signup required to watch | [🔗](https://clipy.online/?ref=Top-AI-Tools) |
 | FixRAgent | AI visual triage for property managers. Stop blind service calls | [🔗](https://fixragent.com/) |
