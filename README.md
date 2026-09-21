@@ -601,6 +601,7 @@ Curated list of top AI Tools.
 | Sistava | Hire AI employees to run your entire business, from sales and marketing, to customer support | [🔗](https://sistava.com) |
 | TeamBrain | Shared workspace for AI teams | [🔗](https://teambrain.co/) |
 | AI Dictation | Open-source voice typing with offline recognition on supported devices and optional cleanup | [🔗](https://aidictation.com/) |
+| getyoutubetranscript.com | Fetch YouTube video transcripts, search videos/channels, and extract playlist data via a free API and MCP server - no card required for the free tier. | [🔗](https://getyoutubetranscript.com) |
 
 ## Search Engines & Tools
 
