@@ -21,7 +21,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
-| [Wan3Video](https://wan3video.co) | Independent browser-based Wan 3.0 text-to-video and image-to-video generator with prompt guides and model comparisons | Free + Premium |
+| Wan3Video | Independent browser-based Wan 3.0 text-to-video and image-to-video generator with prompt guides and model comparisons | Free + Premium |
 | DoreArt AI | AI music generator for creating original songs, vocals, lyrics, and instrumental tracks from text prompts | [🔗](https://doreartai.com) |
 | AI Dog Generator | Create AI-generated dog photos or transform your own dog into a variety of artistic styles | [🔗](https://aidoggenerator.com) |
 | [NanoBanana2](https://nanobanana2.com) | Free AI image generator with trend-aware templates, multiple AI models, and advanced editing tools | Free + Premium |
@@ -391,6 +391,7 @@ Curated list of top AI Tools.
 | Scenario | creating AI-generated game assets | [🔗](https://www.scenario.gg/)|
 | MeshGPT | AI-Powered 3D Model Generation & Optimization | [🔗](https://meshgpt.io/)|
 | minimax h3 | AI video generator using text, images, video, and audio references with 768p/2K output | [🔗](https://minimax3.org) |
+| Image3D AI | All-in-one AI 3D platform integrating multiple AI 3D models with image-to-3D generation, AI texturing, retopology, UV unwrapping, and model splitting tools | [🔗](https://www.aiimageto3d.com/) |
 | Summoned Games | Build browser games by describing them to an MCP coding agent; hosting, leaderboards, saves and multiplayer are included | [🔗](https://summoned.games)|
 
 ## Sales/Marketing
