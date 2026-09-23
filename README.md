@@ -68,6 +68,7 @@ Curated list of top AI Tools.
 | Woopicx | AI-powered image search engine with 100,000+ free icons, illustrations, and 3D assets | [🔗](https://woopicx.com/) |
 | Jamorphosia | AI-Powered Instrument remover and isolation | [🔗](https://www.jamorphosia.com/) |
 | Podcast Clip Maker | Automatically generate podcast clips from long-form video and audio | [🔗](https://recast.studio/tools/podcast-clip-maker) |
+| shortshort | Turns one long video (talk, podcast, course) into vertical 9:16 shorts with word-by-word captions; 60 free credits at sign-up, no card | [🔗](https://www.shortshort.io) |
 | Black Headshots | AI headshots generator for black professionals | [🔗](https://www.blackheadshots.com) |
 | AISaver | Collection of AI Powered Video and Photo Tools | [🔗](https://aisaver.io) |
 | AI Watermark Remover | Remove watermarks from images and videos | [🔗](https://aiwatermarkremover.io/) |
