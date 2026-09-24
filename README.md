@@ -754,6 +754,7 @@ Curated list of top AI Tools.
 | TaroMind AI | Free AI-guided tarot tools for structured self-reflection, including one-card and three-card yes-or-no readings. | [🔗](https://taromindai.com) |
 | Image Translate AI  | Image Translate AI - Instant Image Translate for 200+ Languages |[🔗](https://imagetranslateai.org/)|
 | Tree Identifier  | Upload a photo of a leaf, bark, flower, fruit, or the full tree and get an AI-powered identification with clear field-guide notes. |[🔗](https://treeidentifier.org/)|
+| HelloCounsel | AI voice agents that answer calls and log every note in your CMS |[🔗](https://www.hellocounsel.ai/)|
 
 ## Contributors 😍
 
