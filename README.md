@@ -390,6 +390,7 @@ Curated list of top AI Tools.
 | Seele AI | No-code AI game maker for creating playable 2D/3D games from text prompts | [🔗](https://www.seeles.ai/)|
 | Scenario | creating AI-generated game assets | [🔗](https://www.scenario.gg/)|
 | MeshGPT | AI-Powered 3D Model Generation & Optimization | [🔗](https://meshgpt.io/)|
+| [wan 3.0 video](https://wan3pro.video) | Hosted AI video generator for the open Wan series, supporting text-to-video and image-to-video workflows | [🔗](https://wan3pro.video) |
 | [seedance 2.5 free](https://aiseedance25.app) | AI video generator for text, image, video, and audio references, with 480p/720p output and 4–30s duration | [🔗](https://aiseedance25.app) |
 | minimax h3 | AI video generator using text, images, video, and audio references with 768p/2K output | [🔗](https://minimax3.org) |
 | Image3D AI | All-in-one AI 3D platform integrating multiple AI 3D models with image-to-3D generation, AI texturing, retopology, UV unwrapping, and model splitting tools | [🔗](https://www.aiimageto3d.com/) |
