@@ -267,6 +267,7 @@ Curated list of top AI Tools.
 | ClassX | AI for the classroom | [🔗](https://classx.org/) |
 | Homeworkify | AI-powered homework assistant helping students learn faster | [🔗](https://homeworkify.app/) |
 | Summara | YouTube AI Summary and Transcript widget | [🔗](https://summara.io/) |
+| SummarizAI | Chrome extension for on-page YouTube summary, chapters, chat, and Study flashcards | [🔗](https://summarizai.ink) |
 | Mathos AI | The best AI math solver, calculator and tutor | [🔗](https://www.mathgptpro.com/) |
 | ExamGPT | AI Assessment Platform | [🔗](https://excelas.ai/) |
 | PDFPeer | Chat with any PDF in seconds! |  [🔗](https://pdfpeer.com/) |
