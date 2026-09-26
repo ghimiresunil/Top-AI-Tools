@@ -642,6 +642,7 @@ Curated list of top AI Tools.
 | CiteMe | AI-powered academic citation generator. Searches 11+ databases and formats references in 40+ citation styles. | [🔗](https://citeme.app)|
 | Citely | AI citation checker and academic source finder for verifying references and claims. | [🔗](https://citely.ai/)|
 | 8bit Concepts | Free AI research papers on enterprise AI adoption and governance | [🔗](https://8bitconcepts.com)|
+| Jev Social | Local-first AI agent for researching Instagram, TikTok, and LinkedIn with typed Jev routing, real-browser evidence, and cited reports | [🔗](https://github.com/socai-io/jev-social) |
 
 ## Geospatial
 
