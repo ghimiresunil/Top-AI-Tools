@@ -488,6 +488,7 @@ Curated list of top AI Tools.
 | MyndField | World's First Decision Engine | [🔗](https://myndfield.ai/) |
 | Tuku | TikTok comment-to-DM automation for SEA creators & merchants. | [🔗](https://tuku.co/) |
 | Flypost | AI LinkedIn content studio — turns blogs, videos & docs into on-brand LinkedIn posts, carousels & articles | [🔗](https://www.flypost.io/) |
+| Mutator | Turns a product photo or website into short TikTok and Instagram videos, slideshows and product photos, and schedules them to your own accounts | [🔗](https://mutator.app/) |
 
 
 ## Productivity
