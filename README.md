@@ -21,6 +21,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| Wan3Video | Independent browser-based Wan 3.0 text-to-video and image-to-video generator with prompt guides and model comparisons | Free + Premium |
 | DoreArt AI | AI music generator for creating original songs, vocals, lyrics, and instrumental tracks from text prompts | [🔗](https://doreartai.com) |
 | AI Dog Generator | Create AI-generated dog photos or transform your own dog into a variety of artistic styles | [🔗](https://aidoggenerator.com) |
 | [NanoBanana2](https://nanobanana2.com) | Free AI image generator with trend-aware templates, multiple AI models, and advanced editing tools | Free + Premium |
@@ -38,6 +39,8 @@ Curated list of top AI Tools.
 | FaceAI | Free Online AI Face Swap (No Sign Up) | [🔗](https://faceai.art/)|
 | NanoPhoto.AI | Making AI photo editing simple and efficient | [🔗](https://nanophoto.ai)|
 | PortraitLabs.AI | Take photos of yourself using AI and edit images easily | [🔗](https://portraitlabs.ai)|
+| Lunalisa | AI creative workspace for product photos, marketing posters, and white-background listing images, with image-to-video across 13 image and 22 video models | [🔗](https://luna-lisa.art)|
+| Remix Camera | Generate consistent AI portraits from reference photos with reusable characters and multiple image models | [🔗](https://remix.camera) |
 | AIvector | Not Just Converter: AI Vector Engine for Perfect SVG. | [🔗](https://aivector.ai/)
 | FigPad | Create scientific figures from prompts, sketches, and reference images with editable SVG/PPTX export | [🔗](https://figpad.ai/) |
 | AI Magic Tools (by runway) | creativity tools to edit and generate content | [🔗](https://runwayml.com/ai-magic-tools/)|
@@ -88,6 +91,7 @@ Curated list of top AI Tools.
 | videos.social | Turns blogs, PDFs, and prompts into editable faceless videos. | [🔗](https://videos.social/?utm_source=ghimiresunil-top-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) |
 | OpenCreator | All-in-one AI workspace for creating product visuals with workflow automation | [🔗](https://opencreator.ai/)
 | Somny | AI character generator for creating personalized images and videos from your own likeness. | [🔗](https://www.somny.com/)
+| SEELE TV | Cinematic AI video studio with scene consistency and shot-level camera control. | [🔗](https://seele.tv/) |
 | MaxVideoAI | Multi-engine AI video generation hub (Sora, Veo, Pika, Kling, LTX & more) with pay-as-you-go credits. | [🔗](https://maxvideoai.com) |
 | PVID | Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 with 100 free credits | [🔗](http://pvid.app/) |
 | nearerai | AI Photo Restoration: Revive Your Cherished Memories. | [🔗](https://nearerai.com/) |
@@ -212,6 +216,7 @@ Curated list of top AI Tools.
 | Zolltarifnummer.com | Find and verify the right 11-digit German customs tariff number | [🔗](https://www.zolltarifnummer.com/)|
 | Shopme Agent | A next-gen shopping assistant that helps you find, compare, and buy products across Chinese and global platforms, including factory-direct sources, all in one place. | [🔗](https://shopmeagent.com/)|
 | Picoko | Create studio-quality product images in seconds,Instantly generate model shots, lifestyle scenes & more  | [🔗](https://www.picoko.com/) |
+| DressMeAI | AI virtual try-on that shows how an outfit looks on your body from a user photo and garment image, priced per try-on with no subscription | [🔗](https://dressmeai.com/) |
 | ECFotos | AI photo editor for e-commerce product images, listing visuals, background removal, upscaling, collage making, and image editing workflows | [🔗](https://ecfotos.com/) |
 
 ## Finance
@@ -225,6 +230,7 @@ Curated list of top AI Tools.
 | PayCalculator | PayCalculator.ai instantly calculates take-home pay with tax breakdowns | [🔗](https://paycalculator.ai/) |
 | TaxTools AI | AI Tax Tools | [🔗](https://taxtools.ai/cn) |
 | PolyMind | Real-time Polymarket prediction market alerts with multi-AI analysis. 12 signal types: whale bets, volume spikes, coordinated wallets and more. | [🔗](https://polymi
+| Bank Statement Converter AI | Bank Statement Converter AI: Convert PDF to Excel | [🔗](https://bankstatement-wizard.net/bank-statement-converter-ai) |
 
 ... [OUTPUT TRUNCATED - 17308 chars omitted out of 67308 total] ...
 
@@ -247,6 +253,7 @@ Curated list of top AI Tools.
 | MathSolver | Use AI to solve math problems and study | [🔗](https://www.mathsolver.top/) |
 | ResumeDive | A resume boosting service using AI | [🔗](https://resumedive.com) |
 | TailorMyJob | AI-powered resume analysis platform using Claude 4.6 for ATS scoring, keyword optimization, and personalized suggestions | [🔗](https://tailormyjob.com) |
+| ResumeAI | Free ATS resume checker (3/day no account, 10/day free account) plus open State of ATS 2026 dataset (738 employers, 704 portal-verified) | [🔗](https://withresumeai.com/) |
 | Exam Samurai | AI Exam Generator | [🔗](https://www.examsamur.ai/) |
 | iColoring | Free AI Coloring Pages Generator | [🔗](https://icoloring.ai) |
 | Remusic | AI Music Generator and Music Learning Platform Online Free | [🔗](https://remusic.ai/en) |
@@ -282,8 +289,10 @@ Curated list of top AI Tools.
 | Socratic App | AI homework helper that teaches students like a tutor | [🔗](https://socraticapp.com/) |
 | Lorea | The AI Study Game Generator | [🔗](https://www.lorea.app/) |
 | Fluenly | AI Language Learning App with Goal Driven Speaking Scenarios | [🔗](https://fluenly.ai/) |
+| English Speaking App | Live AI English speaking practice for interviews, meetings, and everyday conversations, with a free 30-second speaking test | [🔗](https://englishspeakingapp.com/english-speaking-practice) |
 | MMIPractice.org | Free practice questions and AI coaching for MMI prep | [🔗](https://www.mmipractice.org/) |
 | Read PDF Aloud | Let AI Read Your PDF Aloud with Natural Voice | [🔗](https://readpdfaloud.com/) |
+| LearnClash | AI-powered 1v1 quiz duels on any topic, with an explanation after every answer and Elo-based matching | [🔗](https://learnclash.com) |
 
 | AIHumanLove | Free AI tools directory with 1,500+ tools, free AI courses for beginners, a 175+ prompt library, and 37 interactive experiments | [🔗](https://aihumanlove.com) |
 ## Developer
@@ -367,6 +376,7 @@ Curated list of top AI Tools.
 | Lucebox | The computer for local AI |[🔗](https://www.lucebox.com/)|
 | StackPicks | Curated directory of open-source dev tools and AI products with editorial takes — what each does, the honest tradeoff, who should skip. ~200 picks. | [🔗](https://stackpicks.dev) |
 | Tura | Local-first open-source coding agent with CLI, TUI, and GUI interfaces, built-in verification, and reproducible public benchmarks. | [🔗](https://github.com/Tura-AI/tura) |
+| XiuRouter | Hosted multi-model API with native OpenAI Responses and Chat Completions, Anthropic Messages, Gemini GenerateContent, scoped keys, and request-level usage and cost records. | [🔗](https://router.xiu.ai/) |
 
 
 ## Gaming, 3D, Motion
@@ -381,6 +391,10 @@ Curated list of top AI Tools.
 | Seele AI | No-code AI game maker for creating playable 2D/3D games from text prompts | [🔗](https://www.seeles.ai/)|
 | Scenario | creating AI-generated game assets | [🔗](https://www.scenario.gg/)|
 | MeshGPT | AI-Powered 3D Model Generation & Optimization | [🔗](https://meshgpt.io/)|
+| [wan 3.0 video](https://wan3pro.video) | Hosted AI video generator for the open Wan series, supporting text-to-video and image-to-video workflows | [🔗](https://wan3pro.video) |
+| [seedance 2.5 free](https://aiseedance25.app) | AI video generator for text, image, video, and audio references, with 480p/720p output and 4–30s duration | [🔗](https://aiseedance25.app) |
+| minimax h3 | AI video generator using text, images, video, and audio references with 768p/2K output | [🔗](https://minimax3.org) |
+| Image3D AI | All-in-one AI 3D platform integrating multiple AI 3D models with image-to-3D generation, AI texturing, retopology, UV unwrapping, and model splitting tools | [🔗](https://www.aiimageto3d.com/) |
 | Summoned Games | Build browser games by describing them to an MCP coding agent; hosting, leaderboards, saves and multiplayer are included | [🔗](https://summoned.games)|
 
 ## Sales/Marketing
@@ -475,6 +489,8 @@ Curated list of top AI Tools.
 | Tuku | TikTok comment-to-DM automation for SEA creators & merchants. | [🔗](https://tuku.co/) |
 | Flypost | AI LinkedIn content studio — turns blogs, videos & docs into on-brand LinkedIn posts, carousels & articles | [🔗](https://www.flypost.io/) |
 | LinkedGrow | Open source AI agents that find your leads and clients on LinkedIn, on a server you own | [🔗](https://linkedgrow.ai) |
+| BigPipe | AI that turns a marketing agency's expertise into a self-running company, building and operating its website, product, billing, and back office on autopilot. | [🔗](https://bigpipe.agency) |
+| LLM Pulse | Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines. | [🔗](https://llmpulse.ai/) |
 
 
 ## Productivity
@@ -590,6 +606,7 @@ Curated list of top AI Tools.
 | Clipy | Free AI screen recorder — record and share an instant link, with an AI summary, searchable transcript, and auto-chapters on every recording; no signup required to watch | [🔗](https://clipy.online/?ref=Top-AI-Tools) |
 | FixRAgent | AI visual triage for property managers. Stop blind service calls | [🔗](https://fixragent.com/) |
 | Sistava | Hire AI employees to run your entire business, from sales and marketing, to customer support | [🔗](https://sistava.com) |
+| TeamBrain | Shared workspace for AI teams | [🔗](https://teambrain.co/) |
 | AI Dictation | Open-source voice typing with offline recognition on supported devices and optional cleanup | [🔗](https://aidictation.com/) |
 
 ## Search Engines & Tools
@@ -741,6 +758,7 @@ Curated list of top AI Tools.
 | TaroMind AI | Free AI-guided tarot tools for structured self-reflection, including one-card and three-card yes-or-no readings. | [🔗](https://taromindai.com) |
 | Image Translate AI  | Image Translate AI - Instant Image Translate for 200+ Languages |[🔗](https://imagetranslateai.org/)|
 | Tree Identifier  | Upload a photo of a leaf, bark, flower, fruit, or the full tree and get an AI-powered identification with clear field-guide notes. |[🔗](https://treeidentifier.org/)|
+| Siteefy | Discover and compare digital tools by category and use case | [🔗](https://siteefy.com/) |
 
 ## Contributors 😍
 
