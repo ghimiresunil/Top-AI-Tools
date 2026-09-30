@@ -60,6 +60,7 @@ Curated list of top AI Tools.
 | PhotoRestore.ai | AI-powered old photo restoration — repairs scratches, fading, tears, and colorizes B&W photos | [🔗](https://photorestore.ai) |
 | The Multiverse AI | Turn your selfies into professional headshots| [🔗]((https://themultiverse.ai/)) |
 | StockPhotoAI.net | Great stock photos, made for you. | [🔗](https://www.stockphotoai.net/?ref=Top-AI-Tools) |
+| Leakly | AI-powered conversion audit that finds revenue leaks on your website and prioritizes what to fix. | [🔗](https://leakly.ai/) |
 | FairyTailAI | Personalized bedtime story generator | [🔗](https://fairytailai.com/) |
 | WizGenerator Story Generator | Free AI story generator with customizable genre, tone, characters, and plot details; no sign-up required | [🔗](https://wizgenerator.com/tools/story-generator/) |
 | eBank | eBank is a AI Art Generator and AI Art Search Engine where you can search millions of community AI Artworks. |   [🔗](https://eBank.nz)    |
