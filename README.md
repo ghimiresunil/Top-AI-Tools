@@ -206,6 +206,7 @@ Curated list of top AI Tools.
 | free-background-remover.com | Removing image backgrounds in the browser with AI, no upload, no sign-up, no watermark | [🔗](https://free-background-remover.com)|
 | PartyInvitation.ai | Free AI party invitation card generator with online RSVP tracking for 38+ event types | [🔗](https://partyinvitation.ai/)|
 | voxelyo | AI photo enhancement + virtual twilight conversion for Airbnb, Vrbo, and real-estate listing photos | [🔗](https://voxelyo.com)|
+| Tesla Wrap Generator | Turn a prompt or photo into a Tesla Paint Shop custom wrap for your exact model, preview it in 3D and download the PNG. | [🔗](https://teslawrapgenerator.com/)|
 
 ## E-commerce
 
