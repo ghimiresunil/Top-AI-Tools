@@ -648,6 +648,7 @@ Curated list of top AI Tools.
 | CiteMe | AI-powered academic citation generator. Searches 11+ databases and formats references in 40+ citation styles. | [🔗](https://citeme.app)|
 | Citely | AI citation checker and academic source finder for verifying references and claims. | [🔗](https://citely.ai/)|
 | 8bit Concepts | Free AI research papers on enterprise AI adoption and governance | [🔗](https://8bitconcepts.com)|
+| Court Rules | Free U.S. court rules, judge standing orders and holidays, with an MCP server for AI assistants | [🔗](https://www.courtrules.app/) |
 
 ## Geospatial
 
