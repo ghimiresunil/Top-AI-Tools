@@ -379,6 +379,7 @@ Curated list of top AI Tools.
 | Trackee | SEO & AI visibility, in one API |[🔗](https://www.trackee.dev/)|
 | YYLO | Open-source command-line orchestrator for coding agents with typed task, branch/worktree, and merge-queue workflows for receipt-backed repository changes. | [🔗](https://github.com/yylo-dev/yylo) |
 | XiuRouter | Hosted multi-model API with native OpenAI Responses and Chat Completions, Anthropic Messages, Gemini GenerateContent, scoped keys, and request-level usage and cost records. | [🔗](https://router.xiu.ai/) |
+| AI API Cost Calculator | Compare API prices for 40+ LLMs (OpenAI, Anthropic, Google, DeepSeek, xAI, Mistral) with cache and Batch discounts; reconciled daily, with a free JSON API. | [🔗](https://aicostcalc.net/) |
 
 
 ## Gaming, 3D, Motion
