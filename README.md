@@ -223,6 +223,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| InvoiceFlowAI | Open-source desktop invoice organizer for QQ/163 mailboxes with PDF/OFD/XML collection, OCR, human review, file organization, and Excel reimbursement summaries. | [🔗](https://www.orz.md/invoice-downloader/) |
 | GetCount | AI-powered accounting for small businesses | [🔗](https://getcount.com) |
 | Wallet Finder AI | Defi wallets and tokens analytics information | [🔗](https://www.walletfinder.ai/) |
 | Zola Analytics | Zola is an AI-powered financial data platform that transforms natural language queries into professional charts and reports in seconds. | [🔗](https://www.zolaanalytics.com/) |
