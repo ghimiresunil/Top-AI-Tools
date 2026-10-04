@@ -622,6 +622,7 @@ Curated list of top AI Tools.
 | Rewind | search engine for your life | [🔗](https://www.rewind.ai/)|
 | You | AI powered search engine | [🔗](https://you.com/apps/discover)|
 | [SerpBase](https://serpbase.dev) | Google Search Results API for developers and AI agents | [🔗](https://serpbase.dev) |
+| [Serply](https://serply.io) | Google Search, News and Scholar results API with an MCP server for AI agents | [🔗](https://serply.io) |
 | muse.ai | video content search and conversational assistant | [🔗](https://muse.ai/) |
 | Refinder AI | AI-powered universal search and assistant for work| [🔗](https://refinder.ai/)|
 | Hika AI| AI search for deeper thinking, not just find answers | [🔗](https://www.hika.fyi)|
