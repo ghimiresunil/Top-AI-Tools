@@ -230,6 +230,7 @@ Curated list of top AI Tools.
 | Salary Calculator | Salary-Calculator.ai helps you compare net salaries worldwide instantly | [🔗](https://salary-calculator.ai/) |
 | PayCalculator | PayCalculator.ai instantly calculates take-home pay with tax breakdowns | [🔗](https://paycalculator.ai/) |
 | TaxTools AI | AI Tax Tools | [🔗](https://taxtools.ai/cn) |
+| HostDeFi | Free multi-chain token risk scanner — instant on-chain safety grades for Solana and EVM tokens, plus x402 agent API | [🔗](https://hostdefi.com/scan) |
 | PolyMind | Real-time Polymarket prediction market alerts with multi-AI analysis. 12 signal types: whale bets, volume spikes, coordinated wallets and more. | [🔗](https://polymi
 | Bank Statement Converter AI | Bank Statement Converter AI: Convert PDF to Excel | [🔗](https://bankstatement-wizard.net/bank-statement-converter-ai) |
 
