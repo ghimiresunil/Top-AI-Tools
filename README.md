@@ -325,6 +325,7 @@ Curated list of top AI Tools.
 |AskCommand|Generate Unix commands from text automatically|[🔗](https://www.askcommand.cppexpert.online/)|
 | Shire | Open-source persistent workspaces for AI agent teams with inter-agent mailboxes, shared drive, and context preservation. Supports Claude Code, OpenCode, Pi Agent and more. | [🔗](https://github.com/victor36max/shire)|
 | Better Agent | Persistent workspace for Claude, Codex, and Gemini coding-agent sessions with delegation, parallel forks, approvals, and restart recovery. | [🔗](https://github.com/ofekron/better-agent)|
+| Tale | Open-source workspace where humans and configured AI agents share projects, tasks, files and instructions, with authenticated REST and deployment-scoped knowledge/automation MCP access. | [🔗](https://tale.dev) |
 | Shotstack Workflows | No-code, automation workflow tool for building Generative AI media applications |[🔗](https://shotstack.io/product/workflows/)|
 | text-generator.io AI Text Generator | Open Source Vision language models and web crawlers to understand any links in prompts given. API for developers and special support for AI autocomplete. | [🔗](https://text-generator.io) |
 | Code to Flow | Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly. | [🔗](https://codetoflow.com) |
