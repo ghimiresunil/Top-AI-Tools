@@ -376,6 +376,7 @@ Curated list of top AI Tools.
 | AI API Cost Calculator | Free tool to estimate and compare API token costs across 23 tools and 7 models .. | [🔗](https://aiagentsbuzz.com/tools/ai-cost-calculator/) |
 | agentskill.sh | Searchable directory of 100,000+ skills for AI coding agents (Claude Code, Cursor, Copilot) | [🔗](https://agentskill.sh)|
 | Tree Ring Memory | Local-first memory lifecycle framework for AI agents with Rust CLI, SQLite/FTS recall, audit, consolidation, and forgetting | [🔗](https://terminallylazy.github.io/Tree-Ring-Memory/) |
+| Hyperconsciousness | Developer-alpha Rust CLI and MCP server for encrypted, append-only agent notes with scoped, expiring access grants | [🔗](https://github.com/louis030195/hyperconsciousness) |
 | BoltShot | Website Screenshot API with OpenAI Integration to Support AI Analysis of Screenshot Taken |[🔗](https://www.boltshot.dev/)|
 | Lucebox | The computer for local AI |[🔗](https://www.lucebox.com/)|
 | StackPicks | Curated directory of open-source dev tools and AI products with editorial takes — what each does, the honest tradeoff, who should skip. ~200 picks. | [🔗](https://stackpicks.dev) |
