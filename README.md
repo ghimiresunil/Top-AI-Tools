@@ -124,7 +124,7 @@ Curated list of top AI Tools.
 | PixMira AI | AI photo editor and image generator for editing, generating, and transforming images with prompts. | [🔗](https://pixmira.ai) |
 | Picovix | Free AI consistent character & virtual model generator — keep the same face across unlimited scenes from one selfie, no signup | [🔗](https://www.picovix.app/) |
 | Faceless Reels | Turn one topic into a voiced, captioned faceless video for TikTok, Reels, and Shorts. | [🔗](https://facelessreels.video/) |
-
+| Kling4 | AI video generator offering free daily credits, text-to-video, image-to-video, and ready-to-use video prompts. | [🔗](https://kling40.app/) |
 ## Conversational AI
 
 | Tools | Used for | Link |
