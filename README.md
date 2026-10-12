@@ -499,6 +499,7 @@ Curated list of top AI Tools.
 | LinkedGrow | Open source AI agents that find your leads and clients on LinkedIn, on a server you own | [🔗](https://linkedgrow.ai) |
 | BigPipe | AI that turns a marketing agency's expertise into a self-running company, building and operating its website, product, billing, and back office on autopilot. | [🔗](https://bigpipe.agency) |
 | LLM Pulse | Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines. | [🔗](https://llmpulse.ai/) |
+| Kamply | Mac desktop app with a marketing crew that produces social posts, carousels, video reels, ads and decks in the brand's own look. Paid, and it needs your own Claude Code or Codex plan. | [🔗](https://kamplyapp.com) |
 
 
 ## Productivity
