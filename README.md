@@ -385,6 +385,7 @@ Curated list of top AI Tools.
 | XiuRouter | Hosted multi-model API with native OpenAI Responses and Chat Completions, Anthropic Messages, Gemini GenerateContent, scoped keys, and request-level usage and cost records. | [🔗](https://router.xiu.ai/) |
 | AI API Cost Calculator | Compare API prices for 40+ LLMs (OpenAI, Anthropic, Google, DeepSeek, xAI, Mistral) with cache and Batch discounts; reconciled daily, with a free JSON API. | [🔗](https://aicostcalc.net/) |
 | Rumoro | Social listening API and MCP server for AI agents. Monitors 16 sources for brand, competitor and topic mentions and scores each for relevance, sentiment and intent. | [🔗](https://rumoro.dev/) |
+| looot | Data API and remote MCP server for AI agents. One API key and prepaid balance for about 2,500 endpoints: work email, phone, company enrichment, Google search results, web pages. | [🔗](https://looot.ai/) |
 
 
 ## Gaming, 3D, Motion
