@@ -125,6 +125,8 @@ Curated list of top AI Tools.
 | Picovix | Free AI consistent character & virtual model generator — keep the same face across unlimited scenes from one selfie, no signup | [🔗](https://www.picovix.app/) |
 | Faceless Reels | Turn one topic into a voiced, captioned faceless video for TikTok, Reels, and Shorts. | [🔗](https://facelessreels.video/) |
 | Kling4 | AI video generator offering free daily credits, text-to-video, image-to-video, and ready-to-use video prompts. | [🔗](https://kling40.app/) |
+| HeyBop.ai | Turn your song into an AI music video, cut to the beat. | [🔗](https://heybop.ai/) |
+
 ## Conversational AI
 
 | Tools | Used for | Link |
