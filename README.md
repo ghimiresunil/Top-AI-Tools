@@ -101,6 +101,7 @@ Curated list of top AI Tools.
 | Kirkify AI | Upload a image and turn it into viral Kirkify memes in seconds | [🔗](https://kirkifyai.ai/) |
 | Moire Removal | AI-powered moiré pattern removal for screen photos and scanned prints. | [🔗](https://moireremoval.com/) |
 | Monet AI | Monet AI is a All-in-One AI Video, Image, Audio creation platform | [🔗](https://monet.vision/) |
+| Magic Hour | Generate and edit videos, images, and audio with text-to-video, image-to-video, face swap, and lip sync tools | [🔗](https://magichour.ai) |
 | ClipSpeedAI | AI-powered video clipping that automatically finds highlight moments from long-form videos for streamers and creators | [🔗](https://clipspeed.ai) |
 | CreatorSkills | Marketplace for AI skills (prompt instruction packages) targeting content creators — installs into Claude, ChatGPT, and 20+ AI agents | [🔗](https://creatorskills.co) |
 | Prefactor | AI agent runtime control plane for visibility and governance | [🔗](https://prefactor.tech/) |
