@@ -501,6 +501,7 @@ Curated list of top AI Tools.
 | LinkedGrow | Open source AI agents that find your leads and clients on LinkedIn, on a server you own | [🔗](https://linkedgrow.ai) |
 | BigPipe | AI that turns a marketing agency's expertise into a self-running company, building and operating its website, product, billing, and back office on autopilot. | [🔗](https://bigpipe.agency) |
 | LLM Pulse | Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines. | [🔗](https://llmpulse.ai/) |
+| AltoRank | Open-source SEO content software: readiness checks, keyword research and drafts into a review queue; self-host or hosted | [🔗](https://altorank.co/) |
 
 
 ## Productivity
