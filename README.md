@@ -619,6 +619,7 @@ Curated list of top AI Tools.
 | Sistava | Hire AI employees to run your entire business, from sales and marketing, to customer support | [🔗](https://sistava.com) |
 | TeamBrain | Shared workspace for AI teams | [🔗](https://teambrain.co/) |
 | AI Dictation | Open-source voice typing with offline recognition on supported devices and optional cleanup | [🔗](https://aidictation.com/) |
+| ImagineYourBook | AI book writing app that plans and drafts full manuscripts, keeps series continuity, and exports EPUB, Word, and Markdown | [🔗](https://www.imagineyourbook.com/) |
 
 ## Search Engines & Tools
 
