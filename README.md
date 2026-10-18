@@ -509,6 +509,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| Doc2X | AI document parsing and translation; PDF/images to Word, Markdown and LaTeX with formula/table recognition. Free trial; paid memberships/credits and per-page API. | [🔗](https://doc2x.noedgeai.com/) |
 | Tudo | AI task manager for iPhone that turns voice notes, screenshots, and text into organized tasks and plans. | [🔗](https://blynkai.app/tudo/) |
 | Remio | Local-first AI memory and knowledge base that parses files, webpages, recordings, emails, and notes into local indexes for faster personal-context retrieval | [🔗](https://remio.ai/) |
 | Orkas | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat | [🔗](https://orkas.ai/?source=gh_topaitools) |
