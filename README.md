@@ -64,6 +64,7 @@ Curated list of top AI Tools.
 | WizGenerator Story Generator | Free AI story generator with customizable genre, tone, characters, and plot details; no sign-up required | [🔗](https://wizgenerator.com/tools/story-generator/) |
 | eBank | eBank is a AI Art Generator and AI Art Search Engine where you can search millions of community AI Artworks. |   [🔗](https://eBank.nz)    |
 | Architecture Helper | Analyze any building architecture, and generate your own custom styles, in seconds. | [🔗](https://architecturehelper.com) |
+| Vocal Separator | Freemium AI vocal and four-stem separation with WAV downloads, loops, tempo and pitch controls for music practice | [🔗](https://vocalseparator.com/) |
 | VocalReplica | AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks | [🔗](https://vocalreplica.com/) |
 | voicetoinstrument.com | Convert voice to instrumental tracks using AI | [🔗](https://voicetoinstrument.com) |
 | Woopicx | AI-powered image search engine with 100,000+ free icons, illustrations, and 3D assets | [🔗](https://woopicx.com/) |
