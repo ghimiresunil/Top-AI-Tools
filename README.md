@@ -704,6 +704,7 @@ Curated list of top AI Tools.
 | SimplePerf | A simple, guided 360° performance review tool made for small teams | [🔗](https://buddieshr.com/simpleperf) |
 | AI Dev Jobs | AI/ML job board with public REST API for programmatic job search | [🔗](https://aidevboard.com)|
 | Resume Roaster | AI-powered resume critique with ATS scoring - upload your resume, get brutally honest feedback and keyword gap analysis against any job description. | [🔗](https://resume.roastlabai.com) |
+| NeverApply | AI job-search agent that matches jobs, tailors resumes and auto-applies with your approval | [🔗](https://neverapply.co) |
 
 ## Others
 
