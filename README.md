@@ -663,6 +663,7 @@ Curated list of top AI Tools.
 | Citely | AI citation checker and academic source finder for verifying references and claims. | [🔗](https://citely.ai/)|
 | 8bit Concepts | Free AI research papers on enterprise AI adoption and governance | [🔗](https://8bitconcepts.com)|
 | Court Rules | Free U.S. court rules, judge standing orders and holidays, with an MCP server for AI assistants | [🔗](https://www.courtrules.app/) |
+| Pulse | AI-moderated market research platform that runs customer interviews at scale | [🔗](https://pulsecorp.co) |
 
 ## Geospatial
 
