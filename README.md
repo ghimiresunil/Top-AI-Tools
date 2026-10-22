@@ -210,6 +210,7 @@ Curated list of top AI Tools.
 | free-background-remover.com | Removing image backgrounds in the browser with AI, no upload, no sign-up, no watermark | [🔗](https://free-background-remover.com)|
 | PartyInvitation.ai | Free AI party invitation card generator with online RSVP tracking for 38+ event types | [🔗](https://partyinvitation.ai/)|
 | voxelyo | AI photo enhancement + virtual twilight conversion for Airbnb, Vrbo, and real-estate listing photos | [🔗](https://voxelyo.com)|
+| APPLORE | AI app icon generator for iOS and Android, plus a library of 18,000+ real App Store and Google Play icons for reference | [🔗](https://applore.app/ai-app-icon-generator)|
 
 ## E-commerce
 
