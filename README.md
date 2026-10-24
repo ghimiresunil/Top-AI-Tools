@@ -412,6 +412,7 @@ Curated list of top AI Tools.
 | minimax h3 | AI video generator using text, images, video, and audio references with 768p/2K output | [🔗](https://minimax3.org) |
 | Image3D AI | All-in-one AI 3D platform integrating multiple AI 3D models with image-to-3D generation, AI texturing, retopology, UV unwrapping, and model splitting tools | [🔗](https://www.aiimageto3d.com/) |
 | Summoned Games | Build browser games by describing them to an MCP coding agent; hosting, leaderboards, saves and multiplayer are included | [🔗](https://summoned.games)|
+| 3D-Agent | Paid Blender AI agent and AI 3D model generator: text-to-3D modeling with clean quad topology, AI retopology, UVs, rigging, animation and rendering in your open Blender scene; exports OBJ/FBX/GLB/USDZ/STL | [🔗](https://3d-agent.com/blender-ai)|
 
 ## Sales/Marketing
 
