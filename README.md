@@ -303,6 +303,7 @@ Curated list of top AI Tools.
 | LearnClash | AI-powered 1v1 quiz duels on any topic, with an explanation after every answer and Elo-based matching | [🔗](https://learnclash.com) |
 
 | AIHumanLove | Free AI tools directory with 1,500+ tools, free AI courses for beginners, a 175+ prompt library, and 37 interactive experiments | [🔗](https://aihumanlove.com) |
+| Awesome AI Workflows | Curated list of free and freemium AI tools grouped by beginner workflows, with 17 workflow stacks and an open JSON/CSV dataset | [🔗](https://github.com/Daniyal-Khatri/awesome-ai-workflows) |
 ## Developer
 
 | Tools | Used for | Link |
