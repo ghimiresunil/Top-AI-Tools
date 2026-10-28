@@ -128,6 +128,7 @@ Curated list of top AI Tools.
 | Kling4 | AI video generator offering free daily credits, text-to-video, image-to-video, and ready-to-use video prompts. | [🔗](https://kling40.app/) |
 | HeyBop.ai | Turn your song into an AI music video, cut to the beat. | [🔗](https://heybop.ai/) |
 | Vidney | Multi-model AI video and image generator: 40+ models (Kling, Veo, Seedance, Wan, Grok Imagine, Nano Banana) in one workspace on one credit balance, with free credits to start. | [🔗](https://vidney.ai/) |
+| RefVid | Reference-to-video generator that keeps a character's face or a product's label the same in every clip, from 1–5 reference photos | [🔗](https://refvid.com/) |
 
 ## Conversational AI
 
