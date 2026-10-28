@@ -712,6 +712,7 @@ Curated list of top AI Tools.
 | AI Dev Jobs | AI/ML job board with public REST API for programmatic job search | [🔗](https://aidevboard.com)|
 | Resume Roaster | AI-powered resume critique with ATS scoring - upload your resume, get brutally honest feedback and keyword gap analysis against any job description. | [🔗](https://resume.roastlabai.com) |
 | JobEmerge | AI career copilot for job-fit analysis, resume translation, resume editing, and mock interviews | [🔗](https://www.jobemerge.work) |
+| JobFinder AI | AI job-search agent that finds matching openings, prepares and completes applications, reaches hiring managers, and tracks replies and follow-ups | [🔗](https://www.jobfinder-ai.com/) |
 
 ## Others
 
