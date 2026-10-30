@@ -648,6 +648,7 @@ Curated list of top AI Tools.
 | Hika AI| AI search for deeper thinking, not just find answers | [🔗](https://www.hika.fyi)|
 | AI Hotlist | Chinese AI tools, models, agents, and AI news hotlist updated every 6 hours | [🔗](https://aihot.bt199.com/)|
 | Not Human Search | Search engine for AI agents, indexing 1,100+ tools by agentic readiness | [🔗](https://nothumansearch.ai)|
+| FindAIforWork | Discover and compare AI tools by work scenario with a read-only remote MCP server | [🔗](https://findaiforwork.com) |
 
 ## Research Tools
 
