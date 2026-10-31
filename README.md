@@ -153,6 +153,7 @@ Curated list of top AI Tools.
 | Venice | Private and uncensored conversational AI | [🔗](https://venice.ai/) |
 | Typer | Free local AI chat for Mac — runs on-device, no account, no cloud, no ads | [🔗](https://typer.space)|
 | [Banana AI](https://bananaai.dev) | All-in-one AI generator for images, videos, music, and chat — multi-provider (Gemini, Replicate, Fal) | Free + Premium |
+| Prelulu | Real-time AI video stories: AI roleplay with characters, plus AI video call and AI video chat face to face on a live avatar you can interrupt | [🔗](https://prelulu.ai/ai-video-chat)|
 
 
 ## Design
