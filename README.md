@@ -694,6 +694,7 @@ Curated list of top AI Tools.
 | Beheard Labs | AI-Powered Customer Insight Platform | [🔗](https://www.gobeheard.com/) |
 | Rosie | AI Phone Answering Service | [🔗](https://heyrosie.com/) |
 | SwiftCall | AI phone answering and multipurpose agents for small businesses | [🔗](https://swiftcall.org/ai-receptionist) |
+| Odile After Hours | AI phone receptionist: answers 24/7 in 32 languages and texts the owner every call | [🔗](https://odilelabs.com/afterhours) |
 | Vidocu | Turn screen recordings into professional videos and documentation | [🔗](https://vidocu.ai/) |
 | AnveVoice | AI voice agent for websites — trains on your content, navigates pages, fills forms, books appointments in 50+ languages with <700ms latency | [🔗](https://anvevoice.app) |
 | Hellomatik | AI agent platform that turns company knowledge into agents that answer, sell and book across WhatsApp, email and web. | [🔗](https://hellomatik.com) |
