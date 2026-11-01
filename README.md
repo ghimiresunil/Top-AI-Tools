@@ -513,6 +513,7 @@ Curated list of top AI Tools.
 | BigPipe | AI that turns a marketing agency's expertise into a self-running company, building and operating its website, product, billing, and back office on autopilot. | [🔗](https://bigpipe.agency) |
 | LLM Pulse | Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines. | [🔗](https://llmpulse.ai/) |
 | AltoRank | Open-source SEO content software: readiness checks, keyword research and drafts into a review queue; self-host or hosted | [🔗](https://altorank.co/) |
+| AdVariq | AI ad creative and visual generator for solo founders, indie makers, and marketing teams to clone winning ads, edit product photos, and generate high-converting promotional assets | [🔗](https://advariq.com/) |
 
 
 ## Productivity
