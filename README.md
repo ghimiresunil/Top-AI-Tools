@@ -49,6 +49,9 @@ Curated list of top AI Tools.
 | DreamStudio | open-sourced image generation model to product realistic images | [🔗](https://stability.ai/)|
 | Lensa | AI-powered image editing app for avatars | [🔗](https://prisma-ai.com/lensa)|
 | Midjourney | AI-powered art generator | [🔗](https://www.midjourney.com/app/)|
+| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium |
+| [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit… | Freemium |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium |
 | Noble Shapes | AI Image Prompt Generator Assistant - Explore a curated collection of premium digital design assets. | [🔗](https://nobleshapes.com)|
 | Phraser | the collaborative creative AI tool | [🔗](https://phraser.tech)|
 | Playground | search prompts for art generation | [🔗](https://playgroundai.com/)|
