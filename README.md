@@ -371,6 +371,7 @@ Curated list of top AI Tools.
 | Gestell | Gestell takes your messy, unstructured data and turns it into organized, searchable databases | [🔗](https://gestell.ai) |
 | Langfa.st | Test and share AI prompts instantly. No signup. Built for engineers and product teams. | [🔗](https://www.langfa.st) |
 | SocialKit | Analyze Social Media Videos with a simple API | [🔗](https://www.socialkit.dev/) |
+| LurkAPI | Public posts, profiles, ads and transcripts from 16 social platforms as JSON, through an API or an MCP server for AI agents | [🔗](https://lurkapi.com) |
 | DeepDocs | AI that updates docs when you ship code | [🔗](https://deepdocs.dev/) |
 | AI for Database | Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. | [🔗](https://aifordatabase.com) |
 | Chat2DB | AI SQL Generator for Easy Database Management | [🔗](https://chat2db.ai/) |
