@@ -310,6 +310,7 @@ Curated list of top AI Tools.
 
 | AIHumanLove | Free AI tools directory with 1,500+ tools, free AI courses for beginners, a 175+ prompt library, and 37 interactive experiments | [🔗](https://aihumanlove.com) |
 | Awesome AI Workflows | Curated list of free and freemium AI tools grouped by beginner workflows, with 17 workflow stacks and an open JSON/CSV dataset | [🔗](https://github.com/Daniyal-Khatri/awesome-ai-workflows) |
+| AI My Day | Free plain-English guides and prompts for using ChatGPT, Claude and Gemini on everyday jobs like meal plans, budgets, family admin and email, plus a quiz that points you to the right tool | [🔗](https://aimyday.co) |
 ## Developer
 
 | Tools | Used for | Link |
