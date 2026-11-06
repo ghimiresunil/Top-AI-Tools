@@ -250,7 +250,8 @@ Curated list of top AI Tools.
 
 ... [OUTPUT TRUNCATED - 17308 chars omitted out of 67308 total] ...
 
-| [🔗](https://www.salesably.ai/) || DisconfirmAI | Investment research and reading platform built around disconfirmation: daily open-source reading, filings and data research, condition radar, personal investment framework, AI 100 list and industry maps | [🔗](https://disconfirmai.com/en) |
+| [🔗](https://www.salesably.ai/) |
+| DisconfirmAI | Investment research and reading platform built around disconfirmation: daily open-source reading, filings and data research, condition radar, personal investment framework, AI 100 list and industry maps | [🔗](https://disconfirmai.com/en) |
 
 ## Education
 - [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
