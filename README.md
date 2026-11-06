@@ -250,7 +250,8 @@ Curated list of top AI Tools.
 
 ... [OUTPUT TRUNCATED - 17308 chars omitted out of 67308 total] ...
 
-| [🔗](https://www.salesably.ai/) |
+| [🔗](https://www.salesably.ai/) || DisconfirmAI | Investment research and reading platform built around disconfirmation: daily open-source reading, filings and data research, condition radar, personal investment framework, AI 100 list and industry maps | [🔗](https://disconfirmai.com/en) |
+
 ## Education
 - [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 - [Aural](https://github.com/1146345502/aural-oss) - Open-source, self-hostable AI interview platform for voice, chat, and video interviews with adaptive follow-ups and automated reports.
@@ -680,6 +681,7 @@ Curated list of top AI Tools.
 | Citely | AI citation checker and academic source finder for verifying references and claims. | [🔗](https://citely.ai/)|
 | 8bit Concepts | Free AI research papers on enterprise AI adoption and governance | [🔗](https://8bitconcepts.com)|
 | Court Rules | Free U.S. court rules, judge standing orders and holidays, with an MCP server for AI assistants | [🔗](https://www.courtrules.app/) |
+| DisconfirmAI | Investment research platform that looks for evidence that could overturn a thesis before locking it in | [🔗](https://disconfirmai.com/en) |
 
 ## Geospatial
 
