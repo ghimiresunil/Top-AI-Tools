@@ -134,6 +134,7 @@ Curated list of top AI Tools.
 | Wizmade | All-in-one AI video and image generation platform with Kling, Veo 3.1, Seedance, FLUX, and viral video effects | [🔗](https://wizmade.si/) |
 | Seedance Now | Multi-model AI video generator: text-to-video and image-to-video with Seedance 2.5, Kling 4.0 and Wan 3.0, up to 30s at 1080p with no watermark; independent, not affiliated with ByteDance. | [🔗](https://seedancenow.com/) |
 | ThumbnailSnap | AI YouTube, Shorts and TikTok thumbnails with an editable text layer; cropping your own photo to size and adding text is free in the browser | [🔗](https://thumbnailsnap.com/youtube-thumbnail-maker) |
+| AgentCraft Seedance 2.5 Prompts | 593 Seedance 2.5 video prompts kept verbatim from creators, each with the video it made, plus Kling 4.0 and Nano Banana 2.1 collections. Free. | [🔗](https://agentcraft.dev/en/prompts/video/seedance-2-5/) |
 
 ## Conversational AI
 
