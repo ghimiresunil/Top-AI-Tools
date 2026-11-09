@@ -799,6 +799,8 @@ Curated list of top AI Tools.
 | Image Translate AI  | Image Translate AI - Instant Image Translate for 200+ Languages |[🔗](https://imagetranslateai.org/)|
 | Tree Identifier  | Upload a photo of a leaf, bark, flower, fruit, or the full tree and get an AI-powered identification with clear field-guide notes. |[🔗](https://treeidentifier.org/)|
 | Siteefy | Discover and compare digital tools by category and use case | [🔗](https://siteefy.com/) |
+| Bird Sound && Noise Identifier | Bird Sound && Noise Identifier: Identify Bird From Calls Online |[🔗](https://birdsoundidentifier.org/)|
+| Cloud Type Identifier | What Type of Cloud Is This?——Cloud Identifier Online |[🔗](https://whatisthiscloud.org/)|
 
 ## Contributors 😍
 
