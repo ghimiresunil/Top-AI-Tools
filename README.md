@@ -524,6 +524,7 @@ Curated list of top AI Tools.
 | LLM Pulse | Monitors brand mentions, citations, sentiment, and competitor share of voice across AI search engines. | [🔗](https://llmpulse.ai/) |
 | AltoRank | Open-source SEO content software: readiness checks, keyword research and drafts into a review queue; self-host or hosted | [🔗](https://altorank.co/) |
 | AdVariq | AI ad creative and visual generator for solo founders, indie makers, and marketing teams to clone winning ads, edit product photos, and generate high-converting promotional assets | [🔗](https://advariq.com/) |
+| Revenue Scout | Finds public posts from people who need what you sell. Drafts replies you can review and post. | [🔗](https://revenuescout.ai/) |
 
 
 ## Productivity
