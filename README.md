@@ -611,6 +611,7 @@ Curated list of top AI Tools.
 | Supercamp | AI workspace for business | [🔗](https://supercamp.ai/) |
 | PodcastAdBlock | Remove ads from any podcast feed with AI | [🔗](https://podcastadblock.app/) |
 | Mocha | AI app builder | [🔗](https://getmocha.com) |
+| IdeaMade | Build and publish web apps from plain-language requirements, with editable blueprints and version history | [🔗](https://ideamade.ai/) |
 | Image to Prompt Generator | An AI Chrome extension to turn any image into a detailed prompt | [🔗](https://imageprompt.dev/) 
 | Gamma | An AI-powered slide and presentation tool that helps you create beautiful, structured decks with minimal effort. Ideal for storytelling, pitching, and visual communication. | [🔗](https://gamma.app/) |
 | Alai | Create high quality presentations with AI | [🔗](https://getalai.com) |
