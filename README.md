@@ -525,6 +525,7 @@ Curated list of top AI Tools.
 | AltoRank | Open-source SEO content software: readiness checks, keyword research and drafts into a review queue; self-host or hosted | [🔗](https://altorank.co/) |
 | AdVariq | AI ad creative and visual generator for solo founders, indie makers, and marketing teams to clone winning ads, edit product photos, and generate high-converting promotional assets | [🔗](https://advariq.com/) |
 | Revenue Scout | Finds public posts from people who need what you sell. Drafts replies you can review and post. | [🔗](https://revenuescout.ai/) |
+| Wavegrain | Makes TikTok slideshows and Instagram carousels for a brand from its website and photos, then schedules and posts them. Hosted MCP server for AI agents. | [🔗](https://wavegrain.com/) |
 
 
 ## Productivity
