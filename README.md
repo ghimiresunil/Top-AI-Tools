@@ -136,6 +136,7 @@ Curated list of top AI Tools.
 | ThumbnailSnap | AI YouTube, Shorts and TikTok thumbnails with an editable text layer; cropping your own photo to size and adding text is free in the browser | [🔗](https://thumbnailsnap.com/youtube-thumbnail-maker) |
 | AgentCraft Seedance 2.5 Prompts | 593 Seedance 2.5 video prompts kept verbatim from creators, each with the video it made, plus Kling 4.0 and Nano Banana 2.1 collections. Free. | [🔗](https://agentcraft.dev/en/prompts/video/seedance-2-5/) |
 | PicYep | Create AI photos, images and short videos from text or reference photos | [🔗](https://picyep.com) |
+| PalaPili | Free AI photo enhancer & image editor: unblur faces, upscale to 4K, edit by text prompts, plus cinematic AI video | [🔗](https://palapili.com) |
 
 ## Conversational AI
 
