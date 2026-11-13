@@ -24,10 +24,9 @@ Curated list of top AI Tools.
 | Wan3Video | Independent browser-based Wan 3.0 text-to-video and image-to-video generator with prompt guides and model comparisons | Free + Premium |
 | DoreArt AI | AI music generator for creating original songs, vocals, lyrics, and instrumental tracks from text prompts | [🔗](https://doreartai.com) |
 | AI Dog Generator | Create AI-generated dog photos or transform your own dog into a variety of artistic styles | [🔗](https://aidoggenerator.com) |
-| [NanoBanana2](https://nanobanana2.com) | Free AI image generator with trend-aware templates, multiple AI models, and advanced editing tools | Free + Premium |
+| Plykit | AI image generation and editing for independent makers, including coloring pages and book covers for KDP projects | [🔗](https://plykit.ai/kdp/coloring-book-maker) |
 | [ThumblifyAI](https://thumblifyai.com) | AI thumbnail generator that lets creators generate, recreate, and edit YouTube thumbnails in their own style or face | Free + Premium |
 | [igly.ai](https://igly.ai) | Free AI image editor with 12+ tools for e-commerce — background removal, generation, inpainting, upscaling | Free |
-| NanoBanana2 | Free AI image generator with trend-aware templates, multiple AI models, and advanced editing tools | [🔗](https://nanobanana2.com) |
 | ThumblifyAI | AI thumbnail generator that lets creators generate, recreate, and edit YouTube thumbnails in their own style or face | [🔗](https://thumblifyai.com) |
 | igly.ai | Free AI image editor with 12+ tools for e-commerce — background removal, generation, inpainting, upscaling | [🔗](https://igly.ai)) |
 |AI Baby Dance|Turn photos into dancing videos|[🔗](https://aibabydance.com)|
