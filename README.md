@@ -645,6 +645,7 @@ Curated list of top AI Tools.
 | TeamBrain | Shared workspace for AI teams | [🔗](https://teambrain.co/) |
 | AI Dictation | Open-source voice typing with offline recognition on supported devices and optional cleanup | [🔗](https://aidictation.com/) |
 | VoxSail | Translate video and audio, create AI dubbing, and review subtitles in a browser; paid plans with one-time starter credits. | [🔗](https://voxsail.com/en/) |
+| Glasp | Browser extension and web app that shows YouTube video transcripts with AI summaries, highlights web pages and PDFs, and exports notes to Markdown, Notion and Obsidian | [🔗](https://glasp.co/) |
 
 ## Search Engines & Tools
 
