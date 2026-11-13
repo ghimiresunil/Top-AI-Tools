@@ -249,6 +249,7 @@ Curated list of top AI Tools.
 | HostDeFi | Free multi-chain token risk scanner — instant on-chain safety grades for Solana and EVM tokens, plus x402 agent API | [🔗](https://hostdefi.com/scan) |
 | PolyMind | Real-time Polymarket prediction market alerts with multi-AI analysis. 12 signal types: whale bets, volume spikes, coordinated wallets and more. | [🔗](https://polymi
 | Bank Statement Converter AI | Bank Statement Converter AI: Convert PDF to Excel | [🔗](https://bankstatement-wizard.net/bank-statement-converter-ai) |
+| Eva Split | AI Receipt Splitting and Expense Tracking App | [🔗](https://evasplit.com/) |
 
 ... [OUTPUT TRUNCATED - 17308 chars omitted out of 67308 total] ...
 
