@@ -409,6 +409,7 @@ Curated list of top AI Tools.
 | Aident Loadout | Hosted MCP server and CLI that gives Claude Code, Codex, Cursor and other AI agents shared app connections and 400+ Skills, with a credential vault, a cost preview before each action and an audit log. Free pay-as-you-go tier. | [🔗](https://aident.ai) |
 | Datacircle | Datacircle lists all the GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor. | [🔗](https://datacircle.dev/) |
 | deed.page | Static site hosting for AI agents. One HTTP request or MCP tool call publishes files to a permanent deed.page subdomain URL, with no account needed. Free plan without a card. | [🔗](https://deed.page) |
+| npmscan | Remote MCP server for AI coding agents that checks npm packages before install: known vulnerabilities, malware, typosquats, maintainer changes and install scripts. Free, no API key. | [🔗](https://npmscan.com/) |
 
 
 ## Gaming, 3D, Motion
