@@ -145,6 +145,7 @@ Curated list of top AI Tools.
 | Rizz AI | Rizz AI GPT: Free Rizz Online App, Unlimited Rizz Chat Bot. | [🔗](https://www.rizzlines.app/)|
 | Honer AI | Android AI assistant for chat, writing, translation, and web search with sources, with Russian and English interfaces | [🔗](https://xoner4.github.io/)|
 | Character.AI | conversational AI for open-ended conversations | [🔗](https://beta.character.ai/)|
+| Sammi: AI Girlfriend | Android fictional AI character chat with voice interaction, customization and creative roleplay; free download with in-app purchases. | [🔗](https://sammiai.app/) |
 | DreamjourneyAI | AI roleplay and character chat platform | [🔗](https://dreamjourneyai.com)
 | ChatGPT (by OpenAI) | conversational AI system powered by large language models | [🔗](https://chat.openai.com/)|
 | Gemini (by Google) | conversational AI chat service from Google that can access and process information from the web | [🔗](https://gemini.google.com/)|
