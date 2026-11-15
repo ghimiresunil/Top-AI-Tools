@@ -806,6 +806,7 @@ Curated list of top AI Tools.
 | Siteefy | Discover and compare digital tools by category and use case | [🔗](https://siteefy.com/) |
 | Bird Sound && Noise Identifier | Bird Sound && Noise Identifier: Identify Bird From Calls Online |[🔗](https://birdsoundidentifier.org/)|
 | Cloud Type Identifier | What Type of Cloud Is This?——Cloud Identifier Online |[🔗](https://whatisthiscloud.org/)|
+| AI Image Detection | Check whether an image is likely AI-generated: reads Content Credentials (C2PA) and metadata first, then a detection model, and shows the reasons. Free daily checks, no sign-up |[🔗](https://aiimagedetection.app/)|
 
 ## Contributors 😍
 
