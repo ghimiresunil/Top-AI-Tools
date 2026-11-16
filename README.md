@@ -672,6 +672,7 @@ Curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Consensus | AI powered search for research papers | [🔗](https://consensus.app/)|
+| HumanPen | Document rewriting, citation conversion, condensation, and translation; free signup credits, then paid credits | [🔗](https://humanpen.net) |
 | Elicit | an AI research assistant | [🔗](https://elicit.org/)|
 | Explainpaper | an AI research assistant | [🔗](https://www.explainpaper.com/)|
 | Expontum | AI generated research knowledge gaps| [🔗](https://www.expontum.com/)|
