@@ -151,6 +151,7 @@ Curated list of top AI Tools.
 | Gemini (by Google) | conversational AI chat service from Google that can access and process information from the web | [🔗](https://gemini.google.com/)|
 | DoNotPay | the world's first robot lawyer | [🔗](https://donotpay.com/)|
 | Replika | an AI companion | [🔗](https://replika.ai/)|
+| Adoree | AI relationship assistant for couples: each partner talks privately, and it helps you both say what you mean and find a constructive next step | [🔗](https://adoree.ai/?utm_source=github-ghimiresunil&utm_medium=directory&utm_campaign=launch_nov2026)|
 | Kissable | AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages | [🔗](https://kissable.app)|
 | Breezy | Real-time AI voice chat with unique characters | [🔗](https://talkbreezy.com/)|
 | DoaCam | AI video companion with a 3D avatar that sees you through your camera, talks in real time, and remembers you | [🔗](https://doacam.com)|
