@@ -53,6 +53,12 @@ Curated list of top AI Tools.
 |------|------:|:----:|
 | Whisper Web | 免费的浏览器端 AI 语音转文字工具，基于 OpenAI Whisper，支持本地处理、100+ 语言以及 TXT/SRT/VTT/JSON 导出 | [🔗](https://whisperweb.dev/) |
 
+## 科研工具 / Research Tools
+
+| 工具 | 用途 | 链接 |
+|------|------:|:----:|
+| HumanPen | 文档改写、引用格式转换、精简和翻译；注册获赠一次性试用积分，超出后按积分付费 | [🔗](https://humanpen.net) |
+
 > 注：上面为 README 中“艺术与创造”分类的部分条目示例。原 README 文件包含大量类别与条目（如：聊天、客服、生产力、开发者工具、数据工具等）。我将分批把剩余部分翻译并人工润色，直至完成整个 README 及仓库内所有文档。
 
 ---
