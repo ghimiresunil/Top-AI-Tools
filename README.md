@@ -492,6 +492,7 @@ Curated list of top AI Tools.
 | Outlier Kit | Discover YouTube niches, trends & Keywords to grow your channel faster | [🔗](https://outlierkit.com/) |
 | Wave Instagram Outreach | Automate Instagram outreach to find leads, send DMs, and get clients | [🔗](https://www.usewave.co) |
 | Postiz | AI Social Media Scheduling Tool | [🔗](https://www.postiz.com) |
+| Hermoso | Marketing tools for AI agents: make ads, post to social channels and run ad campaigns from ChatGPT, Claude or any agent | [🔗](https://hermoso.ai/) |
 | SalesAgent Chat | AI Sales Coach & Copilot for real-time support | [🔗](https://www.salesagent.chat) |
 | LinkRocket | Earn Credits. Build Backlinks. Dominate Rankings | [🔗](https://linkrocket.ai) |
 | Serplux | 400+ AI Tools and AI Agents for digital marketing | [🔗](https://serplux.com/) |
