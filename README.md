@@ -225,6 +225,7 @@ Curated list of top AI Tools.
 | APPLORE | AI app icon generator for iOS and Android, plus a library of 18,000+ real App Store and Google Play icons for reference | [🔗](https://applore.app/ai-app-icon-generator)|
 | FontVibe | AI text effect and lettering designs for logos, banners and thumbnails, with 390+ AI fonts and 130+ visual styles. Free to try | [🔗](https://fontvibe.ai/) |
 | RoomLab.app | AI virtual staging, room restyling, decluttering and walkthrough videos for real-estate and interior design photos | [🔗](https://roomlab.app)|
+| 3DRoomDesign.ai | AI floor plan conversion to editable 3D room designs, furniture layout and interior rendering | [🔗](https://3droomdesign.ai/) |
 
 ## E-commerce
 
