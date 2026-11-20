@@ -89,6 +89,7 @@ Curated list of top AI Tools.
 | Nano Banana AI | Edit, restyle, transform, and recreate images with text prompt. | [🔗](https://banana-ai.org)
 | Nano Banana Free | AI image and video editing workspace with multiple AI tools for retouching, generation, and background cleanup. | [🔗](https://nanobananafree.org) |
 | EchoWave | Online video editor | [🔗](https://echowave.io/)
+| Vidmoat | Agentic AI video editor: Otto edits your footage on a real timeline with captions, colour, music, voice and reframing | [🔗](https://vidmoat.com/?utm_source=ghimiresunil-top-ai-tools&utm_medium=directories-bot&utm_campaign=2026-11-20-am) |
 | Storyshort AI | Create viral faceless videos on Auto-Pilot. | [🔗](https://storyshort.ai/)
 | FacelessVideos.app | Turn text prompts into viral faceless videos for YouTube Shorts, TikTok, and Reels. | [🔗](https://facelessvideos.app/) |
 | PDFtoVideo | Convert PDF & Any Contents to Video Online Free | [🔗](https://pdftovideo.ai/)
