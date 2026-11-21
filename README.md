@@ -624,6 +624,7 @@ Curated list of top AI Tools.
 |AI Cover Letter Generator|AI-powered tool to create professional cover letters instantly|[🔗](https://ai-coverletter-generator.com/)|
 | AI Browser | Automate web tasks using just prompts. | [🔗](https://aibrowser.surf/)|
 | Fantastic Portfolios | An AI-powered portfolio website builder within 30 seconds. | [🔗](https://fantasticportfolios.com/) |
+| Ginta | AI website builder for small businesses: describe the business and get a live website with contact forms, bookings, an online shop and a blog; also works from Claude and ChatGPT through its MCP server. Free plan; custom domains on paid plans. | [🔗](https://ginta.app/) |
 | Video Transcriber | Transcribe Video to Text Online Free | [🔗](https://videotranscriber.ai/) |
 | Audio Converter | Convert Audio to Text Online Free | [🔗](https://audioconverter.ai/) |
 | TikTok Transcript | Extract TikTok subtitles and download transcripts in SRT or TXT. | [🔗](https://tiktoktranscript.org/) |
