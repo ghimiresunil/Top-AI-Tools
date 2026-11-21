@@ -650,6 +650,7 @@ Curated list of top AI Tools.
 | TeamBrain | Shared workspace for AI teams | [🔗](https://teambrain.co/) |
 | AI Dictation | Open-source voice typing with offline recognition on supported devices and optional cleanup | [🔗](https://aidictation.com/) |
 | VoxSail | Translate video and audio, create AI dubbing, and review subtitles in a browser; paid plans with one-time starter credits. | [🔗](https://voxsail.com/en/) |
+| SubtitleGenerator | Browser AI subtitle generator: generate, fix, style and export video subtitles. First video up to 10 minutes free, no signup. | [🔗](https://subtitlegenerator.app/) |
 
 ## Search Engines & Tools
 
