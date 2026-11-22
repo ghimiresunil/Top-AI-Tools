@@ -91,6 +91,7 @@ Curated list of top AI Tools.
 | EchoWave | Online video editor | [🔗](https://echowave.io/)
 | Storyshort AI | Create viral faceless videos on Auto-Pilot. | [🔗](https://storyshort.ai/)
 | FacelessVideos.app | Turn text prompts into viral faceless videos for YouTube Shorts, TikTok, and Reels. | [🔗](https://facelessvideos.app/) |
+| RemakeThat | Remake a winning TikTok or Facebook video into an original faceless clip with a fresh script and AI creator | [🔗](https://remakethat.com/) |
 | PDFtoVideo | Convert PDF & Any Contents to Video Online Free | [🔗](https://pdftovideo.ai/)
 | videos.social | Turns blogs, PDFs, and prompts into editable faceless videos. | [🔗](https://videos.social/?utm_source=ghimiresunil-top-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) |
 | OpenCreator | All-in-one AI workspace for creating product visuals with workflow automation | [🔗](https://opencreator.ai/)
