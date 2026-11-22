@@ -22,6 +22,7 @@ Curated list of top AI Tools.
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
 | Wan3Video | Independent browser-based Wan 3.0 text-to-video and image-to-video generator with prompt guides and model comparisons | Free + Premium |
+| [AI Rap Video](https://rapaivideo.net) | Turns two selfies into a lip-synced rap music video with original AI-written lyrics and a generated beat — video ready in about three minutes | Free + Premium |
 | DoreArt AI | AI music generator for creating original songs, vocals, lyrics, and instrumental tracks from text prompts | [🔗](https://doreartai.com) |
 | AI Dog Generator | Create AI-generated dog photos or transform your own dog into a variety of artistic styles | [🔗](https://aidoggenerator.com) |
 | [NanoBanana2](https://nanobanana2.com) | Free AI image generator with trend-aware templates, multiple AI models, and advanced editing tools | Free + Premium |
