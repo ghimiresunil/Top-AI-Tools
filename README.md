@@ -390,7 +390,7 @@ Curated list of top AI Tools.
 | AIHOT Free AI Credits | Find free model and API allowances and check how to claim them in a Chinese-language directory | [🔗](https://aihot.news/free-tokens) |
 | Price Per Token | Compare LLM API pricing across 300+ models with token counters and benchmarks | [🔗](https://pricepertoken.com/) |
 | TestSprite | The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow. | [🔗](https://www.testsprite.com/) |
-| Agent QA | Source-available CLI and MCP server for orchestrating agent-led QA workflows across web, Android, and iOS targets. | [🔗](https://github.com/vostride/agent-qa) |
+| Agent QA | Self-improving QA agent for natural-language web and mobile tests, with execution memory and UI-change adaptation. | [🔗](https://github.com/vostride/agent-qa) |
 | Omnara | Command Center for AI Coding Agents. | [🔗](https://www.omnara.com/) |
 | SpeedUp AI | End-to-End AI Circuit Schematic Design | [🔗](https://speed-up.ai/) |
 | Xquik | X/Twitter data platform with AI agent integration — MCP server, REST API, 20 extraction tools. | [🔗](https://github.com/Xquik-dev/x-twitter-scraper) |
