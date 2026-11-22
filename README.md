@@ -21,6 +21,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| [만화 번역기 AI](https://www.mangatranslate.com/ko/ai-manga-translator/) | Ficory LLC의 기업급 만화 번역기는 100개 이상의 언어와 지원되는 모든 번역 언어로 만화를 번역합니다. 개인 사용자는 일괄·맞춤 번역을 수행하고, 스튜디오는 완전한 온라인 Photoshop 편집기로 만화 이미지를 편집하며, 개발자와 개인 사용자는 API를 개인 작업 흐름에 통합합니다. | Freemium |
 | Wan3Video | Independent browser-based Wan 3.0 text-to-video and image-to-video generator with prompt guides and model comparisons | Free + Premium |
 | DoreArt AI | AI music generator for creating original songs, vocals, lyrics, and instrumental tracks from text prompts | [🔗](https://doreartai.com) |
 | AI Dog Generator | Create AI-generated dog photos or transform your own dog into a variety of artistic styles | [🔗](https://aidoggenerator.com) |
