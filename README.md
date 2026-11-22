@@ -718,7 +718,7 @@ Curated list of top AI Tools.
 | Odile After Hours | AI phone receptionist: answers 24/7 in 32 languages and texts the owner every call | [🔗](https://odilelabs.com/afterhours) |
 | Vidocu | Turn screen recordings into professional videos and documentation | [🔗](https://vidocu.ai/) |
 | AnveVoice | AI voice agent for websites — trains on your content, navigates pages, fills forms, books appointments in 50+ languages with <700ms latency | [🔗](https://anvevoice.app) |
-| Hellomatik | AI agent platform that turns company knowledge into agents that answer, sell and book across WhatsApp, email and web. | [🔗](https://hellomatik.com) |
+| Hellomatik | AI agents that prepare a company's decisions from one blueprint of its data, procedures and formulas, for an approver to accept, amend or reject. | [🔗](https://hellomatik.com) |
 
 ## Phone Calls
 
