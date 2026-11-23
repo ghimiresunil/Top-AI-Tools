@@ -237,6 +237,7 @@ Curated list of top AI Tools.
 | Picoko | Create studio-quality product images in seconds,Instantly generate model shots, lifestyle scenes & more  | [🔗](https://www.picoko.com/) |
 | DressMeAI | AI virtual try-on that shows how an outfit looks on your body from a user photo and garment image, priced per try-on with no subscription | [🔗](https://dressmeai.com/) |
 | ECFotos | AI photo editor for e-commerce product images, listing visuals, background removal, upscaling, collage making, and image editing workflows | [🔗](https://ecfotos.com/) |
+| Caspa AI | AI product photos and videos for online stores, from one product photo | [🔗](https://www.caspa.ai/) |
 
 ## Finance
 
