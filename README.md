@@ -815,6 +815,7 @@ Curated list of top AI Tools.
 | Siteefy | Discover and compare digital tools by category and use case | [🔗](https://siteefy.com/) |
 | Bird Sound && Noise Identifier | Bird Sound && Noise Identifier: Identify Bird From Calls Online |[🔗](https://birdsoundidentifier.org/)|
 | Cloud Type Identifier | What Type of Cloud Is This?——Cloud Identifier Online |[🔗](https://whatisthiscloud.org/)|
+| CUBE | CUBE is a Common Data Environment and construction project management platform for AEC teams that need document control, model coordination, and project delivery without the overhead of a large enterprise system. | [🔗](https://www.cube.ms/) |
 
 ## Contributors 😍
 
