@@ -414,6 +414,7 @@ Curated list of top AI Tools.
 | deed.page | Static site hosting for AI agents. One HTTP request or MCP tool call publishes files to a permanent deed.page subdomain URL, with no account needed. Free plan without a card. | [🔗](https://deed.page) |
 | MoeRouter | A usage-based gateway for Claude, GPT and Gemini APIs, with cost-aware routing and CNY billing. | [🔗](https://moerouter.com/) |
 | Great Work Labs | 31 small task models (moderation, prompt-injection detection, embeddings, rerank, OCR, speech to text) behind one prepaid per-call API, with an MCP server. | [🔗](https://labs.greatwork.company/?ref=top-ai-tools) |
+| Scalekit | AI agent integrations platform and MCP gateway: connects AI agents to 1,100+ apps and 55,000+ tools, with each call made on behalf of the end user, tools scoped per agent and every call logged. Free plan available. | [🔗](https://www.scalekit.com/) |
 
 
 ## Gaming, 3D, Motion
