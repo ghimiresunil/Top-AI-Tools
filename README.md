@@ -137,6 +137,7 @@ Curated list of top AI Tools.
 | AgentCraft Seedance 2.5 Prompts | 593 Seedance 2.5 video prompts kept verbatim from creators, each with the video it made, plus Kling 4.0 and Nano Banana 2.1 collections. Free. | [🔗](https://agentcraft.dev/en/prompts/video/seedance-2-5/) |
 | PicYep | Create AI photos, images and short videos from text or reference photos | [🔗](https://picyep.com) |
 | PalaPili | Free AI photo enhancer & image editor: unblur faces, upscale to 4K, edit by text prompts, plus cinematic AI video | [🔗](https://palapili.com) |
+| AI Holiday Portraits | AI Christmas family photos made from separate pictures of each person and pet, with a printable 5 x 7 in card; free watermarked preview, one-time galleries from $9 | [🔗](https://aiholidayportraits.com/) |
 
 ## Conversational AI
 
