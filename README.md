@@ -654,6 +654,7 @@ Curated list of top AI Tools.
 | AI Dictation | Open-source voice typing with offline recognition on supported devices and optional cleanup | [🔗](https://aidictation.com/) |
 | VoxSail | Translate video and audio, create AI dubbing, and review subtitles in a browser; paid plans with one-time starter credits. | [🔗](https://voxsail.com/en/) |
 | SubtitleGenerator | Browser AI subtitle generator: generate, fix, style and export video subtitles. First video up to 10 minutes free, no signup. | [🔗](https://subtitlegenerator.app/) |
+| Voiceshard | Free AI text to speech with realistic and character voices: create and listen with no signup, sign in free to download. | [🔗](https://voiceshard.com/) |
 
 ## Search Engines & Tools
 
