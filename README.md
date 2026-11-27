@@ -695,6 +695,7 @@ Curated list of top AI Tools.
 | 8bit Concepts | Free AI research papers on enterprise AI adoption and governance | [🔗](https://8bitconcepts.com)|
 | Court Rules | Free U.S. court rules, judge standing orders and holidays, with an MCP server for AI assistants | [🔗](https://www.courtrules.app/) |
 | KissMyPost | Reddit audience research: semantic subreddit search, audience stats and an MCP server for AI assistants | [🔗](https://kissmypost.com) |
+| Frank AI Researcher | AI-moderated voice interviews with your own customers in 50+ languages, with transcripts and themes; available as an app in ChatGPT and as a remote MCP server; free plan with 60 voice minutes a month | [🔗](https://www.hifrank.ai/?utm_source=ghimiresunil-top-ai-tools&utm_medium=directory&utm_campaign=chatgpt-app) |
 
 ## Geospatial
 
