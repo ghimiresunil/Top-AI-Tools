@@ -533,6 +533,7 @@ Curated list of top AI Tools.
 | AdVariq | AI ad creative and visual generator for solo founders, indie makers, and marketing teams to clone winning ads, edit product photos, and generate high-converting promotional assets | [🔗](https://advariq.com/) |
 | Revenue Scout | Finds public posts from people who need what you sell. Drafts replies you can review and post. | [🔗](https://revenuescout.ai/) |
 | BulkPublish | Schedule and publish posts to real social media accounts on 15 networks from one dashboard, REST API or hosted MCP server for AI agents | [🔗](https://www.bulkpublish.com) |
+| Tweenery | AI agent that turns an idea or a post you like into a ready-to-post Instagram carousel or TikTok slideshow; free plan available | [🔗](https://tweenery.com/) |
 
 
 ## Productivity
