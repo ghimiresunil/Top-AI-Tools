@@ -41,6 +41,7 @@ Curated list of top AI Tools.
 | PortraitLabs.AI | Take photos of yourself using AI and edit images easily | [🔗](https://portraitlabs.ai)|
 | Lunalisa | AI creative workspace for product photos, marketing posters, and white-background listing images, with image-to-video across 13 image and 22 video models | [🔗](https://luna-lisa.art)|
 | Remix Camera | Generate consistent AI portraits from reference photos with reusable characters and multiple image models | [🔗](https://remix.camera) |
+| MakeAICreator | Design a virtual influencer from a plain description and generate face-consistent photos, voiceover videos, and product-placement clips | [🔗](https://makeaicreator.com)|
 | AIvector | Not Just Converter: AI Vector Engine for Perfect SVG. | [🔗](https://aivector.ai/)
 | FigPad | Create scientific figures from prompts, sketches, and reference images with editable SVG/PPTX export | [🔗](https://figpad.ai/) |
 | AI Magic Tools (by runway) | creativity tools to edit and generate content | [🔗](https://runwayml.com/ai-magic-tools/)|
