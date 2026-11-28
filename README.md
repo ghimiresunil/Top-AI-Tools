@@ -723,6 +723,7 @@ Curated list of top AI Tools.
 | Vidocu | Turn screen recordings into professional videos and documentation | [🔗](https://vidocu.ai/) |
 | AnveVoice | AI voice agent for websites — trains on your content, navigates pages, fills forms, books appointments in 50+ languages with <700ms latency | [🔗](https://anvevoice.app) |
 | Hellomatik | AI agent platform that turns company knowledge into agents that answer, sell and book across WhatsApp, email and web. | [🔗](https://hellomatik.com) |
+| Genaya | AI receptionist that answers calls, texts and chats for service businesses, in one app with scheduling, CRM, estimates, invoices and payments. Paid, with a 14-day free trial. | [🔗](https://www.genaya.com/) |
 
 ## Phone Calls
 
