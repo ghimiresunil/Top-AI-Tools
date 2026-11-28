@@ -539,6 +539,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| Tesseract | Desktop app for Mac, Windows and Linux where an AI agent makes Word documents, spreadsheets, presentations, PDFs and websites from a plain request, using your own Claude or ChatGPT plan. Free; optional paid plan. | [🔗](https://tesseract.dev/) |
 | Novastart | Infinite-canvas whiteboard OS for apps, shared canvases, and AI agents. Free plan with paid upgrades. | [🔗](https://novastart.com/) |
 | Doc2X | AI document parsing and translation; PDF/images to Word, Markdown and LaTeX with formula/table recognition. Free trial; paid memberships/credits and per-page API. | [🔗](https://doc2x.noedgeai.com/) |
 | Tudo | AI task manager for iPhone that turns voice notes, screenshots, and text into organized tasks and plans. | [🔗](https://blynkai.app/tudo/) |
